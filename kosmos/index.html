@@ -1,0 +1,56 @@
+<html>
+    <head>
+        <title>kosmos</title>
+        <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+        <script type="text/javascript" src="./load_broadcasts.js"></script>
+        <script type="text/javascript">
+            google.charts.load("current", {packages:["calendar"]});
+            google.charts.setOnLoadCallback(drawChart);
+            
+            function drawChart() {
+                let dataTable = new google.visualization.DataTable();
+                dataTable.addColumn({ type: 'date', id: 'Date' });
+                dataTable.addColumn({ type: 'number', id: 'Minutes' });
+                
+                loadBroadcastsIntoMap('./broadcasts.json').then(
+                    (broadcastsYmdMap) => {
+                        for (let k of broadcastsYmdMap.keys()) {
+                            let dt = new Date();
+                            dt.setTime(k);
+                            dataTable.addRow([dt, broadcastsYmdMap.get(k)]);
+                        }
+                        let chart = new google.visualization.Calendar(document.getElementById('calendar_basic'));
+                        let options = {
+                            title: "Broadcasts",
+                            colorAxis: {
+                                colors: ['#ddd','violet']
+                            },
+                            noDataPattern: {
+                                backgroundColor: '#fff',
+                                color: '#eee'
+                            },
+                            calendar: {
+                                monthOutlineColor: {
+                                    stroke: '#999',
+                                    strokeOpacity: 0.575
+                                },
+                                unusedMonthOutlineColor: {
+                                    stroke: '#ccc',
+                                    strokeOpacity: 0.25
+                                },
+                                focusedCellColor: {
+                                    stroke: '#333',
+                                    strokeOpacity: 0.5,
+                                    strokeWidth: 1
+                                }
+                            }
+                        };
+                        chart.draw(dataTable, options);
+                    });
+            }
+        </script>
+    </head>
+    <body>
+        <div id="calendar_basic" style="width: 100%; height: 100%;"></div>
+    </body>
+</html>
