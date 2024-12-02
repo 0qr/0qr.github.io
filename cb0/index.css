@@ -13,7 +13,7 @@
     }
 }
 
-@media screen and (min-width : 511px) and (max-width : 1023px) {
+@media screen and (min-width : 490px) and (max-width : 1023px) {
     img {
         width: 50vw;
         max-width: 50vw;
@@ -25,7 +25,7 @@
     }
 }
 
-@media screen and (min-width : 0px) and (max-width : 510px) {
+@media screen and (min-width : 0px) and (max-width : 490px) {
     img {
         width: 100vw;
         max-width: 100vw;
