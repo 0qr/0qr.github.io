@@ -178,12 +178,12 @@ let cb0Primary = [
 
     "evasaff",
     "minnietammy",
+    "cute_shine",
     "mia_mils"
 ];
 let cb1Primary = [
     "tiffanyhouston_",
 
-    "cute_shine",
     "mary_janee__",
     "superior_cat",
     "alisagoddie19",
