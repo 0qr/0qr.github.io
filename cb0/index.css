@@ -13,7 +13,7 @@
     }
 }
 
-@media screen and (min-width : 480px) and (max-width : 1023px) {
+@media screen and (min-width : 481px) and (max-width : 1023px) {
     img {
         width: 50vw;
         max-width: 50vw;
