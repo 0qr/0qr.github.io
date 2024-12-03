@@ -85,7 +85,6 @@ fn__cbPrimary();
 fn__cbSecondary();
 
 let cb0Primary = [
-    "angel_ocu",
     "juliet_bb",
     "vilanelle_1",
     "kira_censori", // 🏓
@@ -93,6 +92,10 @@ let cb0Primary = [
     // couples, 2
     "playwithmil",
     "milly____",
+
+    // problematic
+    "bustykatia", // 🇷🇴
+    "freyaeva", // 🇷🇴
 
     // getting to know
     "yamaguchi_",
@@ -107,10 +110,6 @@ let cb0Primary = [
     "popsytopsy",
     "mynameisnikki",
     "amazon_girl",
-
-    // problematic
-    "bustykatia", // 🇷🇴
-    "freyaeva", // 🇷🇴
 
     // strictly eye candy, 1
     "vopooo",
@@ -141,6 +140,7 @@ let cb0Primary = [
     "moondao",
     "shy_starlight",
 
+    "angel_ocu",
     "agata_cristy", // 🏓
     "jennytime",
     "jelly_w5", // "jelly_w",
