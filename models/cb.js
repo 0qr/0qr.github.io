@@ -170,7 +170,6 @@ let cb0Primary = [
     "viktoranmary",
     "hannahlusttt",
     "wladilia",
-    "eternal__lovers",
 
     // slutty appeal
     "lisa_babymetal",
@@ -280,6 +279,7 @@ let cb1Primary = [
     "logan_emma1",
     "familysexy34",
     "postbaby",
+    "eternal__lovers",
 
     "chloe_moor",
     "charming__kitty",
