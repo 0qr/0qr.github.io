@@ -104,7 +104,6 @@ let cb0Primary = [
     "innocentchurchgirl",
     "monster_high",
     "x_lina",
-    "happyy_pussy",
     "lisa_marxsss",
 
     // idle
@@ -147,6 +146,7 @@ let cb0Primary = [
     "jelly_w5", // "jelly_w",
     "shiningdawn",
     "mjgreencat",
+    "happyy_pussy",
 
     "hornyvillage",
     "agata_iris",
