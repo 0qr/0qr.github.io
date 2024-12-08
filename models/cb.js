@@ -102,7 +102,6 @@ let cb0Primary = [
     "alexiafoxmodel", // 🏓
     "ooxygenlow",
     "innocentchurchgirl",
-    "monster_high",
     "x_lina",
     "lisa_marxsss",
 
@@ -141,6 +140,7 @@ let cb0Primary = [
     "shy_starlight",
     "alodiedonnay",
     "haribogirl__",
+    "monster_high",
 
     "angel_ocu",
     "agata_cristy", // 🏓
