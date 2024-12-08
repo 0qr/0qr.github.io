@@ -139,7 +139,6 @@ let cb0Primary = [
     "moondao",
     "shy_starlight",
     "alodiedonnay",
-    "haribogirl__",
     "monster_high",
 
     "angel_ocu",
@@ -287,6 +286,7 @@ let cb1Primary = [
     "charming__kitty",
     "heidas_passion",
     "amypierceb",
+    "haribogirl__",
 
     "grid_girl2",
     "lilla_cutie",
