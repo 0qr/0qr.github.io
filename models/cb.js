@@ -128,6 +128,7 @@ let cb0Primary = [
     "bunnydollstella",
 
     // getting to know, 2
+    "paaulina",
     "blondyrush",
     "mia_gothh",
     "the_anya", // 🇺🇦
