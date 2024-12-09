@@ -60,6 +60,10 @@ let cbSecondary = [
     "mary_delray",
     "bigorgasm4us",
 
+    // problematic
+    "bustykatia", // 🇷🇴
+    "freyaeva", // 🇷🇴
+
     // couples
     "catanddickxxx",
     "masqueradeporn",
@@ -92,10 +96,6 @@ let cb0Primary = [
     // couples, 2
     "playwithmil",
     "milly____",
-
-    // problematic
-    "bustykatia", // 🇷🇴
-    "freyaeva", // 🇷🇴
 
     // getting to know
     "yamaguchi_",
