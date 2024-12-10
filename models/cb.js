@@ -103,7 +103,6 @@ let cb0Primary = [
     "alexiafoxmodel", // 🏓
     "ooxygenlow",
     "innocentchurchgirl",
-    "x_lina",
     "lisa_marxsss",
 
     // idle
@@ -112,6 +111,7 @@ let cb0Primary = [
     "amazon_girl",
 
     // strictly eye candy, 1
+    "aurora_the_ballerina",
     "vopooo",
     "inkanuko",
     "myliss",
@@ -129,6 +129,7 @@ let cb0Primary = [
     "bunnydollstella",
 
     // getting to know, 2
+    "x_lina",
     "paaulina",
     "blondyrush",
     "mia_gothh",
@@ -153,7 +154,6 @@ let cb0Primary = [
 
     "hornyvillage",
     "agata_iris",
-    "aurora_the_ballerina",
 
     "flowercandy33",
     "curlylolly",
