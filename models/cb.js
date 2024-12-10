@@ -130,7 +130,6 @@ let cb0Primary = [
 
     // getting to know, 2
     "x_lina",
-    "paaulina",
     "blondyrush",
     "mia_gothh",
     "the_anya", // 🇺🇦
@@ -143,6 +142,7 @@ let cb0Primary = [
     "shy_starlight",
     "alodiedonnay",
     "monster_high",
+    "paaulina",
 
     "angel_ocu",
     "agata_cristy", // 🏓
@@ -173,7 +173,6 @@ let cb0Primary = [
     "viktoranmary",
     "hannahlusttt",
     "wladilia",
-    "ravenoousbiter",
 
     // slutty appeal
     "lisa_babymetal",
