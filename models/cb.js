@@ -36,7 +36,7 @@ let cbSecondary = [
     "miss_opss", // 🏓
 
     "yournaughtymiss",
-    "neko_kimiko",
+    "pathos_of_things", // "neko_kimiko",
     "pornostorys",
     "nikkibloom_xoxo", // nikkibloomxoxo,
     "juicy_angels",
