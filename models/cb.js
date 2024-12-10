@@ -59,6 +59,7 @@ let cbSecondary = [
     "veronikaav",
     "mary_delray",
     "bigorgasm4us",
+    "aurora_the_ballerina",
 
     // problematic
     "bustykatia", // 🇷🇴
@@ -111,7 +112,6 @@ let cb0Primary = [
     "amazon_girl",
 
     // strictly eye candy, 1
-    "aurora_the_ballerina",
     "vopooo",
     "inkanuko",
     "myliss",
