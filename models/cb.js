@@ -104,7 +104,6 @@ let cb0Primary = [
     "alexiafoxmodel", // 🏓
     "ooxygenlow",
     "innocentchurchgirl",
-    "lisa_marxsss",
 
     // idle
     "popsytopsy",
@@ -129,6 +128,7 @@ let cb0Primary = [
     "bunnydollstella",
 
     // getting to know, 2
+    "lisa_marxsss",
     "x_lina",
     "blondyrush",
     "mia_gothh",
