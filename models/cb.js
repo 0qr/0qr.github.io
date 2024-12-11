@@ -69,6 +69,9 @@ let cbSecondary = [
     "catanddickxxx",
     "masqueradeporn",
 
+    // getting to know
+    "mirai_meow",
+
     // idle
     "lovahd",
     "lola_bunny94",
@@ -98,8 +101,7 @@ let cb0Primary = [
     "playwithmil",
     "milly____",
 
-    // getting to know
-    "mirai_meow",
+    // getting to know 2
     "yamaguchi_",
     "alexiafoxmodel", // 🏓
     "ooxygenlow",
@@ -110,7 +112,7 @@ let cb0Primary = [
     "mynameisnikki",
     "amazon_girl",
 
-    // strictly eye candy, 1
+    // strictly eye candy, 3
     "vopooo",
     "inkanuko",
     "myliss",
@@ -127,7 +129,7 @@ let cb0Primary = [
     "anna_bri",
     "bunnydollstella",
 
-    // getting to know, 2
+    // getting to know, 3
     "lisa_marxsss",
     "x_lina",
     "blondyrush",
