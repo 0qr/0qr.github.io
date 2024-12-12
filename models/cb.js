@@ -17,48 +17,48 @@ let cbPrimary = [
 let cbSecondary = [
     "qeeensgambit",
     "wild_schoolgirl", // 🇷🇴
-    "flowerr_powerr",
+    "flowerr_powerr", // 🏓🏓🏓
     "lexi_ridss_", // 🇺🇦
     "marylanex", // 🇺🇦
     "evelissa",
-    "_taylor_swift",
+    "_taylor_swift", // 🏓
     "neondemon_",
 
-    "lexy_sinn",
-    "saimashine",
+    "lexy_sinn", // 🏓🏓
+    "saimashine", // 🏓🏓🏓
     "candyfeatcrush",
     "onecuteangel",
-    "dollyemy",
+    "dollyemy", // 🏓🏓
     "jilly_wolly1",
     "maryvi",
 
-    "shinyways", // 🏓
-    "aurorashiine",
-    "miss_opss", // 🏓
+    "shinyways", // 🏓🏓
+    "aurora_the_ballerina", // 🏓
+    "miss_opss", // 🏓🏓
 
+    "bigorgasm4us", // 🏓
     "yournaughtymiss",
     "pathos_of_things", // "neko_kimiko",
     "pornostorys",
     "nikkibloom_xoxo", // nikkibloomxoxo,
-    "juicy_angels",
+    "juicy_angels", // 🏓
 
     // strictly eye candy
     "_isiah", // "isia_slay",
-    "xxx_leila",
-    "meghanesse",
+    "xxx_leila", // 🏓
     "ksensual",
     "mia_elfie",
     "star_gazing",
     "sweet_tinker_bell",
 
-    "dearly_emily",
+    "dearly_emily", // 🏓
+    "aurorashiine", // 🏓
+
     "whitebanny",
-    "frauchocolate", // 🏓🏓 (face slapping on request?)
+    "frauchocolate", // 🏓🏓🏓 (face slapping on request?)
     "misstics_", // 🇺🇦
     "veronikaav",
     "mary_delray",
-    "bigorgasm4us",
-    "aurora_the_ballerina",
 
     // problematic
     "bustykatia", // 🇷🇴
@@ -70,6 +70,7 @@ let cbSecondary = [
 
     // getting to know
     "mirai_meow",
+    "sugarbae_haze",
 
     // idle
     "lovahd",
@@ -80,9 +81,9 @@ let cbSecondary = [
     "_woweva__",
     "hayley__lee",
     "feelmemore",
-    "sugarbae_haze",
     "kristin_mordor",
     "sweetsnejana"
+    "meghanesse",
 ];
 
 let fn__cbPrimary = async () => { cbPrimary.forEach(m => addModel(m, 23)); }
