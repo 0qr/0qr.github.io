@@ -139,7 +139,6 @@ let cb0Primary = [
     "anbarbie",
     "misssweettie",
     "true_sue",
-    "lilienblume",
     "moondao",
     "shy_starlight",
     "alodiedonnay",
@@ -152,7 +151,6 @@ let cb0Primary = [
     "jelly_w5", // "jelly_w",
     "shiningdawn",
     "mjgreencat",
-    "happyy_pussy",
 
     "hornyvillage",
     "agata_iris",
@@ -221,6 +219,8 @@ let cb1Primary = [
     "mon_amii",
     "kate_funny",
     "rita_orra", // 🇺🇦
+    "happyy_pussy",
+    "lilienblume",
 
     "corni__",
     "annie_f0x",
