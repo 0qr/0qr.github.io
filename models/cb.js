@@ -33,6 +33,7 @@ let cbSecondary = [
     "maryvi",
 
     "shinyways", // 🏓
+    "aurorashiine",
     "miss_opss", // 🏓
 
     "yournaughtymiss",
@@ -51,8 +52,6 @@ let cbSecondary = [
     "sweet_tinker_bell",
 
     "dearly_emily",
-    "aurorashiine",
-
     "whitebanny",
     "frauchocolate", // 🏓🏓 (face slapping on request?)
     "misstics_", // 🇺🇦
