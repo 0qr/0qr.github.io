@@ -82,8 +82,7 @@ let cbSecondary = [
     "hayley__lee",
     "feelmemore",
     "kristin_mordor",
-    "sweetsnejana",
-    "meghanesse"
+    "sweetsnejana"
 ];
 
 let fn__cbPrimary = async () => { cbPrimary.forEach(m => addModel(m, 23)); }
