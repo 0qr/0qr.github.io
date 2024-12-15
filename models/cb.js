@@ -118,7 +118,7 @@ let cb0Primary = [
     "ingergirl",
 
     "lovelycaroline_", // 🏓🏓
-    "lastdawn", // 🏓
+    "lastdawn", // 🏓🏓
     "melani_lesss",
     "elizabad",
     "bestzoeyever",
