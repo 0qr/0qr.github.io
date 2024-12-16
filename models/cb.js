@@ -70,9 +70,10 @@ let cbSecondary = [
 
     // getting to know
     "mirai_meow",
-    "sugarbae_haze",
+    "joybunny",
 
     // idle
+    "sugarbae_haze",
     "lovahd",
     "lola_bunny94",
     "july_koss",
