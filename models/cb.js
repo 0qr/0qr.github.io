@@ -71,6 +71,7 @@ let cbSecondary = [
     // getting to know
     "mirai_meow",
     "joybunny",
+    "milla_remmy",
 
     // idle
     "sugarbae_haze",
