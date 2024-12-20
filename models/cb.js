@@ -72,7 +72,6 @@ let cbSecondary = [
     "mirai_meow",
     "joybunny",
     "milla_remmy",
-    "klttys__pearl",
 
     // idle
     "sugarbae_haze",
@@ -109,6 +108,7 @@ let cb0Primary = [
 
     // getting to know 2
     "innocentchurchgirl",
+    "klttys__pearl",
 
     // idle
     "popsytopsy",
