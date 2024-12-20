@@ -151,7 +151,7 @@ let cb0Primary = [
     "jelly_w5", // "jelly_w",
     "shiningdawn",
     "mjgreencat",
-
+    "alyssa_smitt",
     "hornyvillage",
     "agata_iris",
 
@@ -177,8 +177,8 @@ let cb0Primary = [
     // slutty appeal
     "lisa_babymetal",
     "your_bunnygirl", // 🇺🇦
-    "alyssa_smitt",
     "fruttitatti",
+    "iam_eli",
 
     "evasaff",
     "minnietammy",
