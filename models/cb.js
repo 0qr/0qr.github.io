@@ -145,12 +145,9 @@ let cb0Primary = [
     "monster_high",
     "paaulina",
 
-    "vopooo",
-    "angel_ocu",
     "agata_cristy", // 🏓
     "jennytime",
     "jelly_w5", // "jelly_w",
-    "mjgreencat",
     "alyssa_smitt",
     "hornyvillage",
     "agata_iris",
@@ -168,6 +165,7 @@ let cb0Primary = [
     "_eva_blame_",
     "ab_s",
     "_june",
+    "evasaff",
 
     // couples, 3
     "viktoranmary",
@@ -176,16 +174,19 @@ let cb0Primary = [
 
     // slutty appeal
     "lisa_babymetal",
-    "your_bunnygirl", // 🇺🇦
     "fruttitatti",
 
-    "evasaff",
-    "minnietammy",
     "cute_shine"
 ];
 let cb1Primary = [
     "tiffanyhouston_",
+    "your_bunnygirl", // 🇺🇦
+    "vopooo",
     "shiningdawn",
+
+    "angel_ocu",
+    "mjgreencat",
+    "minnietammy",
 
     "mary_janee__",
     "superior_cat",
