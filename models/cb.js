@@ -69,6 +69,7 @@ let cbSecondary = [
     "masqueradeporn",
 
     // getting to know
+    "melani_lesss", // 🏓
     "mirai_meow",
     "joybunny",
     "milla_remmy",
@@ -106,7 +107,6 @@ let cb0Primary = [
     "alexiafoxmodel", // 🏓
 
     // getting to know 2
-    "melani_lesss", // 🏓
     "innocentchurchgirl",
     "klttys__pearl",
 
