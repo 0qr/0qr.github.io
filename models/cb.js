@@ -178,7 +178,6 @@ let cb0Primary = [
     "lisa_babymetal",
     "your_bunnygirl", // 🇺🇦
     "fruttitatti",
-    "iam_eli",
 
     "evasaff",
     "minnietammy",
@@ -332,6 +331,7 @@ let cb1Primary = [
     "shysaraa",
     "_eva_queen",
     "miasbakkery_",
+    "iam_eli",
     "youreyeshere", // hairy, soft/fake spanks
 
     // studio
