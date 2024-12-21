@@ -102,7 +102,6 @@ let cb0Primary = [
     "playwithmil",
     "milly____",
 
-    "anna_bri",
     "yamaguchi_",
     "alexiafoxmodel", // 🏓
 
@@ -118,17 +117,18 @@ let cb0Primary = [
     // strictly eye candy, 3
     "inkanuko",
     "ooxygenlow",
-    "myliss",
     "ingergirl",
+
+    "elizabad",
+    "myliss",
 
     "lovelycaroline_", // 🏓🏓
     "lastdawn", // 🏓🏓
     "melani_lesss",
-    "elizabad",
     "bestzoeyever",
     "ecsodia",
-    "vopooo",
 
+    "anna_bri",
     "bunnydollstella",
 
     // getting to know, 3
@@ -145,11 +145,11 @@ let cb0Primary = [
     "monster_high",
     "paaulina",
 
+    "vopooo",
     "angel_ocu",
     "agata_cristy", // 🏓
     "jennytime",
     "jelly_w5", // "jelly_w",
-    "shiningdawn",
     "mjgreencat",
     "alyssa_smitt",
     "hornyvillage",
@@ -185,6 +185,7 @@ let cb0Primary = [
 ];
 let cb1Primary = [
     "tiffanyhouston_",
+    "shiningdawn",
 
     "mary_janee__",
     "superior_cat",
