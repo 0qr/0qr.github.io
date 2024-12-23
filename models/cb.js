@@ -144,6 +144,7 @@ let cb0Primary = [
     "alodiedonnay",
     "monster_high",
     "paaulina",
+    "_sunny_mood", // 🇺🇦
 
     "agata_cristy", // 🏓
     "jennytime",
@@ -193,7 +194,6 @@ let cb1Primary = [
     "superior_cat",
     "alisagoddie19",
     "the_humble_fox_69",
-    "_sunny_mood",
     "wild_angel777", // 🇺🇦
     "bella_white19",
     "firstoffense",
