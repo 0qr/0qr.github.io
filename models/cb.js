@@ -72,7 +72,6 @@ let cbSecondary = [
     "melani_lesss", // 🏓
     "mirai_meow",
     "joybunny",
-    "milla_remmy",
 
     // idle
     "sugarbae_haze",
@@ -145,6 +144,7 @@ let cb0Primary = [
     "monster_high",
     "paaulina",
     "_sunny_mood", // 🇺🇦
+    "milla_remmy",
 
     "agata_cristy", // 🏓
     "jennytime",
