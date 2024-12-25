@@ -59,6 +59,7 @@ let cbSecondary = [
     "misstics_", // 🇺🇦
     "veronikaav",
     "mary_delray",
+    "sugarbae_haze",
 
     // problematic
     "bustykatia", // 🇷🇴
@@ -72,7 +73,6 @@ let cbSecondary = [
     "melani_lesss", // 🏓
 
     // idle
-    "sugarbae_haze",
     "lovahd",
     "lola_bunny94",
     "july_koss",
@@ -104,6 +104,7 @@ let cb0Primary = [
     "alexiafoxmodel", // 🏓
 
     // getting to know 2
+    "vi_ana_shi",
     "innocentchurchgirl",
     "klttys__pearl",
     "mirai_meow",
