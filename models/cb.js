@@ -176,6 +176,7 @@ let cb0Primary = [
     // slutty appeal
     "lisa_babymetal",
     "fruttitatti",
+    "ivy_whyte",
 
     "fox_alina",
     "cute_shine",
@@ -275,7 +276,6 @@ let cb1Primary = [
 
     "alissa_wxw", // 🇺🇦
     "mariamaree", // 🇺🇦
-    "ivy_whyte",
     "alisaa_01",
     "milla_remmy",
     "jelli_jennifer",
