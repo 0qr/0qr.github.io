@@ -43,14 +43,6 @@ let cbSecondary = [
     "nikkibloom_xoxo", // nikkibloomxoxo,
     "juicy_angels", // 🏓
 
-    // strictly eye candy
-    "_isiah", // "isia_slay",
-    "xxx_leila", // 🏓
-    "ksensual",
-    "mia_elfie",
-    "star_gazing",
-    "sweet_tinker_bell",
-
     "dearly_emily", // 🏓
     "aurorashiine", // 🏓
 
@@ -64,6 +56,14 @@ let cbSecondary = [
     // problematic
     "bustykatia", // 🇷🇴
     "freyaeva", // 🇷🇴
+
+    // strictly eye candy
+    "_isiah", // "isia_slay",
+    "xxx_leila", // 🏓
+    "ksensual",
+    "mia_elfie",
+    "star_gazing",
+    "sweet_tinker_bell",
 
     // couples
     "catanddickxxx",
