@@ -108,7 +108,6 @@ let cb0Primary = [
     "innocentchurchgirl",
     "klttys__pearl",
     "mirai_meow",
-    "joybunny",
 
     // idle
     "popsytopsy",
@@ -137,7 +136,6 @@ let cb0Primary = [
     "blondyrush",
     "mia_gothh",
     "the_anya", // 🇺🇦
-    "my_lina",
     "anbarbie",
     "misssweettie",
     "monster_high",
@@ -160,7 +158,6 @@ let cb0Primary = [
     "babeholly",
     "luckysexydoll",
     "white_lime",
-    "heyhorny_cb",
     "ohbabykelly",
     "lauratanguy",
     "_eva_blame_",
@@ -187,6 +184,8 @@ let cb1Primary = [
     "your_bunnygirl", // 🇺🇦
     "vopooo",
     "shiningdawn",
+    "my_lina",
+    "joybunny",
 
     "angel_ocu",
     "mjgreencat",
@@ -199,6 +198,19 @@ let cb1Primary = [
     "wild_angel777", // 🇺🇦
     "bella_white19",
     "firstoffense",
+
+    // strictly eye candy, 3
+    "beatrice_melton",
+    "sandymiracle",
+    "secrets_eli",
+    "oh_sunny_",
+    "heyhorny_cb",
+    "smurf19",
+    "sunny_maria",
+    "sophia_lean",
+    "firumu",
+    "audreycarvin",
+    "sofiabruno",
 
     "shy_starlight",
     "alodiedonnay",
@@ -243,13 +255,6 @@ let cb1Primary = [
 
     "vanila_cream_",
     "ilon_rey",
-
-    // strictly eye candy, 3
-    "beatrice_melton",
-    "sandymiracle",
-    "secrets_eli",
-    "oh_sunny_",
-    "smurf19",
 
     "the_truewoman_show",
     "yuriogata",
@@ -312,13 +317,6 @@ let cb1Primary = [
     "_vi_vi_",
     "vina_skybabe",
     "erelima",
-
-    // strictly eye candy, 3
-    "sunny_maria",
-    "sophia_lean",
-    "firumu",
-    "audreycarvin",
-    "sofiabruno",
 
     "tinna_angel",
     "_wowyulia_",
