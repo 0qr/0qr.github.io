@@ -57,6 +57,10 @@ let cbSecondary = [
     "bustykatia", // 🇷🇴
     "freyaeva", // 🇷🇴
 
+    // getting to know
+    "melani_lesss", // 🏓
+    "agata_cristy", // 🏓
+
     // strictly eye candy
     "_isiah", // "isia_slay",
     "xxx_leila", // 🏓
@@ -68,9 +72,6 @@ let cbSecondary = [
     // couples
     "catanddickxxx",
     "masqueradeporn",
-
-    // getting to know
-    "melani_lesss", // 🏓
 
     // idle
     "lovahd",
@@ -113,7 +114,6 @@ let cb0Primary = [
     "ooxygenlow",
     "ingergirl",
 
-    "agata_cristy", // 🏓
     "elizabad",
     "myliss",
 
