@@ -103,12 +103,6 @@ let cb0Primary = [
     "yamaguchi_",
     "alexiafoxmodel", // 🏓
 
-    // getting to know 2
-    "vi_ana_shi",
-    "innocentchurchgirl",
-    "klttys__pearl",
-    "mirai_meow",
-
     // idle
     "popsytopsy",
     "mynameisnikki",
@@ -122,6 +116,12 @@ let cb0Primary = [
     "agata_cristy", // 🏓
     "elizabad",
     "myliss",
+
+    // getting to know 2
+    "vi_ana_shi",
+    "innocentchurchgirl",
+    "klttys__pearl",
+    "mirai_meow",
 
     "ecsodia",
     "lastdawn", // 🏓🏓
