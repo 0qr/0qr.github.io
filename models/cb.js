@@ -108,6 +108,7 @@ let cb0Primary = [
     "innocentchurchgirl",
     "klttys__pearl",
     "mirai_meow",
+    "agata_cristy", // 🏓
 
     // idle
     "popsytopsy",
@@ -144,7 +145,6 @@ let cb0Primary = [
     "milla_remmy",
     "tasty_valery",
 
-    "agata_cristy", // 🏓
     "jennytime",
     "jelly_w5", // "jelly_w",
     "alyssa_smitt",
