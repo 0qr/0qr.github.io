@@ -49,6 +49,8 @@ let cbSecondary = [
     "whitebanny",
     "frauchocolate", // 🏓🏓🏓 (face slapping on request?)
     "misstics_", // 🇺🇦
+
+    "hit_girl_",
     "veronikaav",
     "mary_delray",
     "sugarbae_haze",
