@@ -18,11 +18,6 @@ let cbSecondary = [
     "qeeensgambit",
     "wild_schoolgirl", // 🇷🇴
     "flowerr_powerr", // 🏓🏓🏓
-    "lexi_ridss_", // 🇺🇦
-    "marylanex", // 🇺🇦
-    "evelissa",
-    "_taylor_swift", // 🏓
-    "neondemon_",
 
     "lexy_sinn", // 🏓🏓
     "saimashine", // 🏓🏓🏓
@@ -41,6 +36,14 @@ let cbSecondary = [
     "agata_cristy", // 🏓
     "frauchocolate", // 🏓🏓🏓 (face slapping on request?)
     "yournaughtymiss",
+    "evelissa",
+
+    "lexi_ridss_", // 🇺🇦
+    "marylanex", // 🇺🇦
+    "misstics_", // 🇺🇦
+    "_taylor_swift", // 🏓
+    "neondemon_",
+
     "pathos_of_things", // "neko_kimiko",
     "pornostorys",
     "nikkibloom_xoxo", // nikkibloomxoxo,
@@ -48,8 +51,6 @@ let cbSecondary = [
 
     "dearly_emily", // 🏓
     "aurorashiine", // 🏓
-
-    "misstics_", // 🇺🇦
 
     "hit_girl_",
     "veronikaav",
