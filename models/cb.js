@@ -37,6 +37,9 @@ let cbSecondary = [
     "miss_opss", // 🏓🏓
 
     "bigorgasm4us", // 🏓
+    "whitebanny", // 🏓🏓
+    "agata_cristy", // 🏓
+    "frauchocolate", // 🏓🏓🏓 (face slapping on request?)
     "yournaughtymiss",
     "pathos_of_things", // "neko_kimiko",
     "pornostorys",
@@ -46,8 +49,6 @@ let cbSecondary = [
     "dearly_emily", // 🏓
     "aurorashiine", // 🏓
 
-    "whitebanny",
-    "frauchocolate", // 🏓🏓🏓 (face slapping on request?)
     "misstics_", // 🇺🇦
 
     "hit_girl_",
@@ -60,7 +61,6 @@ let cbSecondary = [
     "freyaeva", // 🇷🇴
 
     // getting to know
-    "agata_cristy", // 🏓
     "melani_lesss", // 🏓
 
     // strictly eye candy
