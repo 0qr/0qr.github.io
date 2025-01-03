@@ -141,7 +141,7 @@ let cb0Primary = [
     "mia_gothh",
     "the_anya", // 🇺🇦
     "anbarbie",
-    "misssweettie",
+
     "monster_high",
     "paaulina",
     "_sunny_mood", // 🇺🇦
@@ -153,8 +153,6 @@ let cb0Primary = [
     "alyssa_smitt",
     "hornyvillage",
     "agata_iris",
-
-    "flowercandy33",
     "curlylolly",
 
     // strictly eye candy, 2
@@ -166,7 +164,6 @@ let cb0Primary = [
     "_eva_blame_",
     "ab_s",
     "_june",
-    "evasaff",
 
     // couples, 3
     "viktoranmary",
@@ -235,6 +232,10 @@ let cb1Primary = [
     "llkadream",
     "moondao",
     "mia_mils",
+
+    "evasaff",
+    "flowercandy33",
+    "misssweettie",
 
     "merry_dancers_",
     "cutemia6",
