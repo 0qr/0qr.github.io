@@ -44,9 +44,13 @@ let cbSecondary = [
     "_taylor_swift", // 🏓
     "neondemon_",
 
-    "pathos_of_things", // "neko_kimiko",
+    // problematic
+    "bustykatia", // 🇷🇴
+    "freyaeva", // 🇷🇴
+
     "pornostorys",
     "nikkibloom_xoxo", // nikkibloomxoxo,
+    "pathos_of_things", // "neko_kimiko",
     "juicy_angels", // 🏓
 
     "dearly_emily", // 🏓
@@ -56,10 +60,6 @@ let cbSecondary = [
     "veronikaav",
     "mary_delray",
     "sugarbae_haze",
-
-    // problematic
-    "bustykatia", // 🇷🇴
-    "freyaeva", // 🇷🇴
 
     // getting to know
     "melani_lesss", // 🏓
