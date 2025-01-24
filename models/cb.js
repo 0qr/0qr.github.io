@@ -62,6 +62,7 @@ let cbSecondary = [
 
     // getting to know
     "melani_lesss", // 🏓
+    "taitehambelton",
 
     // strictly eye candy
     "_isiah", // "isia_slay",
