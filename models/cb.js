@@ -122,7 +122,6 @@ let cb0Primary = [
     "amazon_girl",
 
     // getting to know 2
-    "vi_ana_shi",
     "innocentchurchgirl",
     "klttys__pearl",
     "mirai_meow",
@@ -147,7 +146,6 @@ let cb0Primary = [
 
     "monster_high",
     "paaulina",
-    "_sunny_mood", // 🇺🇦
     "milla_remmy",
     "tasty_valery",
 
@@ -189,11 +187,13 @@ let cb1Primary = [
     "shiningdawn",
     "my_lina",
     "joybunny",
+    "vi_ana_shi",
 
     "angel_ocu",
     "mjgreencat",
     "minnietammy",
     "rodde_schlocer",
+    "_sunny_mood", // 🇺🇦
 
     "mary_janee__",
     "superior_cat",
