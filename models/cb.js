@@ -190,7 +190,6 @@ let cb1Primary = [
     "vi_ana_shi",
 
     "angel_ocu",
-    "mjgreencat",
     "minnietammy",
     "rodde_schlocer",
     "_sunny_mood", // 🇺🇦
