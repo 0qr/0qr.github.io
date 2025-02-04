@@ -47,6 +47,7 @@ let cbSecondary = [
     "bustykatia", // 🇷🇴
     "freyaeva", // 🇷🇴
 
+    "ingergirl",
     "pornostorys",
     "nikkibloom_xoxo", // nikkibloomxoxo,
     "pathos_of_things", // "neko_kimiko",
@@ -98,7 +99,6 @@ fn__cbSecondary();
 let cb0Primary = [
     // strictly eye candy, 3
     "ooxygenlow",
-    "ingergirl",
     "taitehambelton",
 
     "elizabad",
