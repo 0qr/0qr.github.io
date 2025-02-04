@@ -32,7 +32,6 @@ let cbSecondary = [
     "_taylor_swift", // 🏓
     "miss_opss", // 🏓🏓
 
-    "bigorgasm4us", // 🏓
     "whitebanny", // 🏓🏓
     "agata_cristy", // 🏓
     "yournaughtymiss",
@@ -104,6 +103,7 @@ let cb0Primary = [
     "elizabad",
     "myliss",
 
+    "bigorgasm4us", // 🏓
     "frauchocolate", // 🏓🏓🏓 (face slapping on request?)
     "juliet_bb",
     "vilanelle_1",
