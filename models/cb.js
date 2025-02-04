@@ -178,6 +178,7 @@ let cb0Primary = [
     // slutty appeal
     "lisa_babymetal",
     "ivy_whyte",
+    "alice_n_wooderland",
     "tinna_angel",
 
     "fox_alina",
