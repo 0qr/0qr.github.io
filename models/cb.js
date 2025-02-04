@@ -29,6 +29,7 @@ let cbSecondary = [
 
     "shinyways", // 🏓🏓
     "aurora_the_ballerina", // 🏓
+    "_taylor_swift", // 🏓
     "miss_opss", // 🏓🏓
 
     "bigorgasm4us", // 🏓
@@ -40,7 +41,6 @@ let cbSecondary = [
     "lexi_ridss_", // 🇺🇦
     "marylanex", // 🇺🇦
     "misstics_", // 🇺🇦
-    "_taylor_swift", // 🏓
     "neondemon_",
 
     // problematic
