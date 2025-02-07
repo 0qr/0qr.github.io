@@ -146,6 +146,7 @@ let cb0Primary = [
     "mia_gothh",
     "the_anya", // 🇺🇦
     "anbarbie",
+    "milky__way_",
 
     "monster_high",
     "paaulina",
