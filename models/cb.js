@@ -123,6 +123,7 @@ let cb0Primary = [
 
     // getting to know 2
     "innocentchurchgirl",
+    "ssscarlett",
     "klttys__pearl",
     "mirai_meow",
     "blondie_muller",
@@ -130,7 +131,6 @@ let cb0Primary = [
     "plastic_beach",
     "miolia",
     "chloechain",
-    "ssscarlett",
 
     "ecsodia",
     "lastdawn", // 🏓🏓
