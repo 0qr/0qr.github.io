@@ -99,7 +99,6 @@ fn__cbSecondary();
 let cb0Primary = [
     // strictly eye candy, 3
     "ooxygenlow",
-    "taitehambelton",
 
     "elizabad",
     "myliss",
@@ -162,6 +161,7 @@ let cb0Primary = [
     "curlylolly",
 
     // strictly eye candy, 2
+    "taitehambelton",
     "babeholly",
     "luckysexydoll",
     "white_lime",
