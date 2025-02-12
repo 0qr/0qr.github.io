@@ -131,7 +131,6 @@ let cb0Primary = [
     "miolia",
     "ssscarlett",
     "charming_angel_",
-    "sassykitten18", // 🇷🇴
 
     "ecsodia",
     "lastdawn", // 🏓🏓
