@@ -60,6 +60,7 @@ let cbSecondary = [
     "mary_delray",
     "sugarbae_haze",
     "frauchocolate", // 🏓🏓🏓 (face slapping on request?)
+    "bigorgasm4us", // 🏓
 
     // getting to know
     "melani_lesss", // 🏓
@@ -103,7 +104,6 @@ let cb0Primary = [
     "elizabad",
     "myliss",
 
-    "bigorgasm4us", // 🏓
     "juliet_bb",
     "vilanelle_1",
     "kira_censori", // 🏓
