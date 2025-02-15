@@ -56,7 +56,6 @@ let cbSecondary = [
     "aurorashiine", // 🏓
 
     "hit_girl_",
-    "veronikaav",
     "mary_delray",
     "sugarbae_haze",
     "frauchocolate", // 🏓🏓🏓 (face slapping on request?)
@@ -101,6 +100,7 @@ fn__cbSecondary();
 let cb0Primary = [
     // strictly eye candy, 3
     "ooxygenlow",
+    "veronikaav",
 
     "elizabad",
     "myliss",
