@@ -132,7 +132,6 @@ let cb0Primary = [
     "miolia",
     "henriettaheldreth",
     "tollysage",
-    "ssscarlett",
 
     "ecsodia",
     "lastdawn", // 🏓🏓
@@ -209,8 +208,6 @@ let cb1Primary = [
     "the_humble_fox_69",
     "wild_angel777", // 🇺🇦
     "bella_white19",
-    "firstoffense",
-    "tinna_angel",
 
     // strictly eye candy, 3
     "beatrice_melton",
@@ -223,6 +220,10 @@ let cb1Primary = [
     "sophia_lean",
     "firumu",
     "sofiabruno",
+
+    "ssscarlett",
+    "firstoffense",
+    "tinna_angel",
 
     "shy_starlight",
     "alodiedonnay",
