@@ -148,7 +148,6 @@ let cb0Primary = [
     "x_lina",
     "blondyrush",
     "mia_gothh",
-    "the_anya", // 🇺🇦
     "anbarbie",
     "milky__way_",
 
@@ -165,7 +164,6 @@ let cb0Primary = [
     "curlylolly",
 
     // strictly eye candy, 2
-    "taitehambelton",
     "babeholly",
     "luckysexydoll",
     "white_lime",
@@ -184,7 +182,6 @@ let cb0Primary = [
     // slutty appeal
     "lisa_babymetal",
     "ivy_whyte",
-    "alice_n_wooderland",
 
     "fox_alina",
     "chloechain",
@@ -198,11 +195,13 @@ let cb1Primary = [
     "my_lina",
     "joybunny",
     "vi_ana_shi",
+    "taitehambelton",
 
     "angel_ocu",
     "minnietammy",
     "rodde_schlocer",
     "_sunny_mood", // 🇺🇦
+    "the_anya", // 🇺🇦
 
     "mary_janee__",
     "superior_cat",
@@ -223,9 +222,12 @@ let cb1Primary = [
     "firumu",
     "sofiabruno",
 
+    "evasaff",
+    "flowercandy33",
+    "misssweettie",
+
     "ssscarlett",
     "firstoffense",
-    "tinna_angel",
 
     "shy_starlight",
     "alodiedonnay",
@@ -246,10 +248,8 @@ let cb1Primary = [
     "llkadream",
     "moondao",
     "mia_mils",
-
-    "evasaff",
-    "flowercandy33",
-    "misssweettie",
+    "alice_n_wooderland",
+    "tinna_angel",
 
     "merry_dancers_",
     "cutemia6",
