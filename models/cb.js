@@ -23,7 +23,6 @@ let cbSecondary = [
     "saimashine", // 🏓🏓🏓
     "candyfeatcrush",
     "onecuteangel",
-    "dollyemy", // 🏓🏓
     "jilly_wolly1",
     "maryvi",
 
@@ -36,11 +35,11 @@ let cbSecondary = [
     "agata_cristy", // 🏓
     "yournaughtymiss",
     "evelissa",
+    "neondemon_",
 
     "lexi_ridss_", // 🇺🇦
     "marylanex", // 🇺🇦
     "misstics_", // 🇺🇦
-    "neondemon_",
 
     // problematic
     "bustykatia", // 🇷🇴
@@ -73,6 +72,7 @@ let cbSecondary = [
     "star_gazing",
     "sweet_tinker_bell",
     "inkanuko",
+    "dollyemy", // 🏓🏓
 
     // couples
     "catanddickxxx",
@@ -102,6 +102,7 @@ let cb0Primary = [
     "ooxygenlow",
     "veronikaav",
 
+    "love_melody",
     "elizabad",
     "myliss",
 
