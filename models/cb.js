@@ -59,6 +59,7 @@ let cbSecondary = [
     "sugarbae_haze",
     "frauchocolate", // 🏓🏓🏓 (face slapping on request?)
     "bigorgasm4us", // 🏓
+    "dollyemy", // 🏓🏓
 
     // getting to know
     "melani_lesss", // 🏓
@@ -67,13 +68,12 @@ let cbSecondary = [
 
     // strictly eye candy
     "_isiah", // "isia_slay",
-    "xxx_leila", // 🏓
-    "ksensual",
-    "mia_elfie",
-    "star_gazing",
-    "sweet_tinker_bell",
     "inkanuko",
-    "dollyemy", // 🏓🏓
+    "xxx_leila", // 🏓
+    "star_gazing",
+    "mia_elfie",
+    "sweet_tinker_bell",
+    "ksensual",
 
     // couples
     "catanddickxxx",
