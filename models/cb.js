@@ -132,12 +132,14 @@ let cb0Primary = [
     "innocentchurchgirl",
     "klttys__pearl",
     "mirai_meow",
+    "rodde_schlocer",
     "blondie_muller",
     "mia__amore",
     "plastic_beach",
     "miolia",
     "henriettaheldreth",
     "tollysage",
+    "natalie_x",
 
     "ecsodia",
     "lastdawn", // 🏓🏓
