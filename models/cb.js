@@ -188,6 +188,7 @@ let cb0Primary = [
     // slutty appeal
     "lisa_babymetal",
     "ivy_whyte",
+    "_eva_queen",
 
     "fox_alina",
     "cute_shine"
@@ -361,7 +362,6 @@ let cb1Primary = [
     "tqla",
     "iiivy_",
     "shysaraa",
-    "_eva_queen",
     "miasbakkery_",
     "iam_eli",
     "youreyeshere", // hairy, soft/fake spanks
