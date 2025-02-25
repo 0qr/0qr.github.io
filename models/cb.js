@@ -104,10 +104,6 @@ let cb0Primary = [
     "ooxygenlow",
     "veronikaav",
 
-    "love_melody",
-    "elizabad",
-    "myliss",
-
     "juliet_bb",
     "vilanelle_1",
     "kira_censori", // 🏓
@@ -118,11 +114,16 @@ let cb0Primary = [
 
     "yamaguchi_",
     "alexiafoxmodel", // 🏓
+    "anna_bri",
 
     // idle
     "popsytopsy",
     "mynameisnikki",
     "amazon_girl",
+
+    "love_melody",
+    "elizabad",
+    "myliss",
 
     // getting to know 2
     "janedaniells",
@@ -146,9 +147,6 @@ let cb0Primary = [
     "lovelycaroline_", // 🏓🏓
     "bestzoeyever",
 
-    "anna_bri",
-    "bunnydollstella",
-
     // getting to know, 3
     "lisa_marxsss",
     "x_lina",
@@ -171,6 +169,7 @@ let cb0Primary = [
     "curlylolly",
 
     // strictly eye candy, 2
+    "bunnydollstella",
     "babeholly",
     "luckysexydoll",
     "white_lime",
