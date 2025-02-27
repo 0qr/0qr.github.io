@@ -171,6 +171,7 @@ let cb0Primary = [
     "mia_gothh",
     "anbarbie",
     "milky__way_",
+    "alissa_wxw", // 🇺🇦
     "miss_sweetdream",
     "blondie_muller",
     "emilyy_miller",
@@ -309,7 +310,6 @@ let cb1Primary = [
     "stacy_lees",
     "kriss_foxx",
 
-    "alissa_wxw", // 🇺🇦
     "mariamaree", // 🇺🇦
     "alisaa_01",
     "milla_remmy",
