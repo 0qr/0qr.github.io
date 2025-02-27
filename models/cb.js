@@ -21,15 +21,14 @@ let cbSecondary = [
 
     "lexy_sinn", // 🏓🏓
     "saimashine", // 🏓🏓🏓
-    "candyfeatcrush",
-    "onecuteangel",
-    "jilly_wolly1",
     "maryvi",
 
-    "shinyways", // 🏓🏓
     "aurora_the_ballerina", // 🏓
-    "_taylor_swift", // 🏓
+    "inkanuko",
     "miss_opss", // 🏓🏓
+    "shinyways", // 🏓🏓
+    "_taylor_swift", // 🏓
+    "jilly_wolly1",
 
     "whitebanny", // 🏓🏓
     "agata_cristy", // 🏓
@@ -44,6 +43,9 @@ let cbSecondary = [
     // problematic
     "bustykatia", // 🇷🇴
     "freyaeva", // 🇷🇴
+
+    "candyfeatcrush",
+    "onecuteangel",
 
     "ingergirl",
     "pornostorys",
@@ -70,7 +72,6 @@ let cbSecondary = [
 
     // strictly eye candy
     "_isiah", // "isia_slay",
-    "inkanuko",
     "xxx_leila", // 🏓
     "star_gazing",
     "mia_elfie",
