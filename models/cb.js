@@ -131,10 +131,8 @@ let cb0Primary = [
     "babe_bucks",
     "_lustica_",
     "baby_bubbless",
-    "miss_sweetdream",
     "innocentchurchgirl",
     "mirai_meow",
-    "blondie_muller",
     "mia__amore",
     "plastic_beach",
     "miolia",
@@ -147,22 +145,6 @@ let cb0Primary = [
     "lovelycaroline_", // 🏓🏓
     "bestzoeyever",
 
-    // getting to know, 3
-    "lisa_marxsss",
-    "x_lina",
-    "blondyrush",
-    "mia_gothh",
-    "anbarbie",
-    "milky__way_",
-    "emilyy_miller",
-    "klttys__pearl",
-
-    "monster_high",
-    "paaulina",
-    "milla_remmy",
-    "tasty_valery",
-
-    "jennytime",
     "jelly_w5", // "jelly_w",
     "alyssa_smitt",
     "hornyvillage",
@@ -170,6 +152,7 @@ let cb0Primary = [
     "curlylolly",
 
     // strictly eye candy, 2
+    "jennytime",
     "bunnydollstella",
     "babeholly",
     "luckysexydoll",
@@ -179,6 +162,23 @@ let cb0Primary = [
     "audreycarvin",
     "_eva_blame_",
     "ab_s",
+
+    // getting to know, 3
+    "lisa_marxsss",
+    "x_lina",
+    "blondyrush",
+    "mia_gothh",
+    "anbarbie",
+    "milky__way_",
+    "miss_sweetdream",
+    "blondie_muller",
+    "emilyy_miller",
+    "klttys__pearl",
+
+    "monster_high",
+    "paaulina",
+    "milla_remmy",
+    "tasty_valery",
 
     // couples, 3
     "viktoranmary",
