@@ -166,6 +166,8 @@ let cb0Primary = [
     "ab_s",
 
     // getting to know, 3
+    "dollymelissa",
+    "hello_vivienne",
     "lisa_marxsss",
     "x_lina",
     "blondyrush",
