@@ -136,7 +136,6 @@ let cb0Primary = [
     "innocentchurchgirl",
     "mirai_meow",
     "mia__amore",
-    "plastic_beach",
     "miolia",
     "henriettaheldreth",
     "tollysage",
@@ -179,6 +178,7 @@ let cb0Primary = [
     "blondie_muller",
     "emilyy_miller",
     "klttys__pearl",
+    "plastic_beach",
 
     "monster_high",
     "paaulina",
