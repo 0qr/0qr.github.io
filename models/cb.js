@@ -183,7 +183,6 @@ let cb0Primary = [
     "monster_high",
     "paaulina",
     "milla_remmy",
-    "tasty_valery",
 
     // couples, 3
     "viktoranmary",
