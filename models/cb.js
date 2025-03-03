@@ -62,6 +62,7 @@ let cbSecondary = [
     "frauchocolate", // 🏓🏓🏓 (face slapping on request?)
     "bigorgasm4us", // 🏓
     "dollyemy", // 🏓🏓
+    "kathariine", // 🇺🇦 // 🏓
 
     // getting to know
     "rodde_schlocer",
@@ -137,7 +138,6 @@ let cb0Primary = [
     "mirai_meow",
     "mia__amore",
     "miolia",
-    "kathariine",
     "tollysage",
     "henriettaheldreth",
     "natalie_x",
