@@ -138,6 +138,7 @@ let cb0Primary = [
     "mia__amore",
     "miolia",
     "henriettaheldreth",
+    "kathariine",
     "tollysage",
     "natalie_x",
     "megan_myersss",
@@ -163,7 +164,6 @@ let cb0Primary = [
     "lauratanguy",
     "audreycarvin",
     "_eva_blame_",
-    "kathariine",
     "ab_s",
 
     // getting to know, 3
