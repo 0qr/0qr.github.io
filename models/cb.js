@@ -200,7 +200,6 @@ let cb0Primary = [
     "ayshekisskitty",
 
     // slutty appeal
-    "lisa_babymetal",
     "ivy_whyte",
     "_eva_queen",
 
@@ -273,6 +272,7 @@ let cb1Primary = [
     "mia_mils",
     "alice_n_wooderland",
     "tinna_angel",
+    "lisa_babymetal",
 
     "merry_dancers_",
     "cutemia6",
