@@ -81,8 +81,6 @@ let cbSecondary = [
     "ksensual",
 
     // couples
-    "catanddickxxx",
-    "masqueradeporn",
 
     // idle
     "lovahd",
@@ -115,6 +113,8 @@ let cb0Primary = [
     // couples, 2
     "playwithmil",
     "milly____",
+    "catanddickxxx",
+    "masqueradeporn",
 
     "yamaguchi_",
     "babe_bucks",
