@@ -102,10 +102,6 @@ fn__cbPrimary();
 fn__cbSecondary();
 
 let cb0Primary = [
-    // strictly eye candy, 3
-    "ooxygenlow",
-    "veronikaav",
-
     "juliet_bb",
     "vilanelle_1",
     "kira_censori", // 🏓
@@ -126,7 +122,11 @@ let cb0Primary = [
     "mynameisnikki",
     "amazon_girl",
 
+    // strictly eye candy, 3
+    "ooxygenlow",
     "love_melody",
+
+    "veronikaav",
     "elizabad",
     "myliss",
 
@@ -142,6 +142,7 @@ let cb0Primary = [
     "tollysage",
     "henriettaheldreth",
     "natalie_x",
+    "jasminetoy",
     "megan_myersss",
     "ami_sakurami",
     "crazybabyyy",
@@ -181,7 +182,6 @@ let cb0Primary = [
     "miss_sweetdream",
     "blondie_muller",
     "emilyy_miller",
-    "jasminetoy",
     "klttys__pearl",
     "plastic_beach",
     "brielloo",
