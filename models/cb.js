@@ -69,7 +69,6 @@ let cbSecondary = [
     "melani_lesss", // 🏓
     "charming_angel_",
     "angel_in_tibet",
-    "willow__love", // 🏓
 
     // strictly eye candy
     "_isiah", // "isia_slay",
@@ -131,6 +130,7 @@ let cb0Primary = [
     "myliss",
 
     // getting to know 2
+    "willow__love", // 🏓
     "janedaniells",
     "_lustica_",
     "baby_bubbless",
@@ -148,7 +148,7 @@ let cb0Primary = [
     "crazybabyyy",
     "naive_love",
     "keeleyfarro", // 🏓
-    "friendlyfire6",
+    "friendlyfire6", // 🏓
 
     "ecsodia",
     "lastdawn", // 🏓🏓
