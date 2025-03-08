@@ -149,6 +149,7 @@ let cb0Primary = [
     "crazybabyyy",
     "naive_love",
     "keeleyfarro", // 🏓
+    "kathyclaytons",
 
     "ecsodia",
     "lastdawn", // 🏓🏓
@@ -190,7 +191,6 @@ let cb0Primary = [
     "plastic_beach",
     "brielloo",
     "your_bunnygirl",
-    "kathyclaytons",
 
     "monster_high",
     "paaulina",
