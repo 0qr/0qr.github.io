@@ -131,6 +131,7 @@ let cb0Primary = [
 
     // getting to know 2
     "willow__love", // 🏓
+    "friendlyfire6", // 🏓
     "janedaniells",
     "_lustica_",
     "baby_bubbless",
@@ -148,7 +149,6 @@ let cb0Primary = [
     "crazybabyyy",
     "naive_love",
     "keeleyfarro", // 🏓
-    "friendlyfire6", // 🏓
 
     "ecsodia",
     "lastdawn", // 🏓🏓
