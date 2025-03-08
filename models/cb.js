@@ -160,6 +160,7 @@ let cb0Primary = [
     "hornyvillage",
     "agata_iris",
     "curlylolly",
+    "ivy_whyte",
 
     // strictly eye candy, 2
     "jennytime",
@@ -202,9 +203,7 @@ let cb0Primary = [
     "ayshekisskitty",
 
     // slutty appeal
-    "ivy_whyte",
     "_eva_queen",
-
     "fox_alina",
     "cute_shine"
 ];
