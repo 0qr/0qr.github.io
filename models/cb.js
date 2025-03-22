@@ -180,6 +180,7 @@ let cb0Primary = [
     "ab_s",
 
     // getting to know, 3
+    "sunshine_diana_",
     "lisa_marxsss",
     "x_lina",
     "blondyrush",
