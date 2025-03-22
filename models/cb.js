@@ -132,7 +132,6 @@ let cb0Primary = [
     "willow__love", // 🏓
     "friendlyfire6", // 🏓
     "janedaniells", // 🏓; stripchat: janedaniells
-    "libbyshepard", // 🏓; stripchat: IdaJonesy
     "_lustica_",
     "baby_bubbless",
     "innocentchurchgirl",
@@ -388,6 +387,7 @@ let cb1Primary = [
     "youreyeshere", // hairy, soft/fake spanks
 
     // studio
+    "libbyshepard", // 🏓; stripchat: IdaJonesy
     "tessarosse_",
     "fleur_x_x",
     "chatur_babes_",
