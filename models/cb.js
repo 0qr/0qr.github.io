@@ -131,7 +131,8 @@ let cb0Primary = [
     // getting to know 2
     "willow__love", // 🏓
     "friendlyfire6", // 🏓
-    "janedaniells",
+    "janedaniells", // 🏓; stripchat: janedaniells
+    "libbyshepard", // 🏓; stripchat: IdaJonesy
     "_lustica_",
     "baby_bubbless",
     "innocentchurchgirl",
