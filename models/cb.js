@@ -159,6 +159,7 @@ let cb0Primary = [
     "ecsodia",
     "lastdawn", // 🏓🏓
     "lovelycaroline_", // 🏓🏓
+    "alisagoddie19",
     "alexiafoxmodel", // 🏓
 
     "jelly_w5", // "jelly_w",
@@ -197,7 +198,6 @@ let cb0Primary = [
     "darina_night",
     "moonnshinee",
     "polusladkoye",
-    "alisagoddie19",
     "annie_f0x",
 
     "monster_high",
