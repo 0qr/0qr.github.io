@@ -50,7 +50,6 @@ let cbSecondary = [
     "ingergirl",
     "pornostorys",
     "nikkibloom_xoxo", // nikkibloomxoxo,
-    "pathos_of_things", // "neko_kimiko",
     "juicy_angels", // 🏓
 
     "dearly_emily", // 🏓
@@ -169,6 +168,7 @@ let cb0Primary = [
     "curlylolly",
     "ivy_whyte",
     "bestzoeyever",
+    "pathos_of_things", // "neko_kimiko",
 
     // strictly eye candy, 2
     "jennytime",
