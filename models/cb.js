@@ -128,8 +128,8 @@ let cb0Primary = [
     "myliss",
 
     // getting to know 2
+    "dollymelissa",
     "willow__love", // 🏓
-    "friendlyfire6", // 🏓
     "janedaniells", // 🏓; stripchat: janedaniells
     "_lustica_",
     "baby_bubbless",
@@ -147,7 +147,6 @@ let cb0Primary = [
     "megan_myersss",
     "ami_sakurami",
     "naive_love",
-    "dollymelissa",
     "hello_vivienne",
     "dream_desire_",
     "mia_gothh",
@@ -161,6 +160,7 @@ let cb0Primary = [
     "lovelycaroline_", // 🏓🏓
     "alisagoddie19",
     "alexiafoxmodel", // 🏓
+    "friendlyfire6", // 🏓
 
     "jelly_w5", // "jelly_w",
     "alyssa_smitt",
