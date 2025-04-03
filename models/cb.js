@@ -50,8 +50,8 @@ let cbSecondary = [
     "ingergirl",
     "pornostorys",
     "nikkibloom_xoxo", // nikkibloomxoxo,
-    "juicy_angels", // 🏓
 
+    "rodde_schlocer",
     "dearly_emily", // 🏓
     "aurorashiine", // 🏓
 
@@ -60,11 +60,9 @@ let cbSecondary = [
     "sugarbae_haze",
     "frauchocolate", // 🏓🏓🏓 (face slapping on request?)
     "bigorgasm4us", // 🏓
-    "dollyemy", // 🏓🏓
     "kathariine", // 🇺🇦 // 🏓
 
     // getting to know
-    "rodde_schlocer",
     "melani_lesss", // 🏓
     "angel_in_tibet",
 
@@ -75,6 +73,9 @@ let cbSecondary = [
     "mia_elfie",
     "sweet_tinker_bell",
     "ksensual",
+
+    "dollyemy", // 🏓🏓
+    "juicy_angels", // 🏓
 
     // couples
 
