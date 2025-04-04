@@ -47,10 +47,6 @@ let cbSecondary = [
     "candyfeatcrush",
     "onecuteangel",
 
-    "ingergirl",
-    "pornostorys",
-    "nikkibloom_xoxo", // nikkibloomxoxo,
-
     "rodde_schlocer",
     "dearly_emily", // 🏓
     "aurorashiine", // 🏓
@@ -60,7 +56,10 @@ let cbSecondary = [
     "sugarbae_haze",
     "frauchocolate", // 🏓🏓🏓 (face slapping on request?)
     "bigorgasm4us", // 🏓
-    "kathariine", // 🇺🇦 // 🏓
+
+    "pornostorys",
+    "ingergirl",
+    "nikkibloom_xoxo", // nikkibloomxoxo,
 
     // getting to know
     "melani_lesss", // 🏓
@@ -74,8 +73,8 @@ let cbSecondary = [
     "sweet_tinker_bell",
     "ksensual",
 
+    "kathariine", // 🇺🇦 // 🏓
     "dollyemy", // 🏓🏓
-    "juicy_angels", // 🏓
 
     // couples
 
@@ -112,6 +111,7 @@ let cb0Primary = [
     "yamaguchi_",
     "babe_bucks",
     "anna_bri",
+    "juicy_angels", // 🏓
 
     // idle
     "popsytopsy",
