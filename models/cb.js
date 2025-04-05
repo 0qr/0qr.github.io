@@ -129,6 +129,7 @@ let cb0Primary = [
     "myliss",
 
     // getting to know 2
+    "moonnshinee",
     "dollymelissa",
     "willow__love", // 🏓
     "janedaniells", // 🏓; stripchat: janedaniells
@@ -197,7 +198,6 @@ let cb0Primary = [
     "brielloo",
     "your_bunnygirl",
     "darina_night",
-    "moonnshinee",
     "polusladkoye",
     "evamatthews",
     "shachatte",
