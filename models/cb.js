@@ -58,7 +58,6 @@ let cbSecondary = [
     "bigorgasm4us", // 🏓
 
     "pornostorys",
-    "ingergirl",
     "nikkibloom_xoxo", // nikkibloomxoxo,
 
     // getting to know
@@ -75,6 +74,7 @@ let cbSecondary = [
 
     "kathariine", // 🇺🇦 // 🏓
     "dollyemy", // 🏓🏓
+    "ingergirl",
 
     // couples
 
