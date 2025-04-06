@@ -203,7 +203,6 @@ let cb0Primary = [
     "shachatte",
     "gold_blond",
     "hornybunnyss",
-    "cold_girl_0",
 
     "annie_f0x",
     "monster_high",
@@ -375,6 +374,7 @@ let cb1Primary = [
     "vvalkyriee", // "sasha_slim", // 🇺🇦
     "_vi_vi_",
     "vina_skybabe",
+    "cold_girl_0",
 
     "tinna_angel",
     "_wowyulia_",
