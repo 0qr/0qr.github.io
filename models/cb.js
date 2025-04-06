@@ -154,7 +154,6 @@ let cb0Primary = [
     "mia_gothh",
     "keeleyfarro", // 🏓
     "kathyclaytons",
-    "kusssecka",
     "charming_angel_",
 
     "ecsodia",
@@ -207,6 +206,7 @@ let cb0Primary = [
     "monster_high",
     "paaulina",
     "milla_remmy",
+    "vi_ana_shi",
 
     // couples, 3
     "viktoranmary",
@@ -226,8 +226,8 @@ let cb1Primary = [
     "shiningdawn",
     "my_lina",
     "joybunny",
-    "vi_ana_shi",
     "taitehambelton",
+    "kusssecka",
 
     "angel_ocu",
     "minnietammy",
