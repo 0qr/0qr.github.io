@@ -75,6 +75,7 @@ let cbSecondary = [
     "kathariine", // 🇺🇦 // 🏓
     "dollyemy", // 🏓🏓
     "ingergirl",
+    "babe_bucks",
 
     // couples
 
@@ -109,7 +110,6 @@ let cb0Primary = [
     "masqueradeporn",
 
     "yamaguchi_",
-    "babe_bucks",
     "anna_bri",
     "juicy_angels", // 🏓
 
