@@ -111,7 +111,6 @@ let cb0Primary = [
 
     "yamaguchi_",
     "anna_bri",
-    "juicy_angels", // 🏓
 
     // idle
     "popsytopsy",
@@ -172,6 +171,7 @@ let cb0Primary = [
     "ivy_whyte",
     "bestzoeyever",
     "pathos_of_things", // "neko_kimiko",
+    "juicy_angels", // 🏓
 
     // strictly eye candy, 2
     "jennytime",
