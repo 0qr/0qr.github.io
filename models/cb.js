@@ -168,7 +168,6 @@ let cb0Primary = [
     "hornyvillage",
     "agata_iris",
     "curlylolly",
-    "ivy_whyte",
     "bestzoeyever",
     "pathos_of_things", // "neko_kimiko",
     "juicy_angels", // 🏓
@@ -400,6 +399,7 @@ let cb1Primary = [
 
     // studio
     "libbyshepard", // 🏓; stripchat: IdaJonesy
+    "ivy_whyte",
     "tessarosse_",
     "fleur_x_x",
     "chatur_babes_",
