@@ -132,7 +132,6 @@ let cb0Primary = [
     "dollymelissa",
     "willow__love", // 🏓
     "janedaniells", // 🏓; stripchat: janedaniells
-    "_lustica_",
     "baby_bubbless",
     "innocentchurchgirl",
     "mirai_meow",
@@ -204,20 +203,21 @@ let cb0Primary = [
     "hornybunnyss",
     "seeunexttime",
 
-    "monster_high",
-    "paaulina",
-    "milla_remmy",
-    "vi_ana_shi",
-
     // couples, 3
     "viktoranmary",
     "hannahlusttt",
     "wladilia",
     "ayshekisskitty",
 
+    "monster_high",
+    "paaulina",
+    "milla_remmy",
+    "vi_ana_shi",
+
     // slutty appeal
     "_eva_queen",
     "fox_alina",
+    "_lustica_",
     "cute_shine"
 ];
 let cb1Primary = [
