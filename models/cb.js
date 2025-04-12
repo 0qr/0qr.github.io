@@ -64,6 +64,11 @@ let cbSecondary = [
     "melani_lesss", // 🏓
     "angel_in_tibet",
 
+    "kathariine", // 🇺🇦 // 🏓
+    "dollyemy", // 🏓🏓
+    "ingergirl",
+    "babe_bucks",
+
     // strictly eye candy
     "_isiah", // "isia_slay",
     "xxx_leila", // 🏓
@@ -71,11 +76,7 @@ let cbSecondary = [
     "mia_elfie",
     "sweet_tinker_bell",
     "ksensual",
-
-    "kathariine", // 🇺🇦 // 🏓
-    "dollyemy", // 🏓🏓
-    "ingergirl",
-    "babe_bucks",
+    "audreycarvin",
 
     // couples
 
@@ -118,7 +119,6 @@ let cb0Primary = [
     "amazon_girl",
 
     // strictly eye candy, 3
-    "audreycarvin",
     "ooxygenlow",
     "love_melody",
     "erelima",
