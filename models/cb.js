@@ -164,7 +164,6 @@ let cb0Primary = [
     "friendlyfire6", // 🏓
 
     "jelly_w5", // "jelly_w",
-    "alyssa_smitt",
     "hornyvillage",
     "agata_iris",
     "curlylolly",
@@ -194,7 +193,6 @@ let cb0Primary = [
     "klttys__pearl",
     "plastic_beach",
     "brielloo",
-    "your_bunnygirl",
     "darina_night",
     "polusladkoye",
     "evamatthews",
@@ -225,6 +223,8 @@ let cb1Primary = [
     "your_bunnygirl", // 🇺🇦
     "vopooo",
     "shiningdawn",
+
+    "alyssa_smitt",
     "my_lina",
     "joybunny",
     "taitehambelton",
