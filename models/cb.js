@@ -112,7 +112,6 @@ let cb0Primary = [
     "milly____",
     "catanddickxxx",
     "masqueradeporn",
-    "hot_ho",
 
     // idle
     "popsytopsy",
@@ -210,6 +209,7 @@ let cb0Primary = [
     "hannahlusttt",
     "wladilia",
     "ayshekisskitty",
+    "hot_ho",
 
     "monster_high",
     "paaulina",
