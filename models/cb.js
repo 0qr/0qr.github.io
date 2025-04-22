@@ -181,6 +181,7 @@ let cb0Primary = [
     "lauratanguy",
     "_eva_blame_",
     "ab_s",
+    "lendielira",
 
     // getting to know, 3
     "friend_foryou",
