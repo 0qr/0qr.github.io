@@ -104,14 +104,15 @@ let cb0Primary = [
     "vilanelle_1",
     "kira_censori", // 🏓
 
+    "yamaguchi_",
+    "anna_bri",
+
     // couples, 2
     "playwithmil",
     "milly____",
     "catanddickxxx",
     "masqueradeporn",
-
-    "yamaguchi_",
-    "anna_bri",
+    "hot_ho",
 
     // idle
     "popsytopsy",
@@ -137,7 +138,6 @@ let cb0Primary = [
     "mirai_meow",
     "maudcouncil",
     "e_vvv_a", // 🏓
-    "veneradi615",
     "scarlettt_moon",
     "cutieeeeva",
 
@@ -184,14 +184,15 @@ let cb0Primary = [
     "ab_s",
 
     // getting to know, 3
+    "friend_foryou",
+    "gina_vicious",
     "lisa_marxsss",
     "x_lina",
     "blondyrush",
     "anbarbie",
     "milky__way_",
     "miss_sweetdream",
-    "friend_foryou",
-    "gina_vicious",
+    "veneradi615",
 
     "klttys__pearl",
     "plastic_beach",
@@ -209,7 +210,6 @@ let cb0Primary = [
     "hannahlusttt",
     "wladilia",
     "ayshekisskitty",
-    "hot_ho",
 
     "monster_high",
     "paaulina",
