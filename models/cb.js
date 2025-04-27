@@ -164,7 +164,8 @@ let cb0Primary = [
     "friendlyfire6", // 🏓
 
     "jelly_w5", // "jelly_w",
-    "hornyvillage",
+    "eva_pixie", // "hornyvillage",
+    "pussylovekate",
     "agata_iris",
     "curlylolly",
     "bestzoeyever",
