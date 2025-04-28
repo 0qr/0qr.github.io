@@ -166,7 +166,6 @@ let cb0Primary = [
 
     "jelly_w5", // "jelly_w",
     "eva_pixie", // "hornyvillage",
-    "pussylovekate",
     "agata_iris",
     "curlylolly",
     "bestzoeyever",
@@ -220,6 +219,7 @@ let cb0Primary = [
     "paaulina",
     "milla_remmy",
     "vi_ana_shi",
+    "pussylovekate",
 
     // slutty appeal
     "_eva_queen",
