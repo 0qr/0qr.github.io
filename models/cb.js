@@ -57,15 +57,16 @@ let cbSecondary = [
     "frauchocolate", // 🏓🏓🏓 (face slapping on request?)
     "bigorgasm4us", // 🏓
 
-    "pornostorys",
     "nikkibloom_xoxo", // nikkibloomxoxo,
+    "pornostorys",
+    "dollyemy", // 🏓🏓
 
     // getting to know
     "melani_lesss", // 🏓
     "angel_in_tibet",
+    "mirai_meow",
 
     "kathariine", // 🇺🇦 // 🏓
-    "dollyemy", // 🏓🏓
     "ingergirl",
     "babe_bucks",
 
@@ -134,7 +135,6 @@ let cb0Primary = [
     "janedaniells", // 🏓; stripchat: janedaniells
     "baby_bubbless",
     "innocentchurchgirl",
-    "mirai_meow",
     "maudcouncil",
     "e_vvv_a", // 🏓
     "scarlettt_moon",
