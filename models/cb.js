@@ -357,7 +357,6 @@ let cb1Primary = [
 
     // couples, 4
     "vanilla_lips",
-    "shineblue2728",
     "logan_emma1",
     "familysexy34",
     "postbaby",
