@@ -51,9 +51,7 @@ let cbSecondary = [
     "dearly_emily", // 🏓
     "aurorashiine", // 🏓
 
-    "hit_girl_",
     "mary_delray",
-    "sugarbae_haze",
     "frauchocolate", // 🏓🏓🏓 (face slapping on request?)
     "bigorgasm4us", // 🏓
 
@@ -68,7 +66,6 @@ let cbSecondary = [
 
     // strictly eye candy
     "_isiah", // "isia_slay",
-    "xxx_leila", // 🏓
     "star_gazing",
     "mia_elfie",
     "sweet_tinker_bell",
@@ -82,6 +79,7 @@ let cbSecondary = [
     // couples
 
     // idle
+    "sugarbae_haze",
     "lovahd",
     "lola_bunny94",
     "july_koss",
@@ -101,12 +99,14 @@ fn__cbPrimary();
 fn__cbSecondary();
 
 let cb0Primary = [
+    "yamaguchi_",
+    "anna_bri",
+    "xxx_leila", // 🏓
+    "hit_girl_",
+
     "juliet_bb",
     "vilanelle_1",
     "kira_censori", // 🏓
-
-    "yamaguchi_",
-    "anna_bri",
 
     // couples, 2
     "playwithmil",
