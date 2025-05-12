@@ -197,6 +197,7 @@ let cb0Primary = [
     "treplady",
     "bellacle",
     "smile_with_nicole",
+    "angela_whitie",
 
     "klttys__pearl",
     "plastic_beach",
