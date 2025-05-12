@@ -112,8 +112,6 @@ let cb0Primary = [
     // couples, 2
     "playwithmil",
     "milly____",
-    "catanddickxxx",
-    "masqueradeporn",
 
     // idle
     "popsytopsy",
@@ -217,6 +215,8 @@ let cb0Primary = [
     "wladilia",
     "ayshekisskitty",
     "hot_ho",
+    "catanddickxxx",
+    "masqueradeporn",
 
     "monster_high",
     "paaulina",
