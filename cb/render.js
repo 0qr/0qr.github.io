@@ -130,7 +130,7 @@ function renderChannels() {
 	$$__Models.forEach(renderChannel);
 }
 
-setInterval(refreshing, 512);
+setInterval(refreshing, 384);
 
 setInterval(checking, 4096, $$__Active);
 
