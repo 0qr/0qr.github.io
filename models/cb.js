@@ -77,6 +77,8 @@ let cbSecondary = [
     "kathariine", // 🇺🇦 // 🏓
     "ingergirl",
     "babe_bucks",
+    "hit_girl_",
+    "anna_bri",
 
     // couples
 
@@ -102,9 +104,7 @@ fn__cbSecondary();
 
 let cb0Primary = [
     "yamaguchi_",
-    "anna_bri",
     "xxx_leila", // 🏓
-    "hit_girl_",
 
     "juliet_bb",
     "vilanelle_1",
