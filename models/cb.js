@@ -65,6 +65,7 @@ let cbSecondary = [
     "mirai_meow",
     "loony_moony",
     "cutieeeeva",
+    "goodg_oddamn",
 
     // strictly eye candy
     "_isiah", // "isia_slay",
