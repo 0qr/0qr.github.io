@@ -58,14 +58,7 @@ let cbSecondary = [
     "nikkibloom_xoxo", // nikkibloomxoxo,
     "pornostorys",
     "dollyemy", // 🏓🏓
-
-    // getting to know
-    "melani_lesss", // 🏓
     "angel_in_tibet",
-    "mirai_meow",
-    "loony_moony",
-    "cutieeeeva",
-    "goodg_oddamn",
 
     // strictly eye candy
     "_isiah", // "isia_slay",
@@ -74,6 +67,13 @@ let cbSecondary = [
     "sweet_tinker_bell",
     "ksensual",
     "audreycarvin",
+
+    // getting to know
+    "melani_lesss", // 🏓
+    "mirai_meow",
+    "loony_moony",
+    "cutieeeeva",
+    "goodg_oddamn",
 
     "kathariine", // 🇺🇦 // 🏓
     "ingergirl",
