@@ -17,7 +17,9 @@ let cbPrimary = [
 let cbSecondary = [
     "qeeensgambit",
     "wild_schoolgirl", // 🇷🇴
+
     "flowerr_powerr", // 🏓🏓🏓
+    "agata_cristy", // 🏓
 
     "lexy_sinn", // 🏓🏓
     "saimashine", // 🏓🏓🏓
@@ -30,19 +32,18 @@ let cbSecondary = [
     "_taylor_swift", // 🏓
     "jilly_wolly1",
 
-    "whitebanny", // 🏓🏓
-    "agata_cristy", // 🏓
     "yournaughtymiss",
     "evelissa",
     "neondemon_",
-
-    "lexi_ridss_", // 🇺🇦
-    "marylanex", // 🇺🇦
-    "misstics_", // 🇺🇦
+    "whitebanny", // 🏓
 
     // problematic
     "bustykatia", // 🇷🇴
     "freyaeva", // 🇷🇴
+
+    "lexi_ridss_", // 🇺🇦
+    "marylanex", // 🇺🇦
+    "misstics_", // 🇺🇦
 
     "candyfeatcrush",
     "onecuteangel",
