@@ -141,6 +141,8 @@ let cb0Primary = [
     "e_vvv_a", // 🏓
     "scarlettt_moon",
     "lolamaythebae",
+    "lucylia_",
+    "ariah_is_blonde",
 
     "sunshine_diana_",
     "mia__amore",
@@ -200,7 +202,6 @@ let cb0Primary = [
     "bellacle",
     "smile_with_nicole",
     "angela_whitie",
-    "ariah_is_blonde",
 
     "klttys__pearl",
     "plastic_beach",
