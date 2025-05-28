@@ -172,6 +172,7 @@ let cb0Primary = [
     "alisagoddie19",
     "alexiafoxmodel", // 🏓
     "friendlyfire6", // 🏓
+    "kawaimay",
 
     "jelly_w5", // "jelly_w",
     "eva_pixie", // "hornyvillage",
