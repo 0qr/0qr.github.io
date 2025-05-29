@@ -75,7 +75,6 @@ let cbSecondary = [
     "rosa_burgess",
     "loony_moony",
     "cutieeeeva",
-    "wild_wet_lovely",
     "gwendolynharkey",
 
     "kathariine", // 🇺🇦 // 🏓
@@ -149,6 +148,7 @@ let cb0Primary = [
     "luxureart", // 🏓
     "slimmaya",
     "goodg_oddamn",
+    "wild_wet_lovely",
 
     "sunshine_diana_",
     "mia__amore",
