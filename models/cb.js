@@ -206,7 +206,6 @@ let cb0Primary = [
     "yaraliebe",
     "treplady",
     "bellacle",
-    "smile_with_nicole",
     "chisamisa",
     "your_nicolett",
 
@@ -219,7 +218,6 @@ let cb0Primary = [
     "shachatte",
     "gold_blond",
     "hornybunnyss",
-    "seeunexttime",
 
     // couples, 3
     "viktoranmary",
@@ -357,7 +355,8 @@ let cb1Primary = [
     "skinny_alice",
     "pollyrouge",
     "sexytemptation696",
-
+    "smile_with_nicole",
+    "seeunexttime",
     "amelia_chi",
     "stacy_lees",
     "kriss_foxx",
