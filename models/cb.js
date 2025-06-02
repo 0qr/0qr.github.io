@@ -182,6 +182,7 @@ let cb0Primary = [
     "bestzoeyever",
     "pathos_of_things", // "neko_kimiko",
     "juicy_angels", // 🏓
+    "aquilaria_",
 
     // strictly eye candy, 2
     "jennytime",
