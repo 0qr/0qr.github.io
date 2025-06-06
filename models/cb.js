@@ -207,7 +207,6 @@ let cb0Primary = [
     "yaraliebe",
     "bellacle",
     "chisamisa",
-    "your_nicolett",
     "mia_meows",
 
     "blondie_muller",
@@ -371,6 +370,7 @@ let cb1Primary = [
     "1i1ypa1mer",
     "pickme__",
     "aquilaria_",
+    "your_nicolett",
 
     // couples, 4
     "vanilla_lips",
