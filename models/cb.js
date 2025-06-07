@@ -123,10 +123,11 @@ let cb0Primary = [
     "mynameisnikki",
     "amazon_girl",
 
-    // strictly eye candy, 3
+    // strictly eye candy, 2
     "ooxygenlow",
     "love_melody",
     "erelima",
+    "gina_vicious",
 
     "veronikaav",
     "eva_doll_4u", // "elizabad",
@@ -182,7 +183,7 @@ let cb0Primary = [
     "pathos_of_things", // "neko_kimiko",
     "juicy_angels", // 🏓
 
-    // strictly eye candy, 2
+    // strictly eye candy, 3
     "jennytime",
     "bunnydollstella",
     "babeholly",
