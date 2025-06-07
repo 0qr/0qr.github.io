@@ -150,7 +150,6 @@ let cb0Primary = [
     "slimmaya",
     "goodg_oddamn",
     "wild_wet_lovely",
-    "angelaguapisima",
 
     "sunshine_diana_",
     "mia__amore",
@@ -372,6 +371,7 @@ let cb1Primary = [
     "1i1ypa1mer",
     "pickme__",
     "aquilaria_",
+    "angelaguapisima",
     "your_nicolett",
 
     // couples, 4
