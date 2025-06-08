@@ -220,6 +220,7 @@ let cb0Primary = [
     "shachatte",
     "gold_blond",
     "hornybunnyss",
+    "annie_f0x",
 
     // couples, 3
     "viktoranmary",
