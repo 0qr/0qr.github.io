@@ -210,6 +210,7 @@ let cb0Primary = [
     "dollyvega",
     "amilia4u",
 
+    "demmi_foxy",
     "blondie_muller",
     "klttys__pearl",
     "plastic_beach",
@@ -253,7 +254,6 @@ let cb1Primary = [
     "joybunny",
     "taitehambelton",
     "kusssecka",
-    "annie_f0x",
     "emilyy_miller",
 
     "angel_ocu",
