@@ -18,8 +18,10 @@ let cbSecondary = [
     "qeeensgambit",
     "wild_schoolgirl", // 🇷🇴
 
+    "rodde_schlocer",
+    "aurorashiine", // 🏓
+
     "flowerr_powerr", // 🏓🏓🏓
-    "agata_cristy", // 🏓
 
     "lexy_sinn", // 🏓🏓
     "saimashine", // 🏓🏓🏓
@@ -31,26 +33,25 @@ let cbSecondary = [
     "shinyways", // 🏓🏓
     "_taylor_swift", // 🏓
     "jilly_wolly1",
+    "agata_cristy", // 🏓
 
     "yournaughtymiss",
     "evelissa",
-    "neondemon_",
     "whitebanny", // 🏓
-
-    // problematic
-    "bustykatia", // 🇷🇴
-    "freyaeva", // 🇷🇴
 
     "lexi_ridss_", // 🇺🇦
     "marylanex", // 🇺🇦
     "misstics_", // 🇺🇦
 
+    // problematic
+    "bustykatia", // 🇷🇴
+    "freyaeva", // 🇷🇴
+
     "candyfeatcrush",
     "onecuteangel",
 
-    "rodde_schlocer",
     "dearly_emily", // 🏓
-    "aurorashiine", // 🏓
+    "neondemon_",
 
     "mary_delray",
     "frauchocolate", // 🏓🏓🏓 (face slapping on request?)
