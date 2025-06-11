@@ -153,7 +153,7 @@ let cb0Primary = [
     "slimmaya",
     "goodg_oddamn",
     "wild_wet_lovely",
-    "my_blonde",
+    "my_blonde", // 🇺🇦
 
     "sunshine_diana_",
     "mia__amore",
