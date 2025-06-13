@@ -223,7 +223,7 @@ let cb0Primary = [
     "shachatte",
     "gold_blond",
     "hornybunnyss",
-    "annie_f0x",
+    "mia_riley_online",
 
     // couples, 3
     "viktoranmary",
@@ -267,8 +267,10 @@ let cb1Primary = [
     "my_blonde", // 🇺🇦
 
     "the_anya", // 🇺🇦
-    "kawaimay",
+
+    "annie_f0x",
     "urbabykam",
+    "kawaimay",
 
     "mary_janee__",
     "superior_cat",
