@@ -157,6 +157,7 @@ let cb0Primary = [
     "tinkerdinky",
     "holl1would",
     "mickeydior",
+    "whisperprincess",
 
     "sunshine_diana_",
     "mia__amore",
