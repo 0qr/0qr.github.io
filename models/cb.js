@@ -214,7 +214,7 @@ let cb0Primary = [
     "yaraliebe",
     "mia_meows",
     "waifu_exe",
-    "kennasoft",
+    "shy_starlight",
 
     "demmi_foxy",
     "blondie_muller",
