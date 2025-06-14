@@ -216,6 +216,7 @@ let cb0Primary = [
     "mia_meows",
     "waifu_exe",
     "shy_starlight",
+    "diamond_sydney", // 🇺🇦
 
     "demmi_foxy",
     "blondie_muller",
