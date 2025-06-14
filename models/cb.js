@@ -213,6 +213,7 @@ let cb0Primary = [
     "veneradi615",
     "yaraliebe",
     "mia_meows",
+    "waifu_exe",
 
     "demmi_foxy",
     "blondie_muller",
