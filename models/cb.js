@@ -154,7 +154,6 @@ let cb0Primary = [
     "wild_wet_lovely",
     "cindy_luv",
     "tinkerdinky",
-    "holl1would",
     "mickeydior",
     "whisperprincess",
 
@@ -217,6 +216,7 @@ let cb0Primary = [
     "waifu_exe",
     "shy_starlight",
     "diamond_sydney", // 🇺🇦
+    "holl1would",
 
     "demmi_foxy",
     "blondie_muller",
