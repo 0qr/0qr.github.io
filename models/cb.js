@@ -246,6 +246,7 @@ let cb0Primary = [
     "pussylovekate",
 
     // slutty appeal
+    "sunbeam181",
     "fox_alina",
     "_lustica_",
     "cute_shine"
