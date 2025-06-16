@@ -214,8 +214,8 @@ let cb0Primary = [
     "veneradi615",
     "yaraliebe",
     "mia_meows",
+    "shelly333",
     "waifu_exe",
-    "holl1would",
 
     "demmi_foxy",
     "blondie_muller",
@@ -272,8 +272,10 @@ let cb1Primary = [
     "my_blonde", // 🇺🇦
     "the_anya", // 🇺🇦
 
+    // getting to know, 4
     "ass_latte",
     "gwendolynharkey",
+    "holl1would",
 
     "kawaimay",
     "annie_f0x",
