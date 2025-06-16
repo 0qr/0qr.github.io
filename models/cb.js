@@ -181,6 +181,9 @@ let cb0Primary = [
     "lovelycaroline_", // 🏓🏓
     "alisagoddie19",
     "alexiafoxmodel", // 🏓
+
+    // slutty appeal
+    "sunbeam181",
     "friendlyfire6", // 🏓
 
     "jelly_w5", // "jelly_w",
@@ -247,8 +250,7 @@ let cb0Primary = [
     "vi_ana_shi",
     "pussylovekate",
 
-    // slutty appeal
-    "sunbeam181",
+    // slutty appeal, 2
     "fox_alina",
     "_lustica_",
     "cute_shine"
