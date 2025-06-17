@@ -159,7 +159,6 @@ let cb0Primary = [
     "whisperprincess",
     "blair_foxxxy",
     "milana_crystal_", // 🇺🇦
-    "sirena_princess",
 
     "sunshine_diana_",
     "mia__amore",
@@ -186,6 +185,7 @@ let cb0Primary = [
 
     // slutty appeal
     "sunbeam181",
+    "demmi_foxy",
     "friendlyfire6", // 🏓
 
     "jelly_w5", // "jelly_w",
@@ -223,8 +223,8 @@ let cb0Primary = [
     "waifu_exe",
     "sarahcarrter",
     "your_misstress",
+    "sirena_princess",
 
-    "demmi_foxy",
     "blondie_muller",
     "klttys__pearl",
     "plastic_beach",
