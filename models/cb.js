@@ -159,7 +159,6 @@ let cb0Primary = [
     "whisperprincess",
     "blair_foxxxy",
     "milana_crystal_", // 🇺🇦
-    "ssscarlett",
 
     "sunshine_diana_",
     "mia__amore",
@@ -237,6 +236,7 @@ let cb0Primary = [
     "hornybunnyss",
     "mia_riley_online",
     "_your_tessa",
+    "ssscarlett",
 
     // couples, 3
     "viktoranmary",
