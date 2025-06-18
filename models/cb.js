@@ -195,17 +195,6 @@ let cb0Primary = [
     "pathos_of_things", // "neko_kimiko",
     "juicy_angels", // 🏓
 
-    // strictly eye candy, 3
-    "jennytime",
-    "bunnydollstella",
-    "babeholly",
-    "luckysexydoll",
-    "white_lime",
-    "ohbabykelly",
-    "lauratanguy",
-    "_eva_blame_",
-    "ab_s",
-
     // getting to know, 3
     "friend_foryou",
     "gina_vicious",
@@ -224,6 +213,18 @@ let cb0Primary = [
     "your_misstress",
     "sirena_princess",
     "3stepsaboveheaven",
+
+    // strictly eye candy, 3
+    "jennytime",
+    "bunnydollstella",
+    "babeholly",
+    "luckysexydoll",
+    "white_lime",
+    "ohbabykelly",
+    "lauratanguy",
+    "_eva_blame_",
+    "ab_s",
+    "joybunny",
 
     "blondie_muller",
     "klttys__pearl",
