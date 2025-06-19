@@ -213,6 +213,7 @@ let cb0Primary = [
     "your_misstress",
     "sirena_princess",
     "3stepsaboveheaven",
+    "_kiki_pie",
 
     // strictly eye candy, 3
     "jennytime",
