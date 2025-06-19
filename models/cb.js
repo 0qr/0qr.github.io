@@ -150,7 +150,6 @@ let cb0Primary = [
     "scarlettt_moon",
     "lolamaythebae",
     "lucylia_",
-    "ariah_is_blonde",
     "luxureart", // 🏓
     "goodg_oddamn",
     "wild_wet_lovely",
@@ -227,6 +226,7 @@ let cb0Primary = [
     "ab_s",
     "joybunny",
     "mist_mia",
+    "ariah_is_blonde",
 
     "blondie_muller",
     "klttys__pearl",
