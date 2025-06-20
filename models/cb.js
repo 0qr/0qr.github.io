@@ -184,15 +184,6 @@ let cb0Primary = [
     "sunbeam181",
     "demmi_foxy",
 
-    "jelly_w5", // "jelly_w",
-    "eva_pixie", // "hornyvillage",
-    "agata_iris",
-    "curlylolly",
-    "bestzoeyever",
-    "pathos_of_things", // "neko_kimiko",
-    "juicy_angels", // 🏓
-    "hit_girl_",
-
     // getting to know, 3
     "friend_foryou",
     "gina_vicious",
@@ -214,6 +205,16 @@ let cb0Primary = [
     "_kiki_pie",
     "_fieryflash_",
 
+    "eva_pixie", // "hornyvillage",
+    "agata_iris",
+    "curlylolly",
+    "bestzoeyever",
+    "pathos_of_things", // "neko_kimiko",
+    "juicy_angels", // 🏓
+    "hit_girl_",
+    "mia_riley_online",
+    "_your_tessa",
+
     // strictly eye candy, 3
     "jennytime",
     "bunnydollstella",
@@ -228,6 +229,7 @@ let cb0Primary = [
     "mist_mia",
     "ariah_is_blonde",
 
+    "jelly_w5", // "jelly_w",
     "blondie_muller",
     "klttys__pearl",
     "plastic_beach",
@@ -237,8 +239,6 @@ let cb0Primary = [
     "shachatte",
     "gold_blond",
     "hornybunnyss",
-    "mia_riley_online",
-    "_your_tessa",
     "ssscarlett",
 
     // couples, 3
