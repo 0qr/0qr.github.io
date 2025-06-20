@@ -184,7 +184,6 @@ let cb0Primary = [
     // slutty appeal
     "sunbeam181",
     "demmi_foxy",
-    "friendlyfire6", // 🏓
 
     "jelly_w5", // "jelly_w",
     "eva_pixie", // "hornyvillage",
@@ -258,6 +257,7 @@ let cb0Primary = [
     "pussylovekate",
 
     // slutty appeal, 2
+    "friendlyfire6", // 🏓
     "sherry_sandra",
     "fox_alina",
     "_lustica_",
