@@ -204,6 +204,7 @@ let cb0Primary = [
     "3stepsaboveheaven",
     "_kiki_pie",
     "_fieryflash_",
+    "mercy_bloom",
 
     "eva_pixie", // "hornyvillage",
     "agata_iris",
