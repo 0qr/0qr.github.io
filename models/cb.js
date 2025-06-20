@@ -83,7 +83,6 @@ let cbSecondary = [
     "kathariine", // 🇺🇦 // 🏓
     "ingergirl",
     "babe_bucks",
-    "hit_girl_",
     "anna_bri",
 
     // idle
@@ -192,6 +191,7 @@ let cb0Primary = [
     "bestzoeyever",
     "pathos_of_things", // "neko_kimiko",
     "juicy_angels", // 🏓
+    "hit_girl_",
 
     // getting to know, 3
     "friend_foryou",
