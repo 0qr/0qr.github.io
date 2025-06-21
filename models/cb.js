@@ -76,10 +76,6 @@ let cbSecondary = [
     "catherenee",
     "melani_lesss", // 🏓
     "mirai_meow",
-    "rosa_burgess",
-    "loony_moony",
-    "cutieeeeva",
-    "wynol",
 
     "kathariine", // 🇺🇦 // 🏓
     "ingergirl",
@@ -159,15 +155,20 @@ let cb0Primary = [
     "milana_crystal_", // 🇺🇦
 
     "sunshine_diana_",
+    "wynol",
+    "tollysage",
+    "naive_love",
+    "cutieeeeva",
+
     "mia__amore",
     "miolia",
-    "tollysage",
     "henriettaheldreth",
     "natalie_x",
     "jasminetoy",
     "megan_myersss",
     "ami_sakurami",
-    "naive_love",
+    "rosa_burgess",
+    "loony_moony",
     "dream_desire_",
     "mia_gothh",
     "keeleyfarro", // 🏓
