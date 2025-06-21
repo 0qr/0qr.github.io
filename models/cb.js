@@ -198,7 +198,6 @@ let cb0Primary = [
     "mia_meows",
     "shelly333",
     "waifu_exe",
-    "sarahcarrter",
     "your_misstress",
     "sirena_princess",
     "3stepsaboveheaven",
