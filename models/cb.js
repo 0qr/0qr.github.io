@@ -71,13 +71,14 @@ let cbSecondary = [
     "audreycarvin",
 
     // getting to know
+    "blair_foxxxy",
+    "mickeydior",
+    "catherenee",
     "melani_lesss", // 🏓
     "mirai_meow",
     "rosa_burgess",
     "loony_moony",
     "cutieeeeva",
-    "catherenee",
-    "blair_foxxxy",
     "wynol",
 
     "kathariine", // 🇺🇦 // 🏓
@@ -154,7 +155,6 @@ let cb0Primary = [
     "wild_wet_lovely",
     "cindy_luv",
     "tinkerdinky",
-    "mickeydior",
     "whisperprincess",
     "milana_crystal_", // 🇺🇦
 
