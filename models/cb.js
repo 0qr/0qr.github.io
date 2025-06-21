@@ -227,6 +227,7 @@ let cb0Primary = [
     "ab_s",
     "joybunny",
     "mist_mia",
+    "cold_bumble",
     "ariah_is_blonde",
 
     "jelly_w5", // "jelly_w",
