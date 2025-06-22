@@ -251,6 +251,7 @@ let cb0Primary = [
     "masqueradeporn",
 
     "checkmypeach",
+    "yesiamjasse",
     "monster_high",
     "paaulina",
     "hello_vivienne",
