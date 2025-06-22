@@ -76,6 +76,7 @@ let cbSecondary = [
     "catherenee",
     "melani_lesss", // 🏓
     "mirai_meow",
+    "wellicaren",
 
     "kathariine", // 🇺🇦 // 🏓
     "ingergirl",
