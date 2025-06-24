@@ -155,6 +155,7 @@ let cb0Primary = [
     "whisperprincess",
     "milana_crystal_", // 🇺🇦
     "rosa_burgess",
+    "your_misstress",
 
     "sunshine_diana_",
     "wynol",
@@ -199,7 +200,6 @@ let cb0Primary = [
     "mia_meows",
     "shelly333",
     "waifu_exe",
-    "your_misstress",
     "sirena_princess",
     "3stepsaboveheaven",
     "_kiki_pie",
