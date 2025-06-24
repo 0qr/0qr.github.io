@@ -153,7 +153,6 @@ let cb0Primary = [
     "cindy_luv",
     "tinkerdinky",
     "whisperprincess",
-    "milana_crystal_", // 🇺🇦
     "rosa_burgess",
     "your_misstress",
     "_lamaria_x",
@@ -216,6 +215,7 @@ let cb0Primary = [
     "hit_girl_",
     "mia_riley_online",
     "_your_tessa",
+    "milana_crystal_", // 🇺🇦
 
     // strictly eye candy, 3
     "jennytime",
