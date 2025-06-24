@@ -201,7 +201,6 @@ let cb0Primary = [
     "shelly333",
     "waifu_exe",
     "sirena_princess",
-    "3stepsaboveheaven",
     "_kiki_pie",
     "_fieryflash_",
     "mercy_bloom",
@@ -296,6 +295,7 @@ let cb1Primary = [
     "gwendolynharkey",
     "holl1would",
     "luckyday_",
+    "3stepsaboveheaven",
 
     "kawaimay",
     "annie_f0x",
