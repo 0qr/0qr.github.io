@@ -162,6 +162,7 @@ let cb0Primary = [
     "tollysage",
     "naive_love",
     "cutieeeeva",
+    "joybunny",
 
     "mia__amore",
     "miolia",
@@ -227,7 +228,6 @@ let cb0Primary = [
     "lauratanguy",
     "_eva_blame_",
     "ab_s",
-    "joybunny",
     "mist_mia",
     "cold_bumble",
     "ariah_is_blonde",
