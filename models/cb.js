@@ -134,6 +134,7 @@ let cb0Primary = [
 
     "veronikaav",
     "eva_doll_4u", // "elizabad",
+    "alisagoddie19",
 
     // getting to know 2
     "treplady",
@@ -180,7 +181,6 @@ let cb0Primary = [
     "ecsodia",
     "lastdawn", // 🏓🏓
     "lovelycaroline_", // 🏓🏓
-    "alisagoddie19",
     "alexiafoxmodel", // 🏓
 
     // slutty appeal
