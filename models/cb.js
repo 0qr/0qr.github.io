@@ -146,7 +146,6 @@ let cb0Primary = [
     "innocentchurchgirl",
     "scarlettt_moon",
     "lolamaythebae",
-    "lucylia_",
     "luxureart", // 🏓
     "goodg_oddamn",
     "wild_wet_lovely",
@@ -206,6 +205,7 @@ let cb0Primary = [
     "_fieryflash_",
     "mercy_bloom",
     "darlingdarinka",
+    "lucylia_",
 
     "eva_pixie", // "hornyvillage",
     "agata_iris",
