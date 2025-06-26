@@ -205,6 +205,7 @@ let cb0Primary = [
     "_fieryflash_",
     "mercy_bloom",
     "darlingdarinka",
+    "sweetgirlandbigcock",
     "lucylia_",
 
     "eva_pixie", // "hornyvillage",
@@ -243,7 +244,6 @@ let cb0Primary = [
     "gold_blond",
     "hornybunnyss",
     "ssscarlett",
-    "sweetgirlandbigcock",
 
     // couples, 3
     "viktoranmary",
