@@ -119,6 +119,7 @@ let cb0Primary = [
     "milly____",
     "familysexy34",
     "ayshekisskitty",
+    "logan_emma1",
 
     // idle
     "popsytopsy",
@@ -420,7 +421,6 @@ let cb1Primary = [
 
     // couples, 4
     "vanilla_lips",
-    "logan_emma1",
     "familysexy34",
     "postbaby",
     "eternal__lovers",
