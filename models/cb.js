@@ -197,7 +197,6 @@ let cb0Primary = [
     "milky__way_",
     "miss_sweetdream",
     "veneradi615",
-    "yaraliebe",
     "mia_meows",
     "shelly333",
     "waifu_exe",
@@ -237,7 +236,6 @@ let cb0Primary = [
     "ariah_is_blonde",
 
     "jelly_w5", // "jelly_w",
-    "blondie_muller",
     "klttys__pearl",
     "plastic_beach",
     "brielloo",
@@ -280,6 +278,7 @@ let cb1Primary = [
     "shiningdawn",
 
     "alyssa_smitt",
+    "blondie_muller",
     "joybunny",
     "taitehambelton",
     "kusssecka",
@@ -300,7 +299,7 @@ let cb1Primary = [
     "holl1would",
     "luckyday_",
     "3stepsaboveheaven",
-    "joybunny",
+    "yaraliebe",
 
     "kawaimay",
     "annie_f0x",
