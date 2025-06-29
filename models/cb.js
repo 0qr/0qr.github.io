@@ -171,7 +171,6 @@ let cb0Primary = [
     "natalie_x",
     "jasminetoy",
     "megan_myersss",
-    "loony_moony",
     "dream_desire_",
     "mia_gothh",
     "keeleyfarro", // 🏓
@@ -313,6 +312,7 @@ let cb1Primary = [
     "wild_angel777", // 🇺🇦
     "bella_white19",
     "cindy_luv",
+    "loony_moony",
 
     // strictly eye candy, 3
     "beatrice_melton",
