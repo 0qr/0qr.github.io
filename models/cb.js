@@ -159,6 +159,7 @@ let cb0Primary = [
     "_lamaria_x",
     "e_vvv_a", // 🏓
     "polynessia", // my_lina
+    "truesue",
 
     "sunshine_diana_",
     "wynol",
