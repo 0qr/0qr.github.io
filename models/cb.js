@@ -138,13 +138,13 @@ let cb0Primary = [
     "alisagoddie19",
 
     // getting to know 2
+    "innocentchurchgirl",
     "treplady",
     "moonnshinee",
     "dollymelissa",
     "willow__love", // 🏓
     "janedaniells", // 🏓; stripchat: janedaniells
     "baby_bubbless",
-    "innocentchurchgirl",
     "scarlettt_moon",
     "lolamaythebae",
     "luxureart", // 🏓
@@ -152,7 +152,6 @@ let cb0Primary = [
     "wild_wet_lovely",
     "tinkerdinky",
     "darlingdarinka",
-    "why_____not",
     "whisperprincess",
     "rosa_burgess",
     "your_misstress",
@@ -160,6 +159,7 @@ let cb0Primary = [
     "e_vvv_a", // 🏓
     "polynessia", // my_lina
     "truesue",
+    "why_____not",
 
     "sunshine_diana_",
     "wynol",
@@ -191,7 +191,6 @@ let cb0Primary = [
     // getting to know, 3
     "friend_foryou",
     "gina_vicious",
-    "lisa_marxsss",
     "x_lina",
     "blondyrush",
     "kissing33", // 🇺🇦
@@ -222,7 +221,6 @@ let cb0Primary = [
     "juicy_angels", // 🏓
     "hit_girl_",
     "mia_riley_online",
-    "_your_tessa",
     "milana_crystal_", // 🇺🇦
 
     // strictly eye candy, 3
@@ -234,7 +232,6 @@ let cb0Primary = [
     "ohbabykelly",
     "lauratanguy",
     "_eva_blame_",
-    "ab_s",
     "mist_mia",
     "cold_bumble",
     "ariah_is_blonde",
@@ -242,13 +239,11 @@ let cb0Primary = [
     "jelly_w5", // "jelly_w",
     "klttys__pearl",
     "plastic_beach",
-    "brielloo",
     "darina_night",
     "polusladkoye",
     "shachatte",
     "gold_blond",
     "hornybunnyss",
-    "ssscarlett",
     "cute_shine",
 
     // couples, 3
@@ -268,6 +263,11 @@ let cb0Primary = [
     "vi_ana_shi",
     "pussylovekate",
 
+    // idle, 2
+    "ab_s",
+    "brielloo",
+    "lisa_marxsss",
+
     // slutty appeal, 2
     "friendlyfire6", // 🏓
     "sherry_sandra",
@@ -280,6 +280,9 @@ let cb1Primary = [
     "your_bunnygirl", // 🇺🇦
     "vopooo",
     "shiningdawn",
+
+    "ssscarlett",
+    "_your_tessa",
 
     "alyssa_smitt",
     "blondie_muller",
