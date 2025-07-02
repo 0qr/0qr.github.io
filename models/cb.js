@@ -115,7 +115,7 @@ let cb0Primary = [
     "vilanelle_1",
     "kira_censori", // 🏓
 
-    // couples, 2
+    // couples, 0-1
     "milly____",
     "familysexy34",
     "ayshekisskitty",
@@ -126,7 +126,7 @@ let cb0Primary = [
     "mynameisnikki",
     "amazon_girl",
 
-    // strictly eye candy, 2
+    // strictly eye candy, 0-1
     "bellean_blare",
     "ooxygenlow",
     "love_melody",
@@ -137,7 +137,101 @@ let cb0Primary = [
     "eva_doll_4u", // "elizabad",
     "alisagoddie19",
 
-    // getting to know 2
+    // getting to know 0-1
+    "innocentchurchgirl",
+    "dollymelissa",
+    "willow__love", // 🏓
+    "janedaniells", // 🏓; stripchat: janedaniells
+    "tinkerdinky",
+    "darlingdarinka",
+    "whisperprincess",
+    "rosa_burgess",
+    "your_misstress",
+    "_lamaria_x",
+    "truesue",
+
+    "wynol",
+    "tollysage",
+    "natalie_x",
+
+    "jasminetoy",
+    "mia_gothh",
+    "keeleyfarro", // 🏓
+    "diroill",
+
+    "ecsodia",
+    "lastdawn", // 🏓🏓
+    "lovelycaroline_", // 🏓🏓
+
+    // slutty appeal, 0-1
+    "demmi_foxy",
+    "sunbeam181",
+    "x_lina",
+    "anbarbie",
+
+    // getting to know, 0-2
+    "kissing33", // 🇺🇦
+    "mia_meows",
+    "sweetgirlandbigcock",
+    "b4by_emilia",
+    "en_hi1",
+    "agent_blonde",
+
+    "mia_riley_online", // charming_angel_
+    "eva_pixie", // "hornyvillage",
+    "agata_iris",
+    "curlylolly",
+    "bestzoeyever",
+    "pathos_of_things", // "neko_kimiko",
+
+    // strictly eye candy, 0-2
+    "babeholly",
+    "luckysexydoll",
+
+    "jelly_w5", // "jelly_w",
+    "plastic_beach",
+    "hornybunnyss",
+    "cute_shine",
+
+    // couples, 0-2
+    "viktoranmary",
+    "hannahlusttt",
+    "wladilia",
+    "hot_ho",
+    "masqueradeporn"
+];
+
+let cb1Primary = [
+    "yamaguchi_",
+    "xxx_leila", // 🏓
+
+    "juliet_bb",
+    "vilanelle_1",
+    "kira_censori", // 🏓
+
+    // couples, 1-1
+    "milly____",
+    "familysexy34",
+    "ayshekisskitty",
+    "logan_emma1",
+
+    // idle, 1-1
+    "popsytopsy",
+    "mynameisnikki",
+    "amazon_girl",
+
+    // strictly eye candy, 1-1
+    "bellean_blare",
+    "ooxygenlow",
+    "love_melody",
+    "erelima",
+    "gina_vicious",
+
+    "veronikaav",
+    "eva_doll_4u", // "elizabad",
+    "alisagoddie19",
+
+    // getting to know, 1-1
     "innocentchurchgirl",
     "treplady",
     "moonnshinee",
@@ -184,11 +278,11 @@ let cb0Primary = [
     "lovelycaroline_", // 🏓🏓
     "alexiafoxmodel", // 🏓
 
-    // slutty appeal
+    // slutty appeal, 1-1
     "sunbeam181",
     "demmi_foxy",
 
-    // getting to know, 3
+    // getting to know, 1-2
     "friend_foryou",
     "gina_vicious",
     "x_lina",
@@ -223,7 +317,7 @@ let cb0Primary = [
     "mia_riley_online",
     "milana_crystal_", // 🇺🇦
 
-    // strictly eye candy, 3
+    // strictly eye candy, 1-2
     "jennytime",
     "bunnydollstella",
     "babeholly",
@@ -246,7 +340,7 @@ let cb0Primary = [
     "hornybunnyss",
     "cute_shine",
 
-    // couples, 3
+    // couples, 1-2
     "viktoranmary",
     "hannahlusttt",
     "wladilia",
@@ -263,19 +357,20 @@ let cb0Primary = [
     "vi_ana_shi",
     "pussylovekate",
 
-    // idle, 2
+    // idle, 1-1
     "ab_s",
     "brielloo",
     "lisa_marxsss",
 
-    // slutty appeal, 2
+    // slutty appeal, 1-1
     "friendlyfire6", // 🏓
     "sherry_sandra",
     "fox_alina",
     "_lustica_",
     "slimmaya"
 ];
-let cb1Primary = [
+
+let cb2Primary = [
     "tiffanyhouston_",
     "your_bunnygirl", // 🇺🇦
     "vopooo",
