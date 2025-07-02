@@ -149,6 +149,7 @@ let cb0Primary = [
     "your_misstress",
     "_lamaria_x",
     "truesue",
+    "carrie145",
 
     "wynol",
     "tollysage",
@@ -176,6 +177,7 @@ let cb0Primary = [
     "b4by_emilia",
     "en_hi1",
     "agent_blonde",
+    "tastypoint",
 
     "mia_riley_online", // charming_angel_
     "eva_pixie", // "hornyvillage",
