@@ -178,6 +178,7 @@ let cb0Primary = [
     "agent_blonde",
     "tastypoint",
     "golden_alinee",
+    "_fieryflash_",
 
     "mia_riley_online", // charming_angel_
     "eva_pixie", // "hornyvillage",
