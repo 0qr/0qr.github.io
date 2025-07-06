@@ -350,7 +350,6 @@ let cb1Primary = [
     "hot_ho",
     "masqueradeporn",
 
-    "checkmypeach",
     "yesiamjasse",
     "monster_high",
     "paaulina",
