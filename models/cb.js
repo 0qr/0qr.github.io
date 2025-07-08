@@ -63,6 +63,7 @@ let cbSecondary = [
     "pornostorys",
     "dollyemy", // 🏓🏓
     "angel_in_tibet",
+    "wellicaren",
 
     // strictly eye candy
     "_isiah", // "isia_slay",
@@ -79,7 +80,7 @@ let cbSecondary = [
     "catherenee",
     "melani_lesss", // 🏓
     "mirai_meow",
-    "wellicaren",
+    "sincere_shyness", // 🏓🏓
 
     "dearly_emily", // 🏓
     "neondemon_",
