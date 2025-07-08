@@ -134,9 +134,14 @@ let cb0Primary = [
     "love_melody",
     "gina_vicious",
 
-    "veronikaav",
+    "wynol",
+    "tollysage",
     "eva_doll_4u", // "elizabad",
+    "natalie_x",
+    "kathariine", // 🇺🇦 // 🏓
+
     "alisagoddie19",
+    "veronikaav",
 
     // getting to know 0-1
     "innocentchurchgirl",
@@ -149,13 +154,7 @@ let cb0Primary = [
     "rosa_burgess",
     "your_misstress",
     "_lamaria_x",
-    "truesue",
     "carrie145",
-
-    "wynol",
-    "tollysage",
-    "natalie_x",
-    "kathariine", // 🇺🇦 // 🏓
 
     "jasminetoy",
     "mia_gothh",
@@ -182,6 +181,7 @@ let cb0Primary = [
     "tastypoint",
     "golden_alinee",
     "_fieryflash_",
+    "truesue",
 
     "mia_riley_online", // charming_angel_
     "eva_pixie", // "hornyvillage",
