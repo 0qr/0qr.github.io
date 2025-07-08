@@ -155,6 +155,7 @@ let cb0Primary = [
     "your_misstress",
     "_lamaria_x",
     "carrie145",
+    "luckyday_",
 
     "jasminetoy",
     "mia_gothh",
