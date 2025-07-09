@@ -155,6 +155,8 @@ let cb0Primary = [
     "_lamaria_x",
     "carrie145",
     "luckyday_",
+    "sweetgirlandbigcock",
+    "mia_meows",
 
     "jasminetoy",
     "mia_gothh",
@@ -173,8 +175,6 @@ let cb0Primary = [
 
     // getting to know, 0-2
     "kissing33", // 🇺🇦
-    "mia_meows",
-    "sweetgirlandbigcock",
     "b4by_emilia",
     "en_hi1",
     "agent_blonde",
