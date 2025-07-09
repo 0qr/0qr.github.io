@@ -71,7 +71,6 @@ let cbSecondary = [
     "mia_elfie",
     "sweet_tinker_bell",
     "ksensual",
-    "audreycarvin",
     "anna_bri",
 
     // getting to know
@@ -195,6 +194,7 @@ let cb0Primary = [
     // strictly eye candy, 0-2
     "babeholly",
     "luckysexydoll",
+    "audreycarvin",
 
     "jelly_w5", // "jelly_w",
     "plastic_beach",
