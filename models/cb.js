@@ -152,7 +152,6 @@ let cb0Primary = [
     "whisperprincess",
     "rosa_burgess",
     "your_misstress",
-    "_lamaria_x",
     "carrie145",
     "luckyday_",
     "sweetgirlandbigcock",
@@ -181,8 +180,9 @@ let cb0Primary = [
     "tastypoint",
     "golden_alinee",
     "_fieryflash_",
-    "truesue",
     "polynessia", // my_lina
+    "_lamaria_x",
+    "truesue",
     "sincere_shyness", // 🏓🏓
 
     "mia_riley_online", // charming_angel_
