@@ -182,6 +182,7 @@ let cb0Primary = [
     "golden_alinee",
     "_fieryflash_",
     "truesue",
+    "polynessia", // my_lina
     "sincere_shyness", // 🏓🏓
 
     "mia_riley_online", // charming_angel_
@@ -259,7 +260,6 @@ let cb1Primary = [
     "your_misstress",
     "_lamaria_x",
     "e_vvv_a", // 🏓
-    "polynessia", // my_lina
     "truesue",
     "why_____not",
 
