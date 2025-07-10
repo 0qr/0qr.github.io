@@ -185,6 +185,7 @@ let cb0Primary = [
     "sincere_shyness", // 🏓🏓
     "queen_kitty1818",
     "gigihadd",
+    "fiery_lure_melt_bloop",
 
     "mia_riley_online", // charming_angel_
     "eva_pixie", // "hornyvillage",
@@ -197,6 +198,7 @@ let cb0Primary = [
     "babeholly",
     "luckysexydoll",
     "audreycarvin",
+    "valerieh",
 
     "jelly_w5", // "jelly_w",
     "plastic_beach",
