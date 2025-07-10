@@ -75,7 +75,6 @@ let cbSecondary = [
 
     // getting to know
     "blair_foxxxy",
-    "mickeydior",
     "catherenee",
     "melani_lesss", // 🏓
     "mirai_meow",
@@ -141,6 +140,7 @@ let cb0Primary = [
     "alisagoddie19",
 
     // getting to know 0-1
+    "mickeydior",
     "innocentchurchgirl",
     "dollymelissa",
     "willow__love", // 🏓
