@@ -131,6 +131,7 @@ let cb0Primary = [
     "ooxygenlow",
     "love_melody",
     "gina_vicious",
+    "mia_riley_online", // charming_angel_
 
     "wynol",
     "tollysage",
@@ -187,7 +188,6 @@ let cb0Primary = [
     "gigihadd",
     "fiery_lure_melt_bloop",
 
-    "mia_riley_online", // charming_angel_
     "eva_pixie", // "hornyvillage",
     "agata_iris",
     "curlylolly",
