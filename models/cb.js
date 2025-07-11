@@ -187,6 +187,7 @@ let cb0Primary = [
     "queen_kitty1818",
     "gigihadd",
     "fiery_lure_melt_bloop",
+    "_kiki_pie",
 
     "eva_pixie", // "hornyvillage",
     "agata_iris",
@@ -307,7 +308,6 @@ let cb1Primary = [
     "shelly333",
     "waifu_exe",
     "sirena_princess",
-    "_kiki_pie",
     "_fieryflash_",
     "mercy_bloom",
     "sweetgirlandbigcock",
