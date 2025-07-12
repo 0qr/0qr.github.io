@@ -171,7 +171,6 @@ let cb0Primary = [
     "demmi_foxy",
     "sunbeam181",
     "x_lina",
-    "anbarbie",
 
     // getting to know, 0-2
     "kissing33", // 🇺🇦
@@ -301,7 +300,6 @@ let cb1Primary = [
     "x_lina",
     "blondyrush",
     "kissing33", // 🇺🇦
-    "anbarbie",
     "milky__way_",
     "miss_sweetdream",
     "veneradi615",
@@ -378,6 +376,7 @@ let cb1Primary = [
     "sherry_sandra",
     "fox_alina",
     "_lustica_",
+    "anbarbie",
     "slimmaya"
 ];
 
