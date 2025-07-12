@@ -184,7 +184,6 @@ let cb0Primary = [
     "polynessia", // my_lina
     "_lamaria_x",
     "truesue",
-    "gigihadd",
     "fiery_lure_melt_bloop",
     "_kiki_pie",
     "_annybunny_",
