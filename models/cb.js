@@ -183,12 +183,12 @@ let cb0Primary = [
     "polynessia", // my_lina
     "_lamaria_x",
     "truesue",
-    "sincere_shyness", // 🏓🏓
     "queen_kitty1818",
     "gigihadd",
     "fiery_lure_melt_bloop",
     "_kiki_pie",
     "_annybunny_",
+    "sincere_shyness", // 🏓🏓
 
     "eva_pixie", // "hornyvillage",
     "agata_iris",
