@@ -188,6 +188,7 @@ let cb0Primary = [
     "fiery_lure_melt_bloop",
     "_kiki_pie",
     "_annybunny_",
+    "breeding_material",
     "sincere_shyness", // 🏓🏓
 
     "eva_pixie", // "hornyvillage",
