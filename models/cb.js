@@ -20,14 +20,14 @@ let cbSecondary = [
     "lovahd",
     "lola_bunny94",
 
-    "qeeensgambit",
-    "wild_schoolgirl", // 🇷🇴
-
     "rodde_schlocer",
     "aurorashiine", // 🏓
+    "wellicaren",
+    "blair_foxxxy",
 
+    "qeeensgambit",
+    "wild_schoolgirl", // 🇷🇴
     "flowerr_powerr", // 🏓🏓🏓
-
     "lexy_sinn", // 🏓🏓
     "saimashine", // 🏓🏓🏓
     "maryvi",
@@ -52,10 +52,6 @@ let cbSecondary = [
     "bustykatia", // 🇷🇴
     "freyaeva", // 🇷🇴
 
-    "candyfeatcrush",
-    "onecuteangel",
-
-    "mary_delray",
     "frauchocolate", // 🏓🏓🏓 (face slapping on request?)
     "bigorgasm4us", // 🏓
 
@@ -63,7 +59,6 @@ let cbSecondary = [
     "pornostorys",
     "dollyemy", // 🏓🏓
     "angel_in_tibet",
-    "wellicaren",
 
     // strictly eye candy
     "_isiah", // "isia_slay",
@@ -73,8 +68,11 @@ let cbSecondary = [
     "ksensual",
     "anna_bri",
 
+    "candyfeatcrush",
+    "onecuteangel",
+    "mary_delray",
+
     // getting to know
-    "blair_foxxxy",
     "catherenee",
     "melani_lesss", // 🏓
     "mirai_meow",
