@@ -40,6 +40,9 @@ let cbSecondary = [
     "jilly_wolly1",
     "agata_cristy", // 🏓
 
+    "freyaeva", // 🇷🇴
+    "bustykatia", // 🇷🇴
+
     "yournaughtymiss",
     "evelissa",
     "whitebanny", // 🏓
@@ -47,10 +50,6 @@ let cbSecondary = [
     "lexi_ridss_", // 🇺🇦
     "marylanex", // 🇺🇦
     "misstics_", // 🇺🇦
-
-    // problematic
-    "bustykatia", // 🇷🇴
-    "freyaeva", // 🇷🇴
 
     "frauchocolate", // 🏓🏓🏓 (face slapping on request?)
     "bigorgasm4us", // 🏓
@@ -181,7 +180,6 @@ let cb0Primary = [
     "polynessia", // my_lina
     "_lamaria_x",
     "truesue",
-    "fiery_lure_melt_bloop",
     "_kiki_pie",
     "_annybunny_",
     "breeding_material",
@@ -265,6 +263,7 @@ let cb1Primary = [
     "truesue",
     "why_____not",
     "girl_i_am",
+    "fiery_lure_melt_bloop",
 
     "sunshine_diana_",
     "wynol",
