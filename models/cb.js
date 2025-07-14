@@ -186,6 +186,7 @@ let cb0Primary = [
     "_annybunny_",
     "breeding_material",
     "sincere_shyness", // 🏓🏓
+    "scarletmore",
 
     "eva_pixie", // "hornyvillage",
     "agata_iris",
@@ -255,7 +256,6 @@ let cb1Primary = [
     "luxureart", // 🏓
     "goodg_oddamn",
     "wild_wet_lovely",
-    "tinkerdinky",
     "darlingdarinka",
     "whisperprincess",
     "rosa_burgess",
@@ -264,6 +264,7 @@ let cb1Primary = [
     "e_vvv_a", // 🏓
     "truesue",
     "why_____not",
+    "girl_i_am",
 
     "sunshine_diana_",
     "wynol",
