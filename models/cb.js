@@ -178,7 +178,6 @@ let cb0Primary = [
     "golden_alinee",
     "_fieryflash_",
     "polynessia", // my_lina
-    "_lamaria_x",
     "truesue",
     "_kiki_pie",
     "_annybunny_",
