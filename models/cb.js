@@ -207,7 +207,6 @@ let cb0Primary = [
     // couples, 0-2
     "viktoranmary",
     "hannahlusttt",
-    "wladilia",
     "hot_ho",
     "masqueradeporn"
 ];
