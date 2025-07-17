@@ -186,6 +186,7 @@ let cb0Primary = [
     "juicy_pussie",
     "love_machine_",
     "_kiki_pie",
+    "whisperlure",
 
     "eva_pixie", // "hornyvillage",
     "agata_iris",
