@@ -71,6 +71,7 @@ let cbSecondary = [
     "sweetgirlandbigcock",
 
     // strictly eye candy, 2
+    "ingergirl",
     "star_gazing",
     "anna_bri",
     "ksensual",
@@ -82,7 +83,6 @@ let cbSecondary = [
     "dearly_emily", // 🏓
     "neondemon_",
 
-    "ingergirl",
     "babe_bucks",
 
     // couples
