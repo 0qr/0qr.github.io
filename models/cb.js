@@ -76,14 +76,13 @@ let cbSecondary = [
     "anna_bri",
     "ksensual",
 
+    "babe_bucks",
     "candyfeatcrush",
     "onecuteangel",
     "mary_delray",
 
     "dearly_emily", // 🏓
     "neondemon_",
-
-    "babe_bucks",
 
     // couples
     "playwithmil",
