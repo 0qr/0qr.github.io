@@ -154,7 +154,6 @@ let cb0Primary = [
     "carrie145",
     "queen_kitty1818",
     "diana_dii_01",
-    "second_aid", // 🏓
     "showmejenny",
 
     "veronikaav",
@@ -319,6 +318,7 @@ let cb1Primary = [
     "college_girl_",
     "agent_blonde",
     "whisperlure",
+    "second_aid", // 🏓
 
     "eva_pixie", // "hornyvillage",
     "agata_iris",
