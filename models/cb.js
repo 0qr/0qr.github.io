@@ -318,7 +318,6 @@ let cb1Primary = [
     "college_girl_",
     "agent_blonde",
     "whisperlure",
-    "second_aid", // 🏓
 
     "eva_pixie", // "hornyvillage",
     "agata_iris",
