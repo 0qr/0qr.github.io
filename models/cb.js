@@ -128,7 +128,6 @@ let cb0Primary = [
     // strictly eye candy, 0-1
     "bellean_blare",
     "ooxygenlow",
-    "love_melody",
     "gina_vicious",
     "_bamby_baby_",
 
@@ -154,7 +153,6 @@ let cb0Primary = [
     "carrie145",
     "queen_kitty1818",
     "diana_dii_01",
-    "showmejenny",
 
     "veronikaav",
     "jasminetoy",
@@ -176,7 +174,6 @@ let cb0Primary = [
     "b4by_emilia",
     "en_hi1",
     "agent_blonde",
-    "tastypoint",
     "golden_alinee",
     "_fieryflash_",
     "polynessia", // my_lina
