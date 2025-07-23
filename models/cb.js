@@ -170,18 +170,18 @@ let cb0Primary = [
     "x_lina",
 
     // getting to know, 0-2
+    "polynessia", // my_lina
+    "scarletmore",
     "kissing33", // 🇺🇦
     "b4by_emilia",
     "en_hi1",
     "agent_blonde",
     "golden_alinee",
     "_fieryflash_",
-    "polynessia", // my_lina
     "truesue",
     "_annybunny_",
     "breeding_material",
     "sincere_shyness", // 🏓🏓
-    "scarletmore",
     "juicy_pussie",
     "love_machine_",
     "_kiki_pie",
