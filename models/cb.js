@@ -176,7 +176,6 @@ let cb0Primary = [
     "b4by_emilia",
     "en_hi1",
     "agent_blonde",
-    "golden_alinee",
     "_fieryflash_",
     "truesue",
     "_annybunny_",
