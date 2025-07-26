@@ -84,6 +84,12 @@ let cbSecondary = [
     "playwithmil",
     "catanddickxxx",
 
+    // getting to know, 2
+    "mickeydior",
+    "diana_dii_01",
+    "innocentchurchgirl",
+    "breeding_material",
+
     // idle, 2
     "july_koss",
     "annie_sweetyxx",
@@ -139,8 +145,6 @@ let cb0Primary = [
     "alisagoddie19",
 
     // getting to know 0-1
-    "mickeydior",
-    "innocentchurchgirl",
     "dollymelissa",
     "willow__love", // 🏓
     "janedaniells", // 🏓; stripchat: janedaniells
@@ -151,7 +155,6 @@ let cb0Primary = [
     "mia_meows",
     "carrie145",
     "queen_kitty1818",
-    "diana_dii_01",
 
     "veronikaav",
     "jasminetoy",
@@ -178,7 +181,6 @@ let cb0Primary = [
     "_fieryflash_",
     "truesue",
     "_annybunny_",
-    "breeding_material",
     "sincere_shyness", // 🏓🏓
     "juicy_pussie",
     "love_machine_",
