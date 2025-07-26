@@ -176,7 +176,6 @@ let cb0Primary = [
     // getting to know, 0-2
     "polynessia", // my_lina
     "scarletmore",
-    "kissing33", // 🇺🇦
     "b4by_emilia",
     "en_hi1",
     "agent_blonde",
@@ -190,7 +189,7 @@ let cb0Primary = [
     "vika54784",
     "slaty_sugar",
     "rachel___mur",
-    
+
     "eva_pixie", // "hornyvillage",
     "agata_iris",
     "curlylolly",
@@ -200,7 +199,6 @@ let cb0Primary = [
     // strictly eye candy, 0-2
     "babeholly",
     "audreycarvin",
-    "valerieh",
     "mia_riley_online", // charming_angel_
     "luckysexydoll",
 
@@ -319,6 +317,8 @@ let cb1Primary = [
     "college_girl_",
     "agent_blonde",
     "whisperlure",
+    "valerieh",
+    "kissing33", // 🇺🇦
 
     "eva_pixie", // "hornyvillage",
     "agata_iris",
