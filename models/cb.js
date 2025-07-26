@@ -117,13 +117,13 @@ let cb0Primary = [
     "juliet_bb",
     "vilanelle_1",
     "kira_censori", // 🏓
+    "emmanyxxx", // "logan_emma1",
 
     // couples, 0-1
     "milly____",
     "alissgrey",
     "familysexy34",
     "ayshekisskitty",
-    "logan_emma1",
 
     // idle
     "popsytopsy",
