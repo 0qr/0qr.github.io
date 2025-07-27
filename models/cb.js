@@ -182,7 +182,6 @@ let cb0Primary = [
     "_fieryflash_",
     "truesue",
     "_annybunny_",
-    "sincere_shyness", // 🏓🏓
     "juicy_pussie",
     "love_machine_",
     "_kiki_pie",
@@ -326,6 +325,7 @@ let cb1Primary = [
     "hit_girl_",
     "mia_riley_online",
     "milana_crystal_", // 🇺🇦
+    "sincere_shyness", // 🏓🏓
 
     // strictly eye candy, 1-2
     "jennytime",
