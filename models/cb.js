@@ -64,6 +64,7 @@ let cbSecondary = [
     "mia_elfie",
     "sweet_tinker_bell",
     "catherenee",
+    "xxx_leila", // 🏓
 
     // getting to know
     "melani_lesss", // 🏓
@@ -108,8 +109,6 @@ fn__cbSecondary();
 
 let cb0Primary = [
     "yamaguchi_",
-    "xxx_leila", // 🏓
-
     "candyfeatcrush",
     "onecuteangel",
     "mary_delray",
