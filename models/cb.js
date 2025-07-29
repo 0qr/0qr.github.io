@@ -70,6 +70,7 @@ let cbSecondary = [
     "melani_lesss", // 🏓
     "mirai_meow",
     "sweetgirlandbigcock",
+    "wildsexalexandalexis",
 
     // strictly eye candy, 2
     "ingergirl",
@@ -148,7 +149,6 @@ let cb0Primary = [
     "janedaniells", // 🏓; stripchat: janedaniells
     "tinkerdinky",
     "darlingdarinka",
-    "wildsexalexandalexis",
     "rosa_burgess",
     "luckyday_",
     "mia_meows",
