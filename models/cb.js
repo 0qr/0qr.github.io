@@ -226,7 +226,8 @@ let cb0Primary = [
     "viktoranmary",
     "hannahlusttt",
     "hot_ho",
-    "masqueradeporn"
+    "masqueradeporn",
+    "jacques_season"
 ];
 
 let cb1Primary = [
