@@ -105,6 +105,16 @@ let cbSecondary = [
 let fn__cbPrimary = async () => { cbPrimary.forEach(m => addModel(m, 23)); }
 let fn__cbSecondary = async () => { cbSecondary.forEach(m => addModel(m, 30)); }
 
+let cbMorningShift = [
+    //// studios
+    "queen_kitty1818",
+    "breeding_material",
+];
+let fn__cbMorningShift = async () => { cbMorningShift.forEach(m => addModel(m, 35)); }
+if (new Date().getHours() >= 5) {
+    fn__cbMorningShift();
+}
+
 fn__cbPrimary();
 fn__cbSecondary();
 
@@ -173,9 +183,6 @@ let cb0Primary = [
     "carrie145",
     "mia_vebes",
     "polynessia", // my_lina
-    //// studio, 0-1/0-1
-    "queen_kitty1818",
-    "breeding_material",
 
     // getting to know, 0-3
     "scarletmore",
@@ -598,6 +605,6 @@ let cb2Primary = [
     "tanaichon"
 ];
 
-let fn__cb0Primary = async () => { cb0Primary.forEach(m => addModel(m, 30)); }
-let fn__cb1Primary = async () => { cb1Primary.forEach(m => addModel(m, 30)); }
-let fn__cb2Primary = async () => { cb2Primary.forEach(m => addModel(m, 30)); }
+let fn__cb0Primary = async () => { cb0Primary.forEach(m => addModel(m, 40)); }
+let fn__cb1Primary = async () => { cb1Primary.forEach(m => addModel(m, 50)); }
+let fn__cb2Primary = async () => { cb2Primary.forEach(m => addModel(m, 60)); }
