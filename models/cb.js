@@ -106,13 +106,20 @@ let fn__cbPrimary = async () => { cbPrimary.forEach(m => addModel(m, 23)); }
 let fn__cbSecondary = async () => { cbSecondary.forEach(m => addModel(m, 30)); }
 
 let cbMorningShift = [
-    //// studios
-    "queen_kitty1818",
-    "breeding_material",
+    //// studio
+    "queen_kitty1818"
 ];
 let fn__cbMorningShift = async () => { cbMorningShift.forEach(m => addModel(m, 35)); }
 if (new Date().getHours() >= 5) {
     fn__cbMorningShift();
+}
+
+let cbNightShift = [
+    "breeding_material"
+];
+let fn__cbNightShift = async () => { cbMorningShift.forEach(m => addModel(m, 35)); }
+if (new Date().getHourse() < 8) {
+    fn__cbNightShift();
 }
 
 fn__cbPrimary();
