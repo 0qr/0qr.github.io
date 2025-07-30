@@ -149,14 +149,7 @@ let cb0Primary = [
     "janedaniells", // 🏓; stripchat: janedaniells
     "tinkerdinky",
     "darlingdarinka",
-    "rosa_burgess",
-    "luckyday_",
-    "mia_meows",
-    "carrie145",
-    "mia_vebes",
-    //// studio, 0-1/0-1
-    "queen_kitty1818",
-    "breeding_material",
+    "marley_kolchek",
 
     "veronikaav",
     "jasminetoy",
@@ -174,7 +167,17 @@ let cb0Primary = [
     "x_lina",
 
     // getting to know, 0-2
+    "rosa_burgess",
+    "luckyday_",
+    "mia_meows",
+    "carrie145",
+    "mia_vebes",
     "polynessia", // my_lina
+    //// studio, 0-1/0-1
+    "queen_kitty1818",
+    "breeding_material",
+
+    // getting to know, 0-3
     "scarletmore",
     "b4by_emilia",
     "en_hi1",
