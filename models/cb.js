@@ -109,7 +109,7 @@ let cbMorningShift = [
     "queen_kitty1818"
 ];
 let fn__cbMorningShift = async () => { cbMorningShift.forEach(m => addModel(m, 35)); }
-if (new Date().getHours() >= 5) {
+if (new Date().getHours() >= 7) {
     fn__cbMorningShift();
 }
 
