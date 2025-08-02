@@ -139,12 +139,15 @@ let cb0Primary = [
     "milly____",
     "alissgrey",
     "familysexy34",
-    "ayshekisskitty",
 
     // idle
     "popsytopsy",
     "mynameisnikki",
     "amazon_girl",
+
+    "ecsodia",
+    "lastdawn", // 🏓🏓
+    "lovelycaroline_", // 🏓🏓
 
     // strictly eye candy, 0-1
     "bellean_blare",
@@ -173,10 +176,6 @@ let cb0Primary = [
     "mia_gothh",
     "keeleyfarro", // 🏓
     "diroill",
-
-    "ecsodia",
-    "lastdawn", // 🏓🏓
-    "lovelycaroline_", // 🏓🏓
 
     // slutty appeal, 0-1
     "demmi_foxy",
@@ -221,6 +220,7 @@ let cb0Primary = [
     "cute_shine",
 
     // couples, 0-2
+    "ayshekisskitty",
     "viktoranmary",
     "hannahlusttt",
     "hot_ho",
