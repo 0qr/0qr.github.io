@@ -206,7 +206,6 @@ let cb0Primary = [
     "aleksa_cutie",
     "sofia__home",
     "leiavelvet",
-    "_a_n_n_y_",
 
     "bestzoeyever",
     "pathos_of_things", // "neko_kimiko",
@@ -336,6 +335,7 @@ let cb1Primary = [
     "whisperlure",
     "valerieh",
     "kissing33", // 🇺🇦
+    "_a_n_n_y_",
 
     "eva_pixie", // "hornyvillage",
     "agata_iris",
