@@ -201,7 +201,6 @@ let cb0Primary = [
     "juicy_pussie",
     "love_machine_",
     "_kiki_pie",
-    "vika54784",
     "slaty_sugar",
     "rachel___mur",
     "aleksa_cutie",
@@ -283,6 +282,7 @@ let cb1Primary = [
     "why_____not",
     "girl_i_am",
     "fiery_lure_melt_bloop",
+    "vika54784",
 
     "sunshine_diana_",
     "wynol",
