@@ -192,7 +192,6 @@ let cb0Primary = [
 
     // getting to know, 0-3
     "scarletmore",
-    "b4by_emilia",
     "en_hi1",
     "agent_blonde",
     "_fieryflash_",
@@ -203,7 +202,6 @@ let cb0Primary = [
     "_kiki_pie",
     "slaty_sugar",
     "rachel___mur",
-    "aleksa_cutie",
     "sofia__home",
     "leiavelvet",
 
@@ -282,6 +280,8 @@ let cb1Primary = [
     "girl_i_am",
     "fiery_lure_melt_bloop",
     "vika54784",
+    "b4by_emilia",
+    "aleksa_cutie",
 
     "sunshine_diana_",
     "wynol",
