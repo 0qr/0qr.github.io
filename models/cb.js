@@ -89,6 +89,7 @@ let cbSecondary = [
     // getting to know, 2
     "mickeydior",
     "innocentchurchgirl",
+    "hornybunnyss",
 
     // idle, 2
     "july_koss",
@@ -370,7 +371,6 @@ let cb1Primary = [
     "polusladkoye",
     "shachatte",
     "gold_blond",
-    "hornybunnyss",
     "cute_shine",
 
     // couples, 1-2
