@@ -216,6 +216,7 @@ let cb0Primary = [
     "audreycarvin",
     "mia_riley_online", // charming_angel_
     "luckysexydoll",
+    "valerieh",
 
     "plastic_beach",
     "hornybunnyss",
@@ -336,7 +337,6 @@ let cb1Primary = [
     "college_girl_",
     "agent_blonde",
     "whisperlure",
-    "valerieh",
     "kissing33", // 🇺🇦
     "_a_n_n_y_",
 
