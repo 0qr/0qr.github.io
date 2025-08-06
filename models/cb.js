@@ -89,6 +89,7 @@ let cbSecondary = [
     "mickeydior",
     "innocentchurchgirl",
     "hornybunnyss",
+    "agent_blonde",
 
     // idle, 2
     "july_koss",
@@ -193,7 +194,6 @@ let cb0Primary = [
     // getting to know, 0-3
     "scarletmore",
     "en_hi1",
-    "agent_blonde",
     "_fieryflash_",
     "truesue",
     "_annybunny_",
