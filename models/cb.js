@@ -110,7 +110,7 @@ let cbMorningShift = [
     "queen_kitty1818"
 ];
 let fn__cbMorningShift = async () => { cbMorningShift.forEach(m => addModel(m, 35)); }
-if (new Date().getHours() >= 9) {
+if (new Date().getHours() >= 7) {
     fn__cbMorningShift();
 }
 
@@ -118,7 +118,7 @@ let cbNightShift = [
     "breeding_material"
 ];
 let fn__cbNightShift = async () => { cbNightShift.forEach(m => addModel(m, 35)); }
-if (new Date().getHours() < 8) {
+if (new Date().getHours() <= 8) {
     fn__cbNightShift();
 }
 
