@@ -171,6 +171,7 @@ let cb0Primary = [
     "darlingdarinka",
     "marley_kolchek",
     "diana_dii_01",
+    "polynessia", // my_lina
 
     "veronikaav",
     "jasminetoy",
@@ -187,7 +188,6 @@ let cb0Primary = [
     "rosa_burgess",
     "luckyday_",
     "carrie145",
-    "polynessia", // my_lina
     "haileybaileybb",
     "sylvieadorableeeee",
 
