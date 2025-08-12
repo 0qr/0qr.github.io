@@ -109,16 +109,17 @@ let cbMorningShift = [
     //// studio
     "queen_kitty1818"
 ];
+
+let currentHours = new Date().getHours();
 let fn__cbMorningShift = async () => { cbMorningShift.forEach(m => addModel(m, 35)); }
-if (new Date().getHours() >= 7) {
+if (currentHours >= 7 && currentHours < 16) {
     fn__cbMorningShift();
 }
-
 let cbNightShift = [
     "breeding_material"
 ];
 let fn__cbNightShift = async () => { cbNightShift.forEach(m => addModel(m, 35)); }
-if (new Date().getHours() <= 8) {
+if (currentHours <= 8) {
     fn__cbNightShift();
 }
 
