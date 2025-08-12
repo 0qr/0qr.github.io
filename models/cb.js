@@ -172,6 +172,7 @@ let cb0Primary = [
     "marley_kolchek",
     "diana_dii_01",
     "polynessia", // my_lina
+    "vikinamnu",
 
     "veronikaav",
     "jasminetoy",
