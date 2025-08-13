@@ -112,7 +112,7 @@ let cbMorningShift = [
 
 let currentHours = new Date().getHours();
 let fn__cbMorningShift = async () => { cbMorningShift.forEach(m => addModel(m, 35)); }
-if (currentHours >= 7 && currentHours < 16) {
+if (currentHours >= 8 && currentHours < 16) {
     fn__cbMorningShift();
 }
 let cbNightShift = [
