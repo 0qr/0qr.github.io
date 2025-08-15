@@ -149,7 +149,6 @@ let cb0Primary = [
 
     "ecsodia",
     "lastdawn", // 🏓🏓
-    "lovelycaroline_", // 🏓🏓
 
     // strictly eye candy, 0-1
     "bellean_blare",
@@ -175,12 +174,14 @@ let cb0Primary = [
     "polynessia", // my_lina
     "vikinamnu",
     "sylvieadorableeeee",
+    "_kiki_pie",
 
     "veronikaav",
     "jasminetoy",
     "mia_gothh",
     "keeleyfarro", // 🏓
     "diroill",
+    "lovelycaroline_", // 🏓🏓
 
     // slutty appeal, 0-1
     "demmi_foxy",
@@ -202,7 +203,6 @@ let cb0Primary = [
     "_annybunny_",
     "juicy_pussie",
     "love_machine_",
-    "_kiki_pie",
     "rachel___mur",
     "sofia__home",
     "leiavelvet",
