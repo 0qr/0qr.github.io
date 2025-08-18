@@ -224,6 +224,7 @@ let cb0Primary = [
     "valerieh",
 
     // getting to know, 0-4
+    "cutiefull_lion",
     "moanshade",
 
     "plastic_beach",
