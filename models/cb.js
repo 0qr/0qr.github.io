@@ -22,7 +22,6 @@ let cbSecondary = [
 
     "rodde_schlocer",
     "aurorashiine", // 🏓
-    "wellicaren",
     "blair_foxxxy",
 
     "qeeensgambit",
@@ -46,6 +45,7 @@ let cbSecondary = [
     "yournaughtymiss",
     "evelissa",
     "whitebanny", // 🏓
+    "wellicaren", // too much faking
 
     "sunny_rina", // "lexi_ridss_", // 🇺🇦
     "marylanex", // 🇺🇦
