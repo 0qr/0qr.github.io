@@ -20,7 +20,7 @@ let cbPrimary = [
     "lola_bunny94",
 
     "freyaeva", // 🇷🇴
-    "bustykatia", // 🇷🇴
+    "bustykatia" // 🇷🇴
 ];
 let cbSecondary = [
     "rodde_schlocer",
