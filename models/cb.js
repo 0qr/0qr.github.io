@@ -12,7 +12,7 @@ let cbPrimary = [
     "sweetkira555",
     "rosykindred", // "rosaliekin", // "rosykindred",
     "candysfox",
-    "blackmango_mary"
+    "blackmango_mary",
 
     // idle, 1
     "sugarbae_haze",
