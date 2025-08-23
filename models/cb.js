@@ -34,7 +34,6 @@ let cbSecondary = [
     "maryvi",
 
     "aurora_the_ballerina", // 🏓
-    "inkanuko",
     "miss_opss", // 🏓🏓
     "shinyways", // 🏓🏓
     "_taylor_swift", // 🏓
@@ -73,8 +72,9 @@ let cbSecondary = [
 
     // strictly eye candy, 2
     "ingergirl",
-    "star_gazing",
+    "inkanuko",
     "anna_bri",
+    "star_gazing",
     "ksensual",
 
     "babe_bucks",
