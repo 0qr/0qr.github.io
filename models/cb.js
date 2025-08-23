@@ -44,14 +44,12 @@ let cbSecondary = [
     "yournaughtymiss",
     "evelissa",
     "whitebanny", // 🏓
+    "bigorgasm4us", // 🏓
     "wellicaren", // too much faking
 
     "sunny_rina", // "lexi_ridss_", // 🇺🇦
     "marylanex", // 🇺🇦
     "misstics_", // 🇺🇦
-
-    "frauchocolate", // 🏓🏓🏓 (face slapping on request?)
-    "bigorgasm4us", // 🏓
 
     "nikkibloom_xoxo", // nikkibloomxoxo,
     "pornostorys",
@@ -131,6 +129,7 @@ let cb0Primary = [
     "candyfeatcrush",
     "onecuteangel",
     "mary_delray",
+    "frauchocolate", // 🏓🏓🏓 (face slapping on request?)
 
     "juliet_bb",
     "vilanelle_1",
