@@ -104,8 +104,7 @@ let fn__cbPrimary = async () => { cbPrimary.forEach(m => addModel(m, 23)); }
 let fn__cbSecondary = async () => { cbSecondary.forEach(m => addModel(m, 30)); }
 
 let cbMorningShift = [
-    //// studio
-    "queen_kitty1818"
+    // [hai]
 ];
 
 let currentHours = new Date().getHours();
