@@ -87,6 +87,7 @@ let cbSecondary = [
     "mickeydior",
     "innocentchurchgirl",
     "hornybunnyss",
+    "emma_lov2",
 
     // idle, 2
     "july_koss",
@@ -153,6 +154,7 @@ let cb0Primary = [
     "ooxygenlow",
     "gina_vicious",
     "_bamby_baby_",
+    "valerieh",
 
     "wynol",
     "tollysage",
@@ -174,7 +176,6 @@ let cb0Primary = [
     "sylvieadorableeeee",
     "_kiki_pie",
     "rosa_burgess",
-    "emma_lov2",
 
     "veronikaav",
     "jasminetoy",
@@ -217,7 +218,6 @@ let cb0Primary = [
     "babeholly",
     "audreycarvin",
     "charming_angel_", // "mia_riley_online"
-    "valerieh",
     "luckysexydoll",
 
     "cute_shine",
