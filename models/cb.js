@@ -189,7 +189,6 @@ let cb0Primary = [
     "x_lina",
 
     // getting to know, 0-2
-    "luckyday_",
     "carrie145",
     "haileybaileybb",
     "_mary_chili",
@@ -211,6 +210,7 @@ let cb0Primary = [
     "alicat_",
     "ella_lee15",
     "amaya_mori",
+    "luckyday_",
 
     "bestzoeyever",
     "pathos_of_things", // "neko_kimiko",
@@ -219,12 +219,8 @@ let cb0Primary = [
     "babeholly",
     "audreycarvin",
     "charming_angel_", // "mia_riley_online"
-    "luckysexydoll",
     "valerieh",
-
-    // getting to know, 0-4
-    "cutiefull_lion",
-    "moanshade",
+    "luckysexydoll",
 
     "plastic_beach",
     "hornybunnyss",
@@ -235,7 +231,11 @@ let cb0Primary = [
     "viktoranmary",
     "hannahlusttt",
     "hot_ho",
-    "masqueradeporn"
+    "masqueradeporn",
+
+    // getting to know, 0-4
+    "cutiefull_lion",
+    "moanshade"
 ];
 
 let cb1Primary = [
@@ -443,7 +443,6 @@ let cb2Primary = [
     "ass_latte",
     "gwendolynharkey",
     "holl1would",
-    "luckyday_",
     "3stepsaboveheaven",
     "yaraliebe",
 
