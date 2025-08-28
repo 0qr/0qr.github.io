@@ -185,7 +185,6 @@ let cb0Primary = [
 
     // slutty appeal, 0-1
     "demmi_foxy",
-    "sunbeam181",
     "x_lina",
 
     // getting to know, 0-2
@@ -210,7 +209,6 @@ let cb0Primary = [
     "alicat_",
     "ella_lee15",
     "amaya_mori",
-    "luckyday_",
 
     "bestzoeyever",
     "pathos_of_things", // "neko_kimiko",
@@ -222,9 +220,10 @@ let cb0Primary = [
     "valerieh",
     "luckysexydoll",
 
+    "cute_shine",
     "plastic_beach",
     "hornybunnyss",
-    "cute_shine",
+    "sunbeam181",
 
     // couples, 0-2
     "ayshekisskitty",
@@ -234,6 +233,7 @@ let cb0Primary = [
     "masqueradeporn",
 
     // getting to know, 0-4
+    "luckyday_",
     "cutiefull_lion",
     "moanshade"
 ];
@@ -317,10 +317,6 @@ let cb1Primary = [
     "lastdawn", // 🏓🏓
     "lovelycaroline_", // 🏓🏓
     "alexiafoxmodel", // 🏓
-
-    // slutty appeal, 1-1
-    "sunbeam181",
-    "demmi_foxy",
 
     // getting to know, 1-2
     "friend_foryou",
