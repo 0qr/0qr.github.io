@@ -236,8 +236,7 @@ let cb0Primary = [
 
     // getting to know, 0-4
     "luckyday_",
-    "cutiefull_lion",
-    "moanshade"
+    "cutiefull_lion"
 ];
 
 let cb1Primary = [
