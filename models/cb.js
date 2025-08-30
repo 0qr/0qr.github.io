@@ -84,6 +84,7 @@ let cbSecondary = [
     "mickeydior",
     "innocentchurchgirl",
     "emma_lov2",
+    "unnabella",
 
     // idle, 2
     "july_koss",
@@ -130,12 +131,10 @@ let cb0Primary = [
     "juliet_bb",
     "vilanelle_1",
     "kira_censori", // 🏓
-    "emmanyxxx", // "logan_emma1",
 
     // couples, 0-1
     "milly____",
     "alissgrey",
-    "familysexy34",
 
     // idle
     "popsytopsy",
@@ -146,7 +145,6 @@ let cb0Primary = [
     "lastdawn", // 🏓🏓
 
     // getting to know, 0-1
-    "unnabella",
     "polynessia", // my_lina
     "vikinamnu",
     "_mary_chili",
@@ -159,6 +157,9 @@ let cb0Primary = [
     "_bamby_baby_",
     "valerieh",
     "star_gazing",
+
+    // couples 0-2
+    "familysexy34",
 
     // getting to know 0-2
     "rosa_burgess",
@@ -188,6 +189,7 @@ let cb0Primary = [
     "natalie_x",
     "kathariine", // 🇺🇦 // 🏓
     "alisagoddie19",
+    "emmanyxxx", // "logan_emma1",
 
     "veronikaav",
     "jasminetoy",
