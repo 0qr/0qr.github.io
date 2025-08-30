@@ -161,15 +161,15 @@ let cb0Primary = [
     "star_gazing",
 
     // getting to know 0-2
-    "sylvieadorableeeee",
-    "_kiki_pie",
     "rosa_burgess",
-    "darlingdarinka",
     "skinny_alice",
     "best_alice",
-    "amaya_mori",
-    "alicat_",
     "eminemswife",
+    "amaya_mori",
+    "darlingdarinka",
+    "alicat_",
+    "_kiki_pie",
+    "sylvieadorableeeee",
     "tinkerdinky",
     "willow__love", // 🏓
     "janedaniells", // 🏓; stripchat: janedaniells
