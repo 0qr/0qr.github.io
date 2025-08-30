@@ -69,7 +69,6 @@ let cbSecondary = [
     "sweetgirlandbigcock",
 
     // strictly eye candy, 2
-    "ingergirl",
     "inkanuko",
     "anna_bri",
     "ksensual",
@@ -154,6 +153,7 @@ let cb0Primary = [
     "_mary_chili",
 
     // strictly eye candy, 0-1
+    "ingergirl",
     "bellean_blare",
     "ooxygenlow",
     "gina_vicious",
@@ -161,17 +161,11 @@ let cb0Primary = [
     "valerieh",
     "star_gazing",
 
-    "wynol",
-    "tollysage",
-    "eva_doll_4u", // "elizabad",
-    "natalie_x",
-    "kathariine", // 🇺🇦 // 🏓
-    "alisagoddie19",
-
     // getting to know 0-2
     "sylvieadorableeeee",
     "_kiki_pie",
     "rosa_burgess",
+    "summer_sunshine_",
     "darlingdarinka",
     "skinny_alice",
     "best_alice",
@@ -185,17 +179,24 @@ let cb0Primary = [
     "marley_kolchek",
     "diana_dii_01",
 
+    // slutty appeal, 0-1
+    "demmi_foxy",
+    "x_lina",
+    "dearly_emily", // 🏓
+
+    "wynol",
+    "tollysage",
+    "eva_doll_4u", // "elizabad",
+    "natalie_x",
+    "kathariine", // 🇺🇦 // 🏓
+    "alisagoddie19",
+
     "veronikaav",
     "jasminetoy",
     "mia_gothh",
     "keeleyfarro", // 🏓
     "diroill",
     "lovelycaroline_", // 🏓🏓
-
-    // slutty appeal, 0-1
-    "demmi_foxy",
-    "x_lina",
-    "dearly_emily", // 🏓
 
     // getting to know, 0-3
     "carrie145",
@@ -211,7 +212,6 @@ let cb0Primary = [
     "leiavelvet",
     "hard_candy_gang",
     "avroramy",
-    "summer_sunshine_",
 
     "bestzoeyever",
     "pathos_of_things", // "neko_kimiko",
