@@ -72,11 +72,9 @@ let cbSecondary = [
     "ingergirl",
     "inkanuko",
     "anna_bri",
-    "star_gazing",
     "ksensual",
 
     "babe_bucks",
-    "dearly_emily", // 🏓
     "neondemon_",
 
     // couples
@@ -149,12 +147,19 @@ let cb0Primary = [
     "ecsodia",
     "lastdawn", // 🏓🏓
 
+    // getting to know, 0-1
+    "unnabella",
+    "polynessia", // my_lina
+    "vikinamnu",
+    "_mary_chili",
+
     // strictly eye candy, 0-1
     "bellean_blare",
     "ooxygenlow",
     "gina_vicious",
     "_bamby_baby_",
     "valerieh",
+    "star_gazing",
 
     "wynol",
     "tollysage",
@@ -163,19 +168,22 @@ let cb0Primary = [
     "kathariine", // 🇺🇦 // 🏓
     "alisagoddie19",
 
-    // getting to know 0-1
-    "willow__love", // 🏓
-    "janedaniells", // 🏓; stripchat: janedaniells
-    "tinkerdinky",
-    "darlingdarinka",
-    "marley_kolchek",
-    "diana_dii_01",
-    "polynessia", // my_lina
-    "vikinamnu",
-    "unnabella",
+    // getting to know 0-2
     "sylvieadorableeeee",
     "_kiki_pie",
     "rosa_burgess",
+    "darlingdarinka",
+    "skinny_alice",
+    "best_alice",
+    "ella_lee15",
+    "amaya_mori",
+    "alicat_",
+    "eminemswife",
+    "tinkerdinky",
+    "willow__love", // 🏓
+    "janedaniells", // 🏓; stripchat: janedaniells
+    "marley_kolchek",
+    "diana_dii_01",
 
     "veronikaav",
     "jasminetoy",
@@ -187,13 +195,11 @@ let cb0Primary = [
     // slutty appeal, 0-1
     "demmi_foxy",
     "x_lina",
-
-    // getting to know, 0-2
-    "carrie145",
-    "haileybaileybb",
-    "_mary_chili",
+    "dearly_emily", // 🏓
 
     // getting to know, 0-3
+    "carrie145",
+    "haileybaileybb",
     "scarletmore",
     "en_hi1",
     "_fieryflash_",
@@ -204,13 +210,7 @@ let cb0Primary = [
     "rachel___mur",
     "leiavelvet",
     "hard_candy_gang",
-    "skinny_alice",
-    "best_alice",
     "avroramy",
-    "alicat_",
-    "ella_lee15",
-    "amaya_mori",
-    "eminemswife",
     "summer_sunshine_",
 
     "bestzoeyever",
