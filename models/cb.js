@@ -83,7 +83,6 @@ let cbSecondary = [
     // getting to know, 2
     "mickeydior",
     "innocentchurchgirl",
-    "hornybunnyss",
     "emma_lov2",
 
     // idle, 2
@@ -239,54 +238,24 @@ let cb0Primary = [
 ];
 
 let cb1Primary = [
-    "yamaguchi_",
-    "xxx_leila", // 🏓
-
-    "juliet_bb",
-    "vilanelle_1",
-    "kira_censori", // 🏓
-
-    // couples, 1-1
-    "milly____",
-    "familysexy34",
-    "ayshekisskitty",
-    "logan_emma1",
-
-    // idle, 1-1
-    "popsytopsy",
-    "mynameisnikki",
-    "amazon_girl",
-
     // strictly eye candy, 1-1
-    "bellean_blare",
-    "ooxygenlow",
     "love_melody",
     "erelima",
-    "gina_vicious",
-
-    "veronikaav",
-    "eva_doll_4u", // "elizabad",
-    "alisagoddie19",
 
     // getting to know, 1-1
-    "innocentchurchgirl",
     "treplady",
     "moonnshinee",
     "dollymelissa",
-    "willow__love", // 🏓
-    "janedaniells", // 🏓; stripchat: janedaniells
     "baby_bubbless",
     "scarlettt_moon",
     "lolamaythebae",
     "luxureart", // 🏓
     "goodg_oddamn",
     "wild_wet_lovely",
-    "darlingdarinka",
     "whisperprincess",
     "your_misstress",
     "_lamaria_x",
     "e_vvv_a", // 🏓
-    "truesue",
     "why_____not",
     "girl_i_am",
     "fiery_lure_melt_bloop",
@@ -296,32 +265,19 @@ let cb1Primary = [
     "aleksa_cutie",
 
     "sunshine_diana_",
-    "wynol",
-    "tollysage",
     "naive_love",
     "cutieeeeva",
 
     "mia__amore",
     "miolia",
     "henriettaheldreth",
-    "natalie_x",
-    "jasminetoy",
     "megan_myersss",
     "dream_desire_",
-    "mia_gothh",
-    "keeleyfarro", // 🏓
-    "charming_angel_",
-    "diroill",
 
-    "ecsodia",
-    "lastdawn", // 🏓🏓
-    "lovelycaroline_", // 🏓🏓
     "alexiafoxmodel", // 🏓
 
     // getting to know, 1-2
     "friend_foryou",
-    "gina_vicious",
-    "x_lina",
     "blondyrush",
     "kissing33", // 🇺🇦
     "milky__way_",
@@ -331,17 +287,11 @@ let cb1Primary = [
     "shelly333",
     "waifu_exe",
     "sirena_princess",
-    "_fieryflash_",
     "mercy_bloom",
-    "sweetgirlandbigcock",
     "lucylia_",
-    "b4by_emilia",
     "woman_content",
-    "en_hi1",
     "college_girl_",
-    "agent_blonde",
     "whisperlure",
-    "kissing33", // 🇺🇦
     "_a_n_n_y_",
     "britakiss",
     "glossybabe_",
@@ -352,8 +302,6 @@ let cb1Primary = [
     "eva_pixie", // "hornyvillage",
     "agata_iris",
     "curlylolly",
-    "bestzoeyever",
-    "pathos_of_things", // "neko_kimiko",
     "juicy_angels", // 🏓
     "hit_girl_",
     "mia_riley_online",
@@ -363,8 +311,6 @@ let cb1Primary = [
     // strictly eye candy, 1-2
     "jennytime",
     "bunnydollstella",
-    "babeholly",
-    "luckysexydoll",
     "white_lime",
     "ohbabykelly",
     "lauratanguy",
@@ -375,19 +321,13 @@ let cb1Primary = [
 
     "jelly_w5", // "jelly_w",
     "klttys__pearl",
-    "plastic_beach",
     "darina_night",
     "polusladkoye",
     "shachatte",
     "gold_blond",
-    "cute_shine",
 
     // couples, 1-2
-    "viktoranmary",
-    "hannahlusttt",
     "wladilia",
-    "hot_ho",
-    "masqueradeporn",
 
     "yesiamjasse",
     "monster_high",
@@ -437,7 +377,7 @@ let cb2Primary = [
     "my_blonde", // 🇺🇦
     "the_anya", // 🇺🇦
 
-    // getting to know, 4
+    // getting to know, 2-1
     "ass_latte",
     "gwendolynharkey",
     "holl1would",
@@ -456,7 +396,7 @@ let cb2Primary = [
     "cindy_luv",
     "loony_moony",
 
-    // strictly eye candy, 3
+    // strictly eye candy, 2-1
     "beatrice_melton",
     "sandymiracle",
     "secrets_eli",
@@ -474,7 +414,6 @@ let cb2Primary = [
     "flowercandy33",
     "misssweettie",
 
-    "ssscarlett",
     "firstoffense",
 
     "shy_starlight",
@@ -531,7 +470,6 @@ let cb2Primary = [
     "_just_beautiful_",
     "_virtual_lady_",
     "stela_artois",
-    "polusladkoye",
     "veronicakraft",
     "violetta_finch",
     "neo_kirex",
@@ -540,18 +478,15 @@ let cb2Primary = [
     "tootightwithbra",
     "teach4kitty",
     "relaxi_g1rl",
-    "skinny_alice",
     "pollyrouge",
     "sexytemptation696",
     "smile_with_nicole",
     "seeunexttime",
-    "amelia_chi",
     "stacy_lees",
     "kriss_foxx",
 
     "mariamaree", // 🇺🇦
     "alisaa_01",
-    "milla_remmy",
     "jelli_jennifer",
     "1i1ypa1mer",
     "pickme__",
@@ -560,9 +495,8 @@ let cb2Primary = [
     "bellacle",
     "your_nicolett",
 
-    // couples, 4
+    // couples, 2-1
     "vanilla_lips",
-    "familysexy34",
     "postbaby",
     "eternal__lovers",
 
@@ -581,8 +515,6 @@ let cb2Primary = [
     "goth_dolll",
     "outerspace2000",
     "candy_sandy_",
-    "natalie_x",
-    "yesiamjasse",
     "my_lou",
     "alisevine",
     "sabrina_grey", // 🇺🇦
@@ -591,9 +523,7 @@ let cb2Primary = [
     "vina_skybabe",
     "cold_girl_0",
 
-    "tinna_angel",
     "_wowyulia_",
-    "mercy_bloom",
     "chloechain",
 
     "byrdtabitha",
@@ -613,7 +543,6 @@ let cb2Primary = [
 
     // studio
     "kathyclaytons",
-    "libbyshepard", // 🏓; stripchat: IdaJonesy
     "ivy_whyte",
     "tessarosse_",
     "fleur_x_x",
