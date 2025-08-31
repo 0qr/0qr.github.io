@@ -125,7 +125,6 @@ let cb0Primary = [
     "yamaguchi_",
     "candyfeatcrush",
     "onecuteangel",
-    "mary_delray",
     "frauchocolate", // 🏓🏓🏓 (face slapping on request?)
 
     "juliet_bb",
@@ -190,6 +189,7 @@ let cb0Primary = [
     "kathariine", // 🇺🇦 // 🏓
     "alisagoddie19",
     "emmanyxxx", // "logan_emma1",
+    "mary_delray",
 
     "veronikaav",
     "jasminetoy",
