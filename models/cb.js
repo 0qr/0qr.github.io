@@ -172,7 +172,6 @@ let cb0Primary = [
     "sylvieadorableeeee",
     "tinkerdinky",
     "willow__love", // 🏓
-    "janedaniells", // 🏓; stripchat: janedaniells
     "marley_kolchek",
     "diana_dii_01",
 
@@ -226,6 +225,7 @@ let cb0Primary = [
 
     "cute_shine",
     "plastic_beach",
+    "janedaniells", // 🏓; stripchat: janedaniells
     "hornybunnyss",
     "sunbeam181",
 
