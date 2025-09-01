@@ -30,7 +30,10 @@ let cbSecondary = [
     "qeeensgambit",
     "wild_schoolgirl", // 🇷🇴
     "flowerr_powerr", // 🏓🏓🏓
+
     "lexy_sinn", // 🏓🏓
+        "ellie_land",
+
     "maryvi",
 
     "aurora_the_ballerina", // 🏓
