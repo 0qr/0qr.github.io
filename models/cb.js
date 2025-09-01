@@ -107,7 +107,7 @@ let fn__cbSecondary = async () => { cbSecondary.forEach(m => addModel(m, 30)); }
 let currentHours = new Date().getHours();
 
 let cbMorningShift = [
-    queen_kitty1818
+    "queen_kitty1818"
 ];
 let fn__cbMorningShift = async () => { cbMorningShift.forEach(m => addModel(m, 35)); }
 if (currentHours >= 8 && currentHours < 16) {
