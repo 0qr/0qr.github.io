@@ -219,6 +219,7 @@ let cb0Primary = [
 
     "bestzoeyever",
     "pathos_of_things", // "neko_kimiko",
+    "cutieeeeva",
 
     // strictly eye candy, 0-2
     "babeholly",
@@ -274,7 +275,6 @@ let cb1Primary = [
 
     "sunshine_diana_",
     "naive_love",
-    "cutieeeeva",
 
     "mia__amore",
     "miolia",
