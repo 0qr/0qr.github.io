@@ -159,6 +159,7 @@ let cb0Primary = [
     "_bamby_baby_",
     "valerieh",
     "star_gazing",
+    "katysha_",
 
     // couples 0-2
     "familysexy34",
