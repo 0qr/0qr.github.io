@@ -178,7 +178,6 @@ let cb0Primary = [
     "marley_kolchek",
     "diana_dii_01",
     "miafosterx",
-    "fairyfuckdust",
 
     // slutty appeal, 0-1
     "demmi_foxy",
@@ -203,7 +202,6 @@ let cb0Primary = [
     "lovelycaroline_", // 🏓🏓
 
     // getting to know, 0-3
-    "carrie145",
     "haileybaileybb",
     "scarletmore",
     "en_hi1",
@@ -217,7 +215,6 @@ let cb0Primary = [
     "hard_candy_gang",
     "avroramy",
     "snow_flakee",
-    "doseofhappiness",
 
     "bestzoeyever",
     "pathos_of_things", // "neko_kimiko",
@@ -347,6 +344,10 @@ let cb1Primary = [
     "ami_sakurami",
     "vi_ana_shi",
     "pussylovekate",
+
+    "carrie145",
+    "fairyfuckdust",
+    "doseofhappiness",
 
     // idle, 1-1
     "ab_s",
