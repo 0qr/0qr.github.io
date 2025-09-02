@@ -177,6 +177,8 @@ let cb0Primary = [
     "willow__love", // 🏓
     "marley_kolchek",
     "diana_dii_01",
+    "miafosterx",
+    "fairyfuckdust",
 
     // slutty appeal, 0-1
     "demmi_foxy",
