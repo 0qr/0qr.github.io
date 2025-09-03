@@ -42,7 +42,6 @@ let cbSecondary = [
     "_taylor_swift", // 🏓
     "jilly_wolly1",
     "agata_cristy", // 🏓
-    "agent_blonde",
 
     "yournaughtymiss",
     "evelissa",
@@ -53,6 +52,7 @@ let cbSecondary = [
     "sunny_rina", // "lexi_ridss_", // 🇺🇦
     "marylanex", // 🇺🇦
     "misstics_", // 🇺🇦
+    "agent_blonde",
 
     "nikkibloom_xoxo", // nikkibloomxoxo,
     "pornostorys",
