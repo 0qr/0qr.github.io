@@ -63,7 +63,7 @@ let cbSecondary = [
 
     // strictly eye candy
     "_isiah", // "isia_slay",
-    "mia_elfie",
+    "mia_dynasty", // "mia_elfie",
     "sweet_tinker_bell",
     "catherenee",
     "xxx_leila", // 🏓
