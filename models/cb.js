@@ -52,7 +52,9 @@ let cbSecondary = [
     "sunny_rina", // "lexi_ridss_", // 🇺🇦
     "marylanex", // 🇺🇦
     "misstics_", // 🇺🇦
-    "agent_blonde",
+
+    // token sieves 💸
+    //"agent_blonde",
 
     "nikkibloom_xoxo", // nikkibloomxoxo,
     "pornostorys",
