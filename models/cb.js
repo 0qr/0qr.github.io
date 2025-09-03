@@ -131,7 +131,6 @@ let cb0Primary = [
     "frauchocolate", // 🏓🏓🏓 (face slapping on request?)
 
     "juliet_bb",
-    "vilanelle_1",
     "kira_censori", // 🏓
 
     // couples, 0-1
@@ -180,6 +179,7 @@ let cb0Primary = [
     "miafosterx",
 
     // slutty appeal, 0-1
+    "vilanelle_1",
     "demmi_foxy",
     "x_lina",
     "dearly_emily", // 🏓
