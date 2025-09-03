@@ -149,7 +149,6 @@ let cb0Primary = [
     // getting to know, 0-1
     "polynessia", // my_lina
     "vikinamnu",
-    "_mary_chili",
 
     // strictly eye candy, 0-1
     "ingergirl",
@@ -220,6 +219,7 @@ let cb0Primary = [
     "bestzoeyever",
     "pathos_of_things", // "neko_kimiko",
     "cutieeeeva",
+    "naive_love",
 
     // strictly eye candy, 0-2
     "babeholly",
@@ -243,7 +243,8 @@ let cb0Primary = [
 
     // getting to know, 0-4
     "luckyday_",
-    "cutiefull_lion"
+    "cutiefull_lion",
+    "_mary_chili"
 ];
 
 let cb1Primary = [
@@ -274,7 +275,6 @@ let cb1Primary = [
     "aleksa_cutie",
 
     "sunshine_diana_",
-    "naive_love",
 
     "mia__amore",
     "miolia",
