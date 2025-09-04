@@ -156,7 +156,6 @@ let cb0Primary = [
     "bellean_blare",
     "ooxygenlow",
     "gina_vicious",
-    "_bamby_baby_",
     "valerieh",
     "star_gazing",
     "katysha_",
@@ -172,7 +171,6 @@ let cb0Primary = [
     "amaya_mori",
     "darlingdarinka",
     "alicat_",
-    "_kiki_pie",
     "sylvieadorableeeee",
     "tinkerdinky",
     "willow__love", // 🏓
@@ -228,6 +226,7 @@ let cb0Primary = [
     "audreycarvin",
     "charming_angel_", // "mia_riley_online"
     "luckysexydoll",
+    "_bamby_baby_",
 
     "cute_shine",
     "alvuwka",
@@ -275,6 +274,7 @@ let cb1Primary = [
     "b4by_emilia",
     "wildsexalexandalexis",
     "aleksa_cutie",
+    "_kiki_pie",
 
     "sunshine_diana_",
 
