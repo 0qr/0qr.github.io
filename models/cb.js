@@ -177,6 +177,7 @@ let cb0Primary = [
     "marley_kolchek",
     "diana_dii_01",
     "miafosterx",
+    "ewagreen",
 
     // slutty appeal, 0-1
     "vilanelle_1",
@@ -213,9 +214,7 @@ let cb0Primary = [
     "rachel___mur",
     "leiavelvet",
     "hard_candy_gang",
-    "avroramy",
     "snow_flakee",
-    "ewagreen",
 
     "bestzoeyever",
     "pathos_of_things", // "neko_kimiko",
@@ -247,6 +246,7 @@ let cb0Primary = [
     "lili__roze_",
     "luckyday_",
     "cutiefull_lion",
+    "avroramy",
     "_mary_chili"
 ];
 
