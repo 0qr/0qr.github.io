@@ -229,7 +229,6 @@ let cb0Primary = [
     "_bamby_baby_",
 
     "cute_shine",
-    "alvuwka",
     "plastic_beach",
     "janedaniells", // 🏓; stripchat: janedaniells
     "hornybunnyss",
@@ -243,9 +242,7 @@ let cb0Primary = [
     "masqueradeporn",
 
     // getting to know, 0-4
-    "lili__roze_",
     "luckyday_",
-    "cutiefull_lion",
     "avroramy",
     "_mary_chili"
 ];
@@ -254,6 +251,10 @@ let cb1Primary = [
     // strictly eye candy, 1-1
     "love_melody",
     "erelima",
+
+    "alvuwka",
+    "lili__roze_",
+    "cutiefull_lion",
 
     // getting to know, 1-1
     "treplady",
