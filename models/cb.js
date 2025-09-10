@@ -90,6 +90,7 @@ let cbSecondary = [
     "mickeydior",
     "innocentchurchgirl",
     "unnabella",
+    "cutieeeeva",
 
     // idle, 2
     "july_koss",
@@ -218,7 +219,6 @@ let cb0Primary = [
 
     "bestzoeyever",
     "pathos_of_things", // "neko_kimiko",
-    "cutieeeeva",
     "naive_love",
 
     // strictly eye candy, 0-2
