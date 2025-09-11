@@ -232,7 +232,6 @@ let cb0Primary = [
     "plastic_beach",
     "janedaniells", // 🏓; stripchat: janedaniells
     "hornybunnyss",
-    "sunbeam181",
 
     // couples, 0-2
     "ayshekisskitty",
@@ -242,7 +241,6 @@ let cb0Primary = [
     "masqueradeporn",
 
     // getting to know, 0-4
-    "luckyday_",
     "avroramy",
     "_mary_chili"
 ];
@@ -251,15 +249,18 @@ let cb1Primary = [
     // strictly eye candy, 1-1
     "love_melody",
     "erelima",
+    "dollymelissa",
+    "your_misstress",
 
+    "sunbeam181",
     "alvuwka",
-    "lili__roze_",
-    "cutiefull_lion",
 
     // getting to know, 1-1
     "treplady",
     "moonnshinee",
-    "dollymelissa",
+    "lili__roze_",
+    "cutiefull_lion",
+    "luckyday_",
     "baby_bubbless",
     "scarlettt_moon",
     "lolamaythebae",
@@ -267,7 +268,6 @@ let cb1Primary = [
     "goodg_oddamn",
     "wild_wet_lovely",
     "whisperprincess",
-    "your_misstress",
     "_lamaria_x",
     "e_vvv_a", // 🏓
     "why_____not",
