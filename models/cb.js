@@ -240,6 +240,11 @@ let cb0Primary = [
     "hot_ho",
     "masqueradeporn",
 
+    // strictly eye candy, 0-3
+    "goodg_oddamn",
+    "natalinaxxx",
+    "corni__",
+
     // getting to know, 0-4
     "avroramy",
     "_mary_chili"
@@ -265,7 +270,6 @@ let cb1Primary = [
     "scarlettt_moon",
     "lolamaythebae",
     "luxureart", // 🏓
-    "goodg_oddamn",
     "wild_wet_lovely",
     "whisperprincess",
     "_lamaria_x",
@@ -467,7 +471,6 @@ let cb2Primary = [
     "happyy_pussy",
     "lilienblume",
 
-    "corni__",
     "katy_ethereal", // 🏓
     "christiewells22",
     "agatha137",
