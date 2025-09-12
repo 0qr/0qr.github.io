@@ -242,8 +242,8 @@ let cb0Primary = [
 
     // strictly eye candy, 0-3
     "goodg_oddamn",
-    "natalinaxxx",
     "corni__",
+    "natalinaxxx",
 
     // getting to know, 0-4
     "avroramy",
