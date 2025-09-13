@@ -128,7 +128,7 @@ fn__cbPrimary();
 fn__cbSecondary();
 
 let cb0Primary = [
-    "yamaguchi_",
+    "chloe__rose_", // "yamaguchi_",
     "candyfeatcrush",
     "onecuteangel",
     "frauchocolate", // 🏓🏓🏓 (face slapping on request?)
