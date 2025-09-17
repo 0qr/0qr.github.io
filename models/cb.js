@@ -81,6 +81,7 @@ let cbSecondary = [
 
     "babe_bucks",
     "neondemon_",
+    "lastdawn", // 🏓🏓
 
     // couples
     "playwithmil",
@@ -144,9 +145,7 @@ let cb0Primary = [
     "popsytopsy",
     "mynameisnikki",
     "amazon_girl",
-
     "ecsodia",
-    "lastdawn", // 🏓🏓
 
     // getting to know, 0-1
     "polynessia", // my_lina
