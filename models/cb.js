@@ -227,7 +227,6 @@ let cb0Primary = [
     "charming_angel_", // "mia_riley_online"
     "luckysexydoll",
     "_bamby_baby_",
-    "sincere_shyness",
 
     "cute_shine",
     "plastic_beach",
