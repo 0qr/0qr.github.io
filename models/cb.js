@@ -178,7 +178,6 @@ let cb0Primary = [
     "diana_dii_01",
     "miafosterx",
     "ewagreen",
-    "college_girl_",
 
     // slutty appeal, 0-1
     "vilanelle_1",
