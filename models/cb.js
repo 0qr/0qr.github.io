@@ -162,6 +162,7 @@ let cb0Primary = [
 
     // couples 0-2
     "familysexy34",
+    "_fieryflash_",
 
     // getting to know 0-2
     "rosa_burgess",
@@ -203,10 +204,10 @@ let cb0Primary = [
     "lovelycaroline_", // 🏓🏓
 
     // getting to know, 0-3
+    "friend_foryou",
     "haileybaileybb",
     "scarletmore",
     "en_hi1",
-    "_fieryflash_",
     "truesue",
     "_annybunny_",
     "juicy_pussie",
@@ -294,7 +295,6 @@ let cb1Primary = [
     "alexiafoxmodel", // 🏓
 
     // getting to know, 1-2
-    "friend_foryou",
     "blondyrush",
     "kissing33", // 🇺🇦
     "milky__way_",
