@@ -185,7 +185,6 @@ let cb0Primary = [
     "demmi_foxy",
     "x_lina",
     "dearly_emily", // 🏓
-    "ella_lee15",
 
     "wynol",
     "tollysage",
@@ -256,6 +255,7 @@ let cb1Primary = [
     "erelima",
     "dollymelissa",
     "your_misstress",
+    "ella_lee15",
     "avroramy",
 
     "sunbeam181",
