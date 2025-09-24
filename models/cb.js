@@ -179,7 +179,7 @@ let cb0Primary = [
     "diana_dii_01",
     "miafosterx",
     "ewagreen",
-    "lunainkk", // 🇺🇦
+    "lunainnk", // 🇺🇦
 
     // slutty appeal, 0-1
     "vilanelle_1",
