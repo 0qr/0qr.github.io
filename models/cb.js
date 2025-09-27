@@ -180,6 +180,7 @@ let cb0Primary = [
     "miafosterx",
     "ewagreen",
     "lunainnk", // 🇺🇦
+    "candyboofairy",
 
     // slutty appeal, 0-1
     "vilanelle_1",
