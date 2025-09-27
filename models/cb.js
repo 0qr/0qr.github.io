@@ -194,6 +194,7 @@ let cb0Primary = [
     "kathariine", // 🇺🇦 // 🏓
     "alisagoddie19",
     "emmanyxxx", // "logan_emma1",
+    "cute_shine",
     "mary_delray",
 
     "veronikaav",
@@ -229,7 +230,6 @@ let cb0Primary = [
     "luckysexydoll",
     "_bamby_baby_",
 
-    "cute_shine",
     "plastic_beach",
     "janedaniells", // 🏓; stripchat: janedaniells
     "hornybunnyss",
