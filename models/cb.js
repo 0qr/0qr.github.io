@@ -219,6 +219,7 @@ let cb0Primary = [
     "hard_candy_gang",
     "snow_flakee",
     "jessie98631",
+    "anastasia881",
 
     "bestzoeyever",
     "pathos_of_things", // "neko_kimiko",
@@ -236,7 +237,6 @@ let cb0Primary = [
     "hornybunnyss",
 
     // couples, 0-2
-    "ayshekisskitty",
     "viktoranmary",
     "hannahlusttt",
     "hot_ho",
@@ -346,6 +346,7 @@ let cb1Primary = [
 
     // couples, 1-2
     "wladilia",
+    "ayshekisskitty",
 
     "yesiamjasse",
     "monster_high",
