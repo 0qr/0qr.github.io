@@ -245,7 +245,6 @@ let cb0Primary = [
     // strictly eye candy, 0-3
     "goodg_oddamn",
     "corni__",
-    "natalinaxxx",
 
     // getting to know, 0-4
     "_mary_chili"
@@ -325,6 +324,7 @@ let cb1Primary = [
     "mia_riley_online",
     "milana_crystal_", // 🇺🇦
     "sincere_shyness", // 🏓🏓
+    "natalinaxxx",
 
     // strictly eye candy, 1-2
     "jennytime",
