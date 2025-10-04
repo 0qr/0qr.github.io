@@ -171,7 +171,6 @@ let cb0Primary = [
     "eminemswife",
     "amaya_mori",
     "darlingdarinka",
-    "alicat_",
     "sylvieadorableeeee",
     "tinkerdinky",
     "willow__love", // 🏓
@@ -261,6 +260,7 @@ let cb1Primary = [
     "alvuwka",
 
     // getting to know, 1-1
+    "alicat_",
     "treplady",
     "moonnshinee",
     "lili__roze_",
