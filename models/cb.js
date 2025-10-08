@@ -75,6 +75,7 @@ let cbSecondary = [
     "emma_lov2",
 
     // strictly eye candy, 2
+    "polynessia", // my_lina
     "inkanuko",
     "anna_bri",
     "ksensual",
@@ -136,6 +137,7 @@ let cb0Primary = [
 
     "juliet_bb",
     "kira_censori", // 🏓
+    "vikinamnu",
 
     // couples, 0-1
     "milly____",
@@ -148,8 +150,6 @@ let cb0Primary = [
     "ecsodia",
 
     // getting to know, 0-1
-    "polynessia", // my_lina
-    "vikinamnu",
 
     // strictly eye candy, 0-1
     "ingergirl",
