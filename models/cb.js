@@ -245,7 +245,6 @@ let cb0Primary = [
     "corni__",
 
     // getting to know, 0-4
-    "_mary_chili"
 ];
 
 let cb1Primary = [
@@ -283,6 +282,7 @@ let cb1Primary = [
     "wildsexalexandalexis",
     "aleksa_cutie",
     "_kiki_pie",
+    "_mary_chili",
 
     "sunshine_diana_",
     "alexiafoxmodel", // 🏓
