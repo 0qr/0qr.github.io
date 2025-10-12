@@ -166,7 +166,6 @@ let cb0Primary = [
 
     // getting to know 0-2
     "rosa_burgess",
-    "skinny_alice",
     "best_alice",
     "amaya_mori",
     "darlingdarinka",
@@ -174,7 +173,6 @@ let cb0Primary = [
     "tinkerdinky",
     "willow__love", // 🏓
     "marley_kolchek",
-    "diana_dii_01",
     "miafosterx",
     "lunainnk", // 🇺🇦
     "candyboofairy",
@@ -257,6 +255,8 @@ let cb1Primary = [
     "ella_lee15",
     "avroramy",
     "ewagreen",
+    "skinny_alice",
+    "diana_dii_01",
 
     "sunbeam181",
     "alvuwka",
