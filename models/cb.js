@@ -164,6 +164,9 @@ let cb0Primary = [
     "familysexy34",
     "_fieryflash_",
 
+    "cute_shine",
+    "naive_love",
+
     // getting to know 0-2
     "rosa_burgess",
     "best_alice",
@@ -177,7 +180,6 @@ let cb0Primary = [
     "lunainnk", // 🇺🇦
     "candyboofairy",
     "sheenadu",
-
     // slutty appeal, 0-1
     "vilanelle_1",
     "demmi_foxy",
@@ -190,10 +192,9 @@ let cb0Primary = [
     "natalie_x",
     "kathariine", // 🇺🇦 // 🏓
     "alisagoddie19",
-    "emmanyxxx", // "logan_emma1",
-    "cute_shine",
     "mary_delray",
     "hit_girl_",
+    "emmanyxxx", // "logan_emma1",
 
     "veronikaav",
     "jasminetoy",
@@ -218,7 +219,6 @@ let cb0Primary = [
 
     "bestzoeyever",
     "pathos_of_things", // "neko_kimiko",
-    "naive_love",
 
     // strictly eye candy, 0-2
     "babeholly",
