@@ -236,6 +236,7 @@ let cb0Primary = [
     "hannahlusttt",
     "hot_ho",
     "masqueradeporn",
+    "minions_",
 
     // strictly eye candy, 0-3
     "goodg_oddamn",
