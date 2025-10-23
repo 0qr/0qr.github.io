@@ -160,12 +160,13 @@ let cb0Primary = [
     "star_gazing",
     "katysha_",
 
+    "cute_shine",
+    "naive_love",
+
     // couples 0-2
     "familysexy34",
     "_fieryflash_",
-
-    "cute_shine",
-    "naive_love",
+    "minions_",
 
     // getting to know 0-2
     "rosa_burgess",
@@ -180,6 +181,7 @@ let cb0Primary = [
     "lunainnk", // 🇺🇦
     "candyboofairy",
     "sheenadu",
+
     // slutty appeal, 0-1
     "vilanelle_1",
     "demmi_foxy",
@@ -236,7 +238,6 @@ let cb0Primary = [
     "hannahlusttt",
     "hot_ho",
     "masqueradeporn",
-    "minions_",
 
     // strictly eye candy, 0-3
     "goodg_oddamn",
