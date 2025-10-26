@@ -11,23 +11,23 @@ let cbPrimary = [
     "fflloowweerr",
     "sweetkira555",
     "rosykindred", // "rosaliekin", // "rosykindred",
-    "candysfox",
-    "blackmango_mary",
+    "blair_foxxxy",
 
     // idle, 1
+    "blackmango_mary",
     "sugarbae_haze",
     "lovahd",
     "lola_bunny94",
+    "aurorashiine", // 🏓
 
     "freyaeva", // 🇷🇴
     "bustykatia" // 🇷🇴
 ];
 let cbSecondary = [
     "rodde_schlocer",
-    "aurorashiine", // 🏓
-    "blair_foxxxy",
 
     "qeeensgambit",
+    "candysfox",
     "wild_schoolgirl", // 🇷🇴
     "flowerr_powerr", // 🏓🏓🏓
 
