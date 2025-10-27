@@ -112,7 +112,6 @@ let fn__cbSecondary = async () => { cbSecondary.forEach(m => addModel(m, 30)); }
 let currentHours = new Date().getHours();
 
 let cbMorningShift = [
-    "queen_kitty1818"
 ];
 let fn__cbMorningShift = async () => { cbMorningShift.forEach(m => addModel(m, 35)); }
 if (currentHours > 9 && currentHours < 16) {
@@ -568,6 +567,7 @@ let cb2Primary = [
     "youreyeshere", // hairy, soft/fake spanks
 
     // studio
+    "queen_kitty1818",
     "kathyclaytons",
     "ivy_whyte",
     "tessarosse_",
