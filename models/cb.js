@@ -169,7 +169,6 @@ let cb0Primary = [
 
     // getting to know 0-2
     "rosa_burgess",
-    "best_alice",
     "amaya_mori",
     "darlingdarinka",
     "sylvieadorableeeee",
@@ -179,7 +178,6 @@ let cb0Primary = [
     "miafosterx",
     "lunainnk", // 🇺🇦
     "candyboofairy",
-    "sheenadu",
 
     // slutty appeal, 0-1
     "vilanelle_1",
@@ -214,7 +212,6 @@ let cb0Primary = [
     "love_machine_",
     "rachel___mur",
     "leiavelvet",
-    "hard_candy_gang",
     "snow_flakee",
     "jessie98631",
 
@@ -256,6 +253,9 @@ let cb1Primary = [
     "ewagreen",
     "skinny_alice",
     "diana_dii_01",
+    "hard_candy_gang",
+    "best_alice",
+    "sheenadu",
 
     "sunbeam181",
     "alvuwka",
