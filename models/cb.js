@@ -89,10 +89,12 @@ let cbSecondary = [
     "catanddickxxx",
 
     // getting to know, 2
-    "mickeydior",
     "innocentchurchgirl",
-    "unnabella",
     "cutieeeeva",
+
+    // strictly eye candy, 3
+    "ingergirl",
+    "mickeydior",
 
     // idle, 2
     "july_koss",
@@ -151,7 +153,6 @@ let cb0Primary = [
     // getting to know, 0-1
 
     // strictly eye candy, 0-1
-    "ingergirl",
     "bellean_blare",
     "ooxygenlow",
     "gina_vicious",
@@ -161,6 +162,7 @@ let cb0Primary = [
 
     "cute_shine",
     "naive_love",
+    "unnabella",
 
     // couples 0-2
     "familysexy34",
