@@ -203,6 +203,7 @@ let cb0Primary = [
     "keeleyfarro", // 🏓
     "diroill",
     "lovelycaroline_", // 🏓🏓
+    "ohbabykelly",
 
     // getting to know, 0-3
     "friend_foryou",
@@ -335,7 +336,6 @@ let cb1Primary = [
     "jennytime",
     "bunnydollstella",
     "white_lime",
-    "ohbabykelly",
     "lauratanguy",
     "_eva_blame_",
     "mist_mia",
