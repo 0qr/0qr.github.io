@@ -180,7 +180,6 @@ let cb0Primary = [
     "miafosterx",
     "lunainnk", // 🇺🇦
     "candyboofairy",
-    "love_polly",
 
     // slutty appeal, 0-1
     "vilanelle_1",
@@ -291,6 +290,7 @@ let cb1Primary = [
     "_kiki_pie",
     "_mary_chili",
     "lissa_wayne",
+    "love_polly",
 
     "sunshine_diana_",
     "alexiafoxmodel", // 🏓
