@@ -175,7 +175,6 @@ let cb0Primary = [
     "darlingdarinka",
     "sylvieadorableeeee",
     "tinkerdinky",
-    "willow__love", // 🏓
     "marley_kolchek",
     "miafosterx",
     "lunainnk", // 🇺🇦
@@ -219,6 +218,7 @@ let cb0Primary = [
     "snow_flakee",
     "jessie98631",
     "roxyrain2736",
+    "willow__love", // 🏓
 
     "bestzoeyever",
     "pathos_of_things", // "neko_kimiko",
