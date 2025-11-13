@@ -9,6 +9,7 @@ let cbPrimary = [
     "fflloowweerr",
     "sweetkira555",
     "rosykindred", // "rosaliekin", // "rosykindred",
+        "502_error", // rosykindred
     "blair_foxxxy",
 
     // idle, 1
