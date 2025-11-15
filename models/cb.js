@@ -221,7 +221,6 @@ let cb0Primary = [
     "snow_flakee",
     "jessie98631",
     "roxyrain2736",
-    "willow__love", // 🏓
     "lili__roze_",
 
     "bestzoeyever",
@@ -273,6 +272,11 @@ let cb1Primary = [
     "entya",
     "anitawindmeyer",
 
+    "sunshine_diana_",
+    "alexiafoxmodel", // 🏓
+    "eminemswife",
+    "willow__love", // 🏓
+
     // getting to know, 1-1
     "alicat_",
     "treplady",
@@ -299,10 +303,6 @@ let cb1Primary = [
     "_mary_chili",
     "lissa_wayne",
     "love_polly",
-
-    "sunshine_diana_",
-    "alexiafoxmodel", // 🏓
-    "eminemswife",
 
     "mia__amore",
     "miolia",
