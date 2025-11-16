@@ -182,7 +182,6 @@ let cb0Primary = [
     "lunainnk", // 🇺🇦
     "candyboofairy",
     "meowalice1", // 🇷🇴
-    "yononeey",
 
     // slutty appeal, 0-1
     "vilanelle_1",
@@ -247,9 +246,10 @@ let cb0Primary = [
     // strictly eye candy, 0-3
     "goodg_oddamn",
     "corni__",
-    "veronikaav"
+    "veronikaav",
 
     // getting to know, 0-4
+    "yononeey"
 ];
 
 let cb1Primary = [
