@@ -175,7 +175,6 @@ let cb0Primary = [
     "rosa_burgess",
     "amaya_mori",
     "darlingdarinka",
-    "sylvieadorableeeee",
     "tinkerdinky",
     "marley_kolchek",
     "miafosterx",
