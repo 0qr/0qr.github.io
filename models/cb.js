@@ -246,10 +246,10 @@ let cb0Primary = [
     // strictly eye candy, 0-3
     "goodg_oddamn",
     "corni__",
-    "veronikaav",
+    "veronikaav"
 
     // getting to know, 0-4
-    "yononeey"
+
 ];
 
 let cb1Primary = [
@@ -307,6 +307,7 @@ let cb1Primary = [
     "roxyrain2736",
     "rachel___mur",
     "tokyo_n",
+    "yononeey",
 
     "mia__amore",
     "miolia",
