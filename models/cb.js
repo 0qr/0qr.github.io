@@ -34,7 +34,6 @@ let cbSecondary = [
         "ellie_land",
 
     "rinassecret", // "little_vee",
-    "xxlika",
     "maryvi",
 
     "aurora_the_ballerina", // 🏓
@@ -221,6 +220,7 @@ let cb0Primary = [
 
     "bestzoeyever",
     "pathos_of_things", // "neko_kimiko",
+    "xxlika",
 
     // strictly eye candy, 0-2
     "babeholly",
