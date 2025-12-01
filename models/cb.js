@@ -177,7 +177,6 @@ let cb0Primary = [
     "tinkerdinky",
     "marley_kolchek",
     "miafosterx",
-    "lunainnk", // 🇺🇦
     "candyboofairy",
     "meowalice1", // 🇷🇴
     "evaveenus",
@@ -255,9 +254,10 @@ let cb0Primary = [
 
 let cb1Primary = [
     // strictly eye candy, 1-1
+    "dollymelissa",
+    "lunainnk", // 🇺🇦
     "love_melody",
     "erelima",
-    "dollymelissa",
     "your_misstress",
     "ella_lee15",
     "avroramy",
