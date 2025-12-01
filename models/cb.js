@@ -205,7 +205,6 @@ let cb0Primary = [
     "ohbabykelly",
 
     // getting to know, 0-3
-    "janethcensky",
     "friend_foryou",
     "scarletmore",
     "en_hi1",
@@ -336,6 +335,7 @@ let cb1Primary = [
     "stella__grace",
     "libbyshepard",
     "summer_sunshine_",
+    "janethcensky",
 
     "eva_pixie", // "hornyvillage",
     "agata_iris",
