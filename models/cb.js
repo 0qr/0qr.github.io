@@ -183,7 +183,6 @@ let cb0Primary = [
 
     // slutty appeal, 0-1
     "vilanelle_1",
-    "demmi_foxy",
     "x_lina",
     "dearly_emily", // 🏓
     "angels_kiss",
