@@ -207,13 +207,11 @@ let cb0Primary = [
 
     // getting to know, 0-3
     "janethcensky",
-    "leyla_ly",
     "friend_foryou",
     "scarletmore",
     "en_hi1",
     "truesue",
     "_annybunny_",
-    "love_machine_",
     "leiavelvet",
     "jessie98631",
     "lili__roze_",
@@ -245,8 +243,7 @@ let cb0Primary = [
 
     // strictly eye candy, 0-3
     "goodg_oddamn",
-    "corni__",
-    "veronikaav"
+    "corni__"
 
     // getting to know, 0-4
 
@@ -255,6 +252,10 @@ let cb0Primary = [
 let cb1Primary = [
     // strictly eye candy, 1-1
     "dollymelissa",
+    "leyla_ly",
+    "love_machine_",
+    "veronikaav",
+
     "lunainnk", // 🇺🇦
     "love_melody",
     "erelima",
