@@ -70,7 +70,6 @@ let cbSecondary = [
 
     // getting to know
     "melani_lesss", // 🏓
-    "mirai_meow",
     "sweetgirlandbigcock",
     "emma_lov2",
 
@@ -168,6 +167,9 @@ let cb0Primary = [
     "familysexy34",
     "_fieryflash_",
     "minions_",
+    
+    // strictly eye candy 0-2
+    "mist_mia",
 
     // getting to know 0-2
     "rosa_burgess",
@@ -184,9 +186,10 @@ let cb0Primary = [
     "vilanelle_1",
     "x_lina",
     "dearly_emily", // 🏓
-    "angels_kiss",
+    "mirai_meow",
 
     "wynol",
+    "angels_kiss",
     "tollysage",
     "eva_doll_4u", // "elizabad",
     "natalie_x",
@@ -223,7 +226,7 @@ let cb0Primary = [
     "pathos_of_things", // "neko_kimiko",
     "xxlika",
 
-    // strictly eye candy, 0-2
+    // strictly eye candy, 0-3
     "babeholly",
     "audreycarvin",
     "charming_angel_", // "mia_riley_online"
@@ -240,7 +243,7 @@ let cb0Primary = [
     "hot_ho",
     "masqueradeporn",
 
-    // strictly eye candy, 0-3
+    // strictly eye candy, 0-4
     "goodg_oddamn",
     "corni__"
 
