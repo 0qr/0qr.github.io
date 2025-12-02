@@ -180,7 +180,6 @@ let cb0Primary = [
     "miafosterx",
     "candyboofairy",
     "meowalice1", // 🇷🇴
-    "evaveenus",
 
     // slutty appeal, 0-1
     "vilanelle_1",
@@ -220,7 +219,7 @@ let cb0Primary = [
     "likamatthews",
     "mollydo11",
     "baby_maddy_",
-    "_june",
+    "evaveenus",
 
     "bestzoeyever",
     "pathos_of_things", // "neko_kimiko",
@@ -229,6 +228,7 @@ let cb0Primary = [
     // strictly eye candy, 0-3
     "babeholly",
     "audreycarvin",
+    "_june",
     "charming_angel_", // "mia_riley_online"
     "victoriahouston",
     "luckysexydoll",
