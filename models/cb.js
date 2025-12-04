@@ -179,7 +179,6 @@ let cb0Primary = [
     "marley_kolchek",
     "miafosterx",
     "candyboofairy",
-    "meowalice1", // 🇷🇴
     "bunny_gaze",
 
     // slutty appeal, 0-1
@@ -222,6 +221,7 @@ let cb0Primary = [
     "baby_maddy_",
     "evaveenus",
     "rinacain",
+    "meowalice1", // 🇷🇴
 
     "bestzoeyever",
     "pathos_of_things", // "neko_kimiko",
