@@ -207,7 +207,6 @@ let cb0Primary = [
     "alexiafoxmodel", // 🏓
 
     // getting to know, 0-3
-    "adelheid1",
     "friend_foryou",
     "scarletmore",
     "en_hi1",
@@ -223,6 +222,7 @@ let cb0Primary = [
     "evaveenus",
     "rinacain",
     "meowalice1", // 🇷🇴
+    "adelheid1",
 
     "bestzoeyever",
     "pathos_of_things", // "neko_kimiko",
