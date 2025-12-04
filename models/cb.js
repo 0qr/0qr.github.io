@@ -207,6 +207,7 @@ let cb0Primary = [
     "alexiafoxmodel", // 🏓
 
     // getting to know, 0-3
+    "_lustica_",
     "friend_foryou",
     "scarletmore",
     "en_hi1",
