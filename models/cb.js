@@ -209,6 +209,7 @@ let cb0Primary = [
     // getting to know, 0-3
     "_lustica_",
     "pazrapacki",
+    "awwrora",
     "friend_foryou",
     "scarletmore",
     "en_hi1",
