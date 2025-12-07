@@ -176,6 +176,7 @@ let cb0Primary = [
     "candyboofairy",
     "bunny_gaze",
     "likamatthews",
+    "alisonita",
 
     // slutty appeal, 0-1
     "vilanelle_1",
