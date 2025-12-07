@@ -175,7 +175,6 @@ let cb0Primary = [
     "miafosterx",
     "candyboofairy",
     "bunny_gaze",
-    "tinkerdinky",
 
     // slutty appeal, 0-1
     "vilanelle_1",
@@ -185,7 +184,6 @@ let cb0Primary = [
 
     "wynol",
     "angels_kiss",
-    "tollysage",
     "eva_doll_4u", // "elizabad",
     "natalie_x",
     "kathariine", // 🇺🇦 // 🏓
@@ -225,10 +223,8 @@ let cb0Primary = [
     "charming_angel_", // "mia_riley_online"
     "victoriahouston",
     "luckysexydoll",
-
-    "plastic_beach",
-    "janedaniells", // 🏓; stripchat: janedaniells
-    "hornybunnyss",
+    "tinkerdinky",
+    "tollysage",
 
     // couples, 0-2
     "viktoranmary",
@@ -246,6 +242,9 @@ let cb0Primary = [
 
 let cb1Primary = [
     // idle
+    "plastic_beach",
+    "janedaniells", // 🏓; stripchat: janedaniells
+    "hornybunnyss",
     "ooxygenlow",
     "katysha_",
     "amaya_mori",
