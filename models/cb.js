@@ -163,7 +163,6 @@ let cb0Primary = [
 
     // couples 0-2
     "familysexy34",
-    "_fieryflash_",
     "minions_",
     
     // strictly eye candy 0-2
@@ -173,7 +172,6 @@ let cb0Primary = [
     "rosa_burgess",
     "darlingdarinka",
     "miafosterx",
-    "candyboofairy",
     "bunny_gaze",
     "likamatthews",
     "alisonita",
@@ -258,6 +256,12 @@ let cb1Primary = [
     "_annybunny_",
     "leiavelvet",
 
+    // getting to know 1-1
+    "candyboofairy",
+
+    // couples 1-1
+    "_fieryflash_",
+
     // strictly eye candy, 1-1
     "dollymelissa",
     "leyla_ly",
@@ -289,7 +293,7 @@ let cb1Primary = [
     "eminemswife",
     "willow__love", // 🏓
 
-    // getting to know, 1-1
+    // getting to know, 1-2
     "alicat_",
     "treplady",
     "moonnshinee",
