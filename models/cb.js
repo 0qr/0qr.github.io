@@ -234,14 +234,15 @@ let cb0Primary = [
     "masqueradeporn",
 
     // strictly eye candy, 0-4
-    "goodg_oddamn",
-    "corni__"
+    "goodg_oddamn"
 
     // getting to know, 0-4
 
 ];
 
 let cb1Primary = [
+    "corni__",
+
     // idle
     "plastic_beach",
     "janedaniells", // 🏓; stripchat: janedaniells
