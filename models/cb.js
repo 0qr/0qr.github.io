@@ -174,8 +174,6 @@ let cb0Primary = [
     "miafosterx",
     "bunny_gaze",
     "likamatthews",
-    "alisonita",
-    "tonimua",
 
     // slutty appeal, 0-1
     "vilanelle_1",
@@ -212,6 +210,8 @@ let cb0Primary = [
     "angelees_",
     "ellieluvs",
     "melissalemi",
+    "alisonita",
+    "tonimua",
 
     "bestzoeyever",
     "pathos_of_things", // "neko_kimiko",
