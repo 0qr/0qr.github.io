@@ -221,6 +221,7 @@ let cb0Primary = [
     // strictly eye candy, 0-3
     "babeholly",
     "audreycarvin",
+    "cindy_luv",
     "_june",
     "charming_angel_", // "mia_riley_online"
     "victoriahouston",
