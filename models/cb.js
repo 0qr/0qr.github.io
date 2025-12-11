@@ -211,7 +211,6 @@ let cb0Primary = [
     "ellieluvs",
     "melissalemi",
     "alisonita",
-    "sweet_melissa133",
 
     "bestzoeyever",
     "pathos_of_things", // "neko_kimiko",
@@ -235,9 +234,10 @@ let cb0Primary = [
     "masqueradeporn",
 
     // strictly eye candy, 0-4
-    "goodg_oddamn"
+    "goodg_oddamn",
 
     // getting to know, 0-4
+    "sweet_melissa133"
 
 ];
 
