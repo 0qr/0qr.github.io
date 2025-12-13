@@ -70,7 +70,6 @@ let cbSecondary = [
 
     // getting to know
     "melani_lesss", // 🏓
-    "sweetgirlandbigcock",
     "emma_lov2",
 
     // strictly eye candy, 2
@@ -79,11 +78,15 @@ let cbSecondary = [
     "anna_bri",
     "ksensual",
 
+    // couples 1
+    "minions_",
+
+    "sweetgirlandbigcock",
     "babe_bucks",
     "neondemon_",
     "lastdawn", // 🏓🏓
 
-    // couples
+    // couples 2
     "playwithmil",
     "catanddickxxx",
 
@@ -164,7 +167,6 @@ let cb0Primary = [
 
     // couples 0-2
     "familysexy34",
-    "minions_",
     
     // strictly eye candy 0-2
     "mist_mia",
