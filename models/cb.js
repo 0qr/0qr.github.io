@@ -153,6 +153,8 @@ let cb0Primary = [
     "ecsodia",
 
     // getting to know, 0-1
+    "rinacain",
+    "melissalemi",
     "angelees_",
 
     // strictly eye candy, 0-1
@@ -209,9 +211,7 @@ let cb0Primary = [
     "lilkiti",
     "mollydo11",
     "baby_maddy_",
-    "rinacain",
     "ellieluvs",
-    "melissalemi",
     "alisonita",
     "lanamaex",
     "linalive2005",
