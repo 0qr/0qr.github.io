@@ -238,10 +238,9 @@ let cb0Primary = [
     "masqueradeporn",
 
     // strictly eye candy, 0-4
-    "goodg_oddamn",
+    "goodg_oddamn"
 
     // getting to know, 0-4
-    "sweet_melissa133"
 
 ];
 
@@ -267,6 +266,7 @@ let cb1Primary = [
 
     // getting to know 1-1
     "candyboofairy",
+    "sweet_melissa133",
 
     // couples 1-1
     "_fieryflash_",
