@@ -183,7 +183,6 @@ let cb0Primary = [
     // slutty appeal, 0-1
     "vilanelle_1",
     "x_lina",
-    "dearly_emily", // 🏓
     "mirai_meow",
 
     "wynol",
@@ -215,6 +214,7 @@ let cb0Primary = [
     "alisonita",
     "lanamaex",
     "linalive2005",
+    "creambaby1",
 
     "bestzoeyever",
     "pathos_of_things", // "neko_kimiko",
@@ -246,8 +246,6 @@ let cb0Primary = [
 ];
 
 let cb1Primary = [
-    "corni__",
-
     // idle
     "plastic_beach",
     "janedaniells", // 🏓; stripchat: janedaniells
@@ -263,6 +261,9 @@ let cb1Primary = [
     "truesue",
     "_annybunny_",
     "leiavelvet",
+
+    "corni__",
+    "dearly_emily", // 🏓
 
     // getting to know 1-1
     "candyboofairy",
