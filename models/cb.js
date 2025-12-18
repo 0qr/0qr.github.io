@@ -179,6 +179,7 @@ let cb0Primary = [
     "miafosterx",
     "bunny_gaze",
     "likamatthews",
+    "kseha_cute",
 
     // slutty appeal, 0-1
     "vilanelle_1",
