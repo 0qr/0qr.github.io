@@ -219,7 +219,6 @@ let cb0Primary = [
     "alisonita",
     "lanamaex",
     "linalive2005",
-    "creambaby1",
 
     "bestzoeyever",
     "pathos_of_things", // "neko_kimiko",
@@ -271,6 +270,7 @@ let cb1Primary = [
     // getting to know 1-1
     "candyboofairy",
     "sweet_melissa133",
+    "creambaby1",
 
     // couples 1-1
     "_fieryflash_",
