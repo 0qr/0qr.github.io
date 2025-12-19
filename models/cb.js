@@ -133,10 +133,10 @@ fn__cbPrimary();
 fn__cbSecondary();
 
 let cb0Primary = [
+    "xxlika",
+
     "chloe__rose_", // "yamaguchi_",
-    "candyfeatcrush",
     "onecuteangel",
-    "frauchocolate", // 🏓🏓🏓 (face slapping on request?)
 
     "juliet_bb",
     "kira_censori", // 🏓
@@ -151,6 +151,10 @@ let cb0Primary = [
     "mynameisnikki",
     "amazon_girl",
     "ecsodia",
+    "candyfeatcrush",
+
+    // "lovelly_molly",
+        // "frauchocolate", // 🏓🏓🏓 (face slapping on request?)
 
     // getting to know, 0-1
     "rinacain",
@@ -219,7 +223,6 @@ let cb0Primary = [
 
     "bestzoeyever",
     "pathos_of_things", // "neko_kimiko",
-    "xxlika",
 
     // strictly eye candy, 0-3
     "babeholly",
