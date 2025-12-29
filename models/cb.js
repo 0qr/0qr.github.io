@@ -173,6 +173,7 @@ let cb0Primary = [
 
     // couples 0-2
     "familysexy34",
+    "hiddendesire6",
     
     // strictly eye candy 0-2
     "mist_mia",
