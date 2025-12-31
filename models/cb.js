@@ -280,7 +280,6 @@ let cb1Primary = [
     // strictly eye candy, 1-1
     "dollymelissa",
     "leyla_ly",
-    "love_machine_",
     "veronikaav",
     "jessie98631",
 
