@@ -183,7 +183,6 @@ let cb0Primary = [
     "darlingdarinka",
     "miafosterx",
     "kseha_cute",
-    "angelees_",
 
     // slutty appeal, 0-1
     "vilanelle_1",
@@ -207,7 +206,6 @@ let cb0Primary = [
     "alexiafoxmodel", // 🏓
 
     // getting to know, 0-3
-    "_lustica_",
     "pazrapacki",
     "awwrora",
     "friend_foryou",
@@ -262,6 +260,8 @@ let cb1Primary = [
     "_annybunny_",
     "leiavelvet",
     "linalive2005",
+    "angelees_",
+    "_lustica_",
 
     "corni__",
     "dearly_emily", // 🏓
