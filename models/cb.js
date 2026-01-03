@@ -80,7 +80,6 @@ let cbSecondary = [
     // couples 1
     "minions_",
 
-    "sweetgirlandbigcock",
     "babe_bucks",
     "neondemon_",
     "lastdawn", // 🏓🏓
@@ -185,6 +184,7 @@ let cb0Primary = [
     "kseha_cute",
 
     // slutty appeal, 0-1
+    "sweetgirlandbigcock",
     "vilanelle_1",
     "x_lina",
     "mirai_meow",
