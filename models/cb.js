@@ -211,7 +211,6 @@ let cb0Primary = [
     "friend_foryou",
     "lili__roze_",
     "mollydo11",
-    "misssweettie",
     "ellieluvs",
     "lanamaex",
     "ink_soul",
@@ -226,9 +225,6 @@ let cb0Primary = [
     "_june",
     "charming_angel_", // "mia_riley_online"
     "victoriahouston",
-    "luckysexydoll",
-    "tinkerdinky",
-    "tollysage",
 
     // couples, 0-2
     "viktoranmary",
@@ -244,6 +240,11 @@ let cb0Primary = [
 ];
 
 let cb1Primary = [
+    "luckysexydoll",
+    "tinkerdinky",
+    "tollysage",
+    "misssweettie",
+
     // idle
     "plastic_beach",
     "janedaniells", // 🏓; stripchat: janedaniells
