@@ -182,6 +182,8 @@ let cb0Primary = [
     "darlingdarinka",
     "miafosterx",
     "kseha_cute",
+    "ink_soul",
+    "little_style",
 
     // slutty appeal, 0-1
     "sweetgirlandbigcock",
@@ -213,9 +215,7 @@ let cb0Primary = [
     "mollydo11",
     "ellieluvs",
     "lanamaex",
-    "ink_soul",
     "college_girl_",
-    "little_style",
 
     "bestzoeyever",
     "pathos_of_things", // "neko_kimiko",
