@@ -222,7 +222,6 @@ let cb0Primary = [
     // strictly eye candy, 0-3
     "babeholly",
     "audreycarvin",
-    "cindy_luv",
     "_june",
     "charming_angel_", // "mia_riley_online"
     "victoriahouston",
@@ -284,6 +283,7 @@ let cb1Primary = [
     "leyla_ly",
     "veronikaav",
     "jessie98631",
+    "cindy_luv",
 
     "lunainnk", // 🇺🇦
     "love_melody",
@@ -469,7 +469,6 @@ let cb2Primary = [
     "the_humble_fox_69",
     "wild_angel777", // 🇺🇦
     "bella_white19",
-    "cindy_luv",
     "loony_moony",
 
     // strictly eye candy, 2-1
