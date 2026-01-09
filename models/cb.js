@@ -133,7 +133,6 @@ fn__cbSecondary();
 
 let cb0Primary = [
     "xxlika",
-    "maryvi",
 
     "chloe__rose_", // "yamaguchi_",
     "onecuteangel",
@@ -219,6 +218,7 @@ let cb0Primary = [
 
     "bestzoeyever",
     "pathos_of_things", // "neko_kimiko",
+    "maryvi",
 
     // strictly eye candy, 0-3
     "babeholly",
