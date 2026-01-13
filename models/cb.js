@@ -184,7 +184,7 @@ let cb0Primary = [
     "mary_meys",
 
     // slutty appeal, 0-1
-    "sweetgirlandbigcock",
+    "allfine_", // "sweetgirlandbigcock",
     "vilanelle_1",
     "x_lina",
     "mirai_meow",
@@ -206,7 +206,6 @@ let cb0Primary = [
     "alexiafoxmodel", // 🏓
 
     // getting to know, 0-3
-    "allfine_",
     "princessjasmine_18",
     "arina_13",
     "pazrapacki",
