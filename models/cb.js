@@ -206,6 +206,7 @@ let cb0Primary = [
     "alexiafoxmodel", // 🏓
 
     // getting to know, 0-3
+    "allfine_",
     "princessjasmine_18",
     "arina_13",
     "pazrapacki",
