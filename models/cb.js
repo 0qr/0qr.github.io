@@ -218,7 +218,6 @@ let cb0Primary = [
     "lanamaex",
     "college_girl_",
     "little_style",
-    "onlyxlicious_cb",
 
     "unnabella",
     "bestzoeyever",
@@ -238,10 +237,10 @@ let cb0Primary = [
     "masqueradeporn",
 
     // strictly eye candy, 0-4
-    "goodg_oddamn"
+    "goodg_oddamn",
 
     // getting to know, 0-4
-
+    "onlyxlicious_cb"
 ];
 
 let cb1Primary = [
