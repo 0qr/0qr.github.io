@@ -221,7 +221,6 @@ let cb0Primary = [
     "unnabella",
     "bestzoeyever",
     "pathos_of_things", // "neko_kimiko",
-    "maryvi",
 
     // strictly eye candy, 0-3
     "babeholly",
@@ -248,6 +247,7 @@ let cb1Primary = [
     "tinkerdinky",
     "tollysage",
     "misssweettie",
+    "maryvi",
 
     // idle
     "plastic_beach",
@@ -277,7 +277,6 @@ let cb1Primary = [
     "creambaby1",
     "lilkiti",
     "bunny_gaze",
-    "likamatthews",
 
     // couples 1-1
     "_fieryflash_",
