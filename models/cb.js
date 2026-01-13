@@ -167,7 +167,6 @@ let cb0Primary = [
 
     "cute_shine",
     "naive_love",
-    "unnabella",
 
     // couples 0-2
     "familysexy34",
@@ -219,6 +218,7 @@ let cb0Primary = [
     "little_style",
     "onlyxlicious_cb",
 
+    "unnabella",
     "bestzoeyever",
     "pathos_of_things", // "neko_kimiko",
     "maryvi",
