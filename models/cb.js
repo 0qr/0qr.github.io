@@ -244,10 +244,9 @@ let cb0Primary = [
     "masqueradeporn",
 
     // strictly eye candy, 0-4
-    "goodg_oddamn",
+    "goodg_oddamn"
 
     // getting to know, 0-4
-    "onlyxlicious_cb"
 ];
 
 let cb1Primary = [
@@ -257,7 +256,6 @@ let cb1Primary = [
     "misssweettie",
     "maryvi",
 
-    // idle
     "plastic_beach",
     "janedaniells", // 🏓; stripchat: janedaniells
     "hornybunnyss",
@@ -285,6 +283,7 @@ let cb1Primary = [
     "creambaby1",
     "lilkiti",
     "bunny_gaze",
+    "onlyxlicious_cb"
 
     // couples 1-1
     "_fieryflash_",
