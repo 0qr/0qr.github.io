@@ -1,20 +1,25 @@
 let cbPrimary = [
-    "anna___hayley",
     "_milkyway",
     "haisley_dream1", // 🇺🇦 // "hayle_green", "xlorraine", 
-
     "alice_kosmos",
-    "esther_estrie",
-    "alis_molli", // 🇺🇦
-    "fflloowweerr",
-    "sweetkira555",
-    "rosykindred", // "rosaliekin", // "rosykindred",
-        "502_error", // rosykindred
+
     "blair_foxxxy",
 
+    // strictly eye candy
+    "_isiah", // "isia_slay",
+
+    "rosykindred", // "rosaliekin", // "rosykindred",
+        "502_error", // rosykindred
+
+    "sweetkira555",
+    "fflloowweerr",
+    "alis_molli", // 🇺🇦
+
     // idle, 1
-    "blackmango_mary",
+    "anna___hayley",
     "sugarbae_haze",
+    "esther_estrie",
+    "blackmango_mary",
     "lovahd",
     "lola_bunny94",
     "aurorashiine", // 🏓
@@ -60,8 +65,7 @@ let cbSecondary = [
     "dollyemy", // 🏓🏓
     "angel_in_tibet",
 
-    // strictly eye candy
-    "_isiah", // "isia_slay",
+    // strictly eye candy 2
     "mia_dynasty", // "mia_elfie",
     "sweet_tinker_bell",
     "catherenee",
