@@ -283,7 +283,7 @@ let cb1Primary = [
     "creambaby1",
     "lilkiti",
     "bunny_gaze",
-    "onlyxlicious_cb"
+    "onlyxlicious_cb",
 
     // couples 1-1
     "_fieryflash_",
