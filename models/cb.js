@@ -172,23 +172,21 @@ let cb0Primary = [
     "cute_shine",
     "naive_love",
 
-    // couples 0-2
+    // couples, 0-2
     "familysexy34",
     "hiddendesire6",
+    "cream_fucks",
     
-    // strictly eye candy 0-2
+    // strictly eye candy, 0-2
     "mist_mia",
 
-    // getting to know 0-2
+    // getting to know, 0-2
     "rosa_burgess",
     "darlingdarinka",
     "miafosterx",
     "kseha_cute",
     "ink_soul",
     "mary_meys",
-    
-    // couples 0-2
-    "cream_fucks",
 
     // slutty appeal, 0-1
     "allfine_", // "sweetgirlandbigcock",
