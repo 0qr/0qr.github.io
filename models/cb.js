@@ -175,7 +175,6 @@ let cb0Primary = [
     // couples, 0-2
     "familysexy34",
     "hiddendesire6",
-    "cream_fucks",
     
     // strictly eye candy, 0-2
     "mist_mia",
@@ -242,6 +241,7 @@ let cb0Primary = [
     "hannahlusttt",
     "hot_ho",
     "masqueradeporn",
+    "cream_fucks",
 
     // strictly eye candy, 0-4
     "goodg_oddamn"
