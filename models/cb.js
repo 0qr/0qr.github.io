@@ -186,6 +186,9 @@ let cb0Primary = [
     "kseha_cute",
     "ink_soul",
     "mary_meys",
+    
+    // couples 0-2
+    "cream_fucks",
 
     // slutty appeal, 0-1
     "allfine_", // "sweetgirlandbigcock",
@@ -236,7 +239,7 @@ let cb0Primary = [
     "charming_angel_", // "mia_riley_online"
     "victoriahouston",
 
-    // couples, 0-2
+    // couples, 0-3
     "viktoranmary",
     "hannahlusttt",
     "hot_ho",
