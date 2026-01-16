@@ -210,7 +210,6 @@ let cb0Primary = [
     "alexiafoxmodel", // 🏓
 
     // getting to know, 0-3
-    "princessjasmine_18",
     "arina_13",
     "pazrapacki",
     "awwrora",
@@ -278,6 +277,7 @@ let cb1Primary = [
     "dearly_emily", // 🏓
 
     // getting to know 1-1
+    "princessjasmine_18",
     "candyboofairy",
     "sweet_melissa133",
     "creambaby1",
