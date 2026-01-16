@@ -191,7 +191,7 @@ let cb0Primary = [
     "allfine_", // "sweetgirlandbigcock",
     "vilanelle_1",
     "x_lina",
-    "mirai_meow",
+    "katana_white", // "mirai_meow",
 
     "wynol",
     "angels_kiss",
