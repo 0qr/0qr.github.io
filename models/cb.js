@@ -187,7 +187,6 @@ let cb0Primary = [
     // couples, 0-2
     "familysexy34",
     "hiddendesire6",
-    "say_and_kiss",
 
     // slutty appeal, 0-1
     "allfine_", // "sweetgirlandbigcock",
@@ -289,6 +288,7 @@ let cb1Primary = [
 
     // couples 1-1
     "_fieryflash_",
+    "say_and_kiss",
 
     // strictly eye candy, 1-1
     "dollymelissa",
