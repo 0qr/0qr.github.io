@@ -233,6 +233,7 @@ let cb0Primary = [
     "_june",
     "charming_angel_", // "mia_riley_online"
     "victoriahouston",
+    "smurf19",
 
     // couples, 0-3
     "viktoranmary",
