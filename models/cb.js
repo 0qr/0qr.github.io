@@ -119,13 +119,14 @@ let fn__cbSecondary = async () => { cbSecondary.forEach(m => addModel(m, 30)); }
 let currentHours = new Date().getHours();
 
 let cbMorningShift = [
+    // "queen_kitty18"
 ];
 let fn__cbMorningShift = async () => { cbMorningShift.forEach(m => addModel(m, 35)); }
 if (currentHours > 9 && currentHours < 16) {
     fn__cbMorningShift();
 }
 let cbNightShift = [
-    "breeding_material"
+    // "breeding_material"
 ];
 let fn__cbNightShift = async () => { cbNightShift.forEach(m => addModel(m, 35)); }
 if (currentHours <= 8) {
@@ -251,6 +252,7 @@ let cb1Primary = [
     "tollysage",
     "misssweettie",
     "maryvi",
+    "breeding_material",
 
     "kseha_cute",
     "plastic_beach",
