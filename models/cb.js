@@ -184,7 +184,6 @@ let cb0Primary = [
     "ink_soul",
     "mary_meys",
     "anastasia881",
-    "caseylabow",
 
     // couples, 0-2
     "familysexy34",
@@ -290,6 +289,7 @@ let cb1Primary = [
     "bunny_gaze",
     "onlyxlicious_cb",
     "adele_kawaii",
+    "caseylabow",
 
     // couples 1-1
     "_fieryflash_",
