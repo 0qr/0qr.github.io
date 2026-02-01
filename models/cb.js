@@ -172,7 +172,6 @@ let cb0Primary = [
     "naive_love",
 
     // strictly eye candy, 0-2
-    "mist_mia",
 
     // token sieves 💸
     "agent_blonde",
@@ -215,8 +214,8 @@ let cb0Primary = [
     "awwrora",
     "friend_foryou",
     "lili__roze_",
-    "likamatthews",
     "mollydo11",
+    "bell_kim",
     "lanamaex",
     "college_girl_",
     "little_style",
@@ -228,10 +227,11 @@ let cb0Primary = [
     // strictly eye candy, 0-3
     "babeholly",
     "audreycarvin",
-    "_june",
+    "smurf19",
+    "mist_mia",
     "charming_angel_", // "mia_riley_online"
     "victoriahouston",
-    "smurf19",
+    "_june",
 
     // couples, 0-3
     "viktoranmary",
@@ -243,7 +243,7 @@ let cb0Primary = [
     "goodg_oddamn",
 
     // getting to know, 0-4
-    "bell_kim"
+    "likamatthews"
 ];
 
 let cb1Primary = [
