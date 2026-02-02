@@ -240,10 +240,9 @@ let cb0Primary = [
     "masqueradeporn",
 
     // strictly eye candy, 0-4
-    "goodg_oddamn",
+    "goodg_oddamn"
 
     // getting to know, 0-4
-    "likamatthews"
 ];
 
 let cb1Primary = [
@@ -275,6 +274,7 @@ let cb1Primary = [
     "pazrapacki",
     "sofiasimons",
     "ellieluvs",
+    "likamatthews",
 
     "corni__",
     "dearly_emily", // 🏓
