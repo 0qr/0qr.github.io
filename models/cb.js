@@ -240,9 +240,10 @@ let cb0Primary = [
     "masqueradeporn",
 
     // strictly eye candy, 0-4
-    "goodg_oddamn"
+    "goodg_oddamn",
 
     // getting to know, 0-4
+    "feel_me_00"
 ];
 
 let cb1Primary = [
