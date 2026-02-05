@@ -243,7 +243,9 @@ let cb0Primary = [
     "goodg_oddamn",
 
     // getting to know, 0-4
-    "feel_me_00"
+    "feel_me_00",
+    "adele_kawaii",
+    "emilytrays"
 ];
 
 let cb1Primary = [
@@ -288,7 +290,6 @@ let cb1Primary = [
     "lilkiti",
     "bunny_gaze",
     "onlyxlicious_cb",
-    "adele_kawaii",
     "caseylabow",
 
     // couples 1-1
