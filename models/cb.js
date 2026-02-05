@@ -248,7 +248,7 @@ let cb0Misc = [
     //"queen_kitty18",
     "adele_kawaii"
 ];
-let fn__cb0Misc = async () => { cb0Misc.forEach(m => addModel(m, 35)); }
+let fn__cb0Misc = async () => { cb0Misc.forEach(m => addModel(m, 50)); }
 
 let cb1Primary = [
     "luckysexydoll",
@@ -648,5 +648,5 @@ let cb2Primary = [
     "tanaichon"
 ];
 
-let fn__cb1Primary = async () => { cb1Primary.forEach(m => addModel(m, 50)); cbLevelNext++; }
-let fn__cb2Primary = async () => { cb2Primary.forEach(m => addModel(m, 60)); cbLevelNext++; }
+let fn__cb1Primary = async () => { cb1Primary.forEach(m => addModel(m, 50)); }
+let fn__cb2Primary = async () => { cb2Primary.forEach(m => addModel(m, 60)); }
