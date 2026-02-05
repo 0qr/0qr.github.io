@@ -244,8 +244,8 @@ let cb0Primary = [
 
     // getting to know, 0-4
     "feel_me_00",
-    "adele_kawaii",
-    "emilytrays"
+    "emilytrays",
+    "adele_kawaii"
 ];
 
 let cb1Primary = [
