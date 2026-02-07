@@ -96,7 +96,6 @@ let cbSecondary = [
 
     // strictly eye candy, 4
     "ingergirl",
-    "mickeydior",
 
     // idle, 2
     "july_koss",
@@ -282,6 +281,9 @@ let cb1Primary = [
 
     "corni__",
     "dearly_emily", // 🏓
+
+    // studio 1-1
+    "mickeydior",
 
     // getting to know 1-1
     "princessjasmine_18",
