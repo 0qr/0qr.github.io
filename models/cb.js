@@ -188,7 +188,6 @@ let cb0Primary = [
     "katana_white", // "mirai_meow",
 
     "wynol",
-    "angels_kiss",
     "eva_doll_4u", // "elizabad",
     "natalie_x",
     "kathariine", // 🇺🇦 // 🏓
@@ -256,6 +255,7 @@ let cb1Primary = [
     "misssweettie",
     "maryvi",
     "breeding_material",
+    "angels_kiss",
 
     // getting to know, 1-1
     "evangel111",
