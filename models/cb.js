@@ -238,7 +238,6 @@ let cb0Primary = [
 
     // getting to know, 0-4
     "feel_me_00",
-    "evangel111",
     "tonimua"
 ];
 
@@ -257,6 +256,9 @@ let cb1Primary = [
     "misssweettie",
     "maryvi",
     "breeding_material",
+
+    // getting to know, 1-1
+    "evangel111",
 
     "kseha_cute",
     "plastic_beach",
@@ -287,7 +289,7 @@ let cb1Primary = [
     // studio 1-1
     "mickeydior",
 
-    // getting to know 1-1
+    // getting to know 1-2
     "princessjasmine_18",
     "candyboofairy",
     "sweet_melissa133",
@@ -335,7 +337,7 @@ let cb1Primary = [
     "eminemswife",
     "willow__love", // 🏓
 
-    // getting to know, 1-2
+    // getting to know, 1-3
     "alicat_",
     "treplady",
     "moonnshinee",
@@ -373,7 +375,7 @@ let cb1Primary = [
     "megan_myersss",
     "dream_desire_",
 
-    // getting to know, 1-2
+    // getting to know, 1-4
     "blondyrush",
     "kissing33", // 🇺🇦
     "milky__way_",
