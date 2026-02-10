@@ -196,7 +196,6 @@ let cb0Primary = [
     "hit_girl_",
     "emmanyxxx", // "logan_emma1",
 
-    "mia_gothh",
     "diroill",
     "lovelycaroline_", // 🏓🏓
     "ohbabykelly",
@@ -226,7 +225,6 @@ let cb0Primary = [
     "mist_mia",
     "charming_angel_", // "mia_riley_online"
     "victoriahouston",
-    "_june",
 
     // couples, 0-3
     "viktoranmary",
@@ -257,6 +255,8 @@ let cb1Primary = [
     "maryvi",
     "breeding_material",
     "angels_kiss",
+    "mia_gothh",
+    "_june",
 
     // getting to know, 1-1
     "evangel111",
