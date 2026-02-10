@@ -218,6 +218,8 @@ let cb0Primary = [
     "pathos_of_things", // "neko_kimiko",
 
     // strictly eye candy, 0-3
+    "mia_milana",
+    "kity_paw",
     "babeholly",
     "audreycarvin",
     "smurf19",
