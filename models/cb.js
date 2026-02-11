@@ -217,7 +217,6 @@ let cb0Primary = [
     "pathos_of_things", // "neko_kimiko",
 
     // strictly eye candy, 0-3
-    "mia_milana",
     "kity_paw",
     "babeholly",
     "audreycarvin",
@@ -287,6 +286,7 @@ let cb1Primary = [
     "corni__",
     "dearly_emily", // 🏓
     "tonimua",
+    "mia_milana",
 
     // studio 1-1
     "mickeydior",
