@@ -94,7 +94,6 @@ let cbSecondary = [
     "cutieeeeva",
 
     // strictly eye candy, 4
-    "ingergirl",
 
     // idle, 2
     "july_koss",
@@ -164,6 +163,7 @@ let cb0Primary = [
     "naive_love",
 
     // strictly eye candy, 0-2
+    "ingergirl",
 
     // token sieves 💸
     "agent_blonde",
