@@ -153,8 +153,6 @@ let cb0Primary = [
         // "frauchocolate", // 🏓🏓🏓 (face slapping on request?)
 
     // getting to know, 0-1
-    "rinacain",
-    "melissalemi",
 
     // strictly eye candy, 0-1
     "bellean_blare",
@@ -185,6 +183,7 @@ let cb0Primary = [
     "vilanelle_1",
     "x_lina",
     "katana_white", // "mirai_meow",
+    "lili__roze_",
 
     "wynol",
     "eva_doll_4u", // "elizabad",
@@ -197,14 +196,15 @@ let cb0Primary = [
 
     "diroill",
     "lovelycaroline_", // 🏓🏓
-    "ohbabykelly",
     "alexiafoxmodel", // 🏓
+    "ohbabykelly",
+    "awwrora",
 
     // getting to know, 0-3
+    "rinacain",
+    "melissalemi",
     "arina_13",
-    "awwrora",
     "friend_foryou",
-    "lili__roze_",
     "mollydo11",
     "bell_kim",
     "lanamaex",
