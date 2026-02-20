@@ -163,7 +163,6 @@ let cb0Primary = [
     "naive_love",
 
     // strictly eye candy, 0-2
-    "ingergirl",
 
     // token sieves 💸
     "agent_blonde",
@@ -194,6 +193,7 @@ let cb0Primary = [
     "hit_girl_",
     "emmanyxxx", // "logan_emma1",
 
+    "ingergirl",
     "diroill",
     "lovelycaroline_", // 🏓🏓
     "alexiafoxmodel", // 🏓
