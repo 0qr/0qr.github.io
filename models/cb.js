@@ -209,7 +209,6 @@ let cb0Primary = [
     "bell_kim",
     "lanamaex",
     "little_style",
-    "_starshine",
 
     "unnabella",
     "bestzoeyever",
@@ -302,6 +301,7 @@ let cb1Primary = [
     "onlyxlicious_cb",
     "caseylabow",
     "emilytrays",
+    "_starshine",
 
     // couples 1-1
     "_fieryflash_",
