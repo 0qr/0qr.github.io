@@ -41,7 +41,6 @@ let cbSecondary = [
 
     "aurora_the_ballerina", // 🏓
     "miss_opss", // 🏓🏓
-    "shinyways", // 🏓🏓
     "_taylor_swift", // 🏓
     "jilly_wolly1",
     "agata_cristy", // 🏓
@@ -66,6 +65,7 @@ let cbSecondary = [
     "sweet_tinker_bell",
     "catherenee",
     "xxx_leila", // 🏓
+    "shinyways", // 🏓🏓
 
     // getting to know
     "melani_lesss", // 🏓
