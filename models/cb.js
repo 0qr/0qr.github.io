@@ -233,8 +233,7 @@ let cb0Primary = [
     "bitehoneyice",
 
     // getting to know, 0-4
-    "feel_me_00",
-    "whitekelly"
+    "feel_me_00"
 ];
 
 let fn__cb0Primary = async () => { cb0Primary.forEach(m => addModel(m, 40)); cbLevelNext++; }
