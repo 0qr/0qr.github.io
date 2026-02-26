@@ -219,7 +219,6 @@ let cb0Primary = [
     "smurf19",
     "mist_mia",
     "charming_angel_", // "mia_riley_online"
-    "victoriahouston",
     "shiningdawn",
 
     // couples, 0-3
@@ -229,8 +228,9 @@ let cb0Primary = [
     "masqueradeporn",
 
     // strictly eye candy, 0-4
-    "goodg_oddamn",
     "bitehoneyice",
+    "goodg_oddamn",
+    "victoriahouston",
 
     // getting to know, 0-4
     "feel_me_00"
