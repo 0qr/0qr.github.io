@@ -206,7 +206,6 @@ let cb0Primary = [
     "arina_13",
     "friend_foryou",
     "mollydo11",
-    "bell_kim",
     "lanamaex",
     "little_style",
 
@@ -215,7 +214,6 @@ let cb0Primary = [
     "pathos_of_things", // "neko_kimiko",
 
     // strictly eye candy, 0-3
-    "kity_paw",
     "babeholly",
     "audreycarvin",
     "smurf19",
@@ -257,6 +255,9 @@ let cb1Primary = [
     "angels_kiss",
     "mia_gothh",
     "_june",
+
+    "bell_kim",
+    "kity_paw",
 
     // getting to know, 1-1
     "evangel111",
