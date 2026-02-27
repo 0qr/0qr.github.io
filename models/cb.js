@@ -230,7 +230,6 @@ let cb0Primary = [
     // strictly eye candy, 0-4
     "bitehoneyice",
     "goodg_oddamn",
-    "victoriahouston",
 
     // getting to know, 0-4
     "feel_me_00"
@@ -254,6 +253,7 @@ let cb1Primary = [
     "angels_kiss",
     "mia_gothh",
     "_june",
+    "victoriahouston",
 
     "bell_kim",
     "kity_paw",
