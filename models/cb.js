@@ -201,7 +201,6 @@ let cb0Primary = [
     "awwrora",
 
     // getting to know, 0-3
-    "rinacain",
     "melissalemi",
     "arina_13",
     "friend_foryou",
@@ -229,7 +228,6 @@ let cb0Primary = [
 
     // strictly eye candy, 0-4
     "bitehoneyice",
-    "goodg_oddamn",
 
     // getting to know, 0-4
     "feel_me_00"
@@ -254,6 +252,7 @@ let cb1Primary = [
     "mia_gothh",
     "_june",
     "victoriahouston",
+    "goodg_oddamn",
 
     "bell_kim",
     "kity_paw",
@@ -305,6 +304,7 @@ let cb1Primary = [
     "caseylabow",
     "emilytrays",
     "_starshine",
+    "rinacain",
 
     // couples 1-1
     "_fieryflash_",
