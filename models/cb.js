@@ -8,8 +8,7 @@ let cbPrimary = [
     // strictly eye candy
     "_isiah", // "isia_slay",
 
-    "rosykindred", // "rosaliekin", // "rosykindred",
-        "502_error", // rosykindred
+    "502_error", // rosykindred, rosaliekin
 
     "sweetkira555",
     "fflloowweerr",
@@ -34,8 +33,7 @@ let cbSecondary = [
     "wild_schoolgirl", // 🇷🇴
     "flowerr_powerr", // 🏓🏓🏓
 
-    "lexy_sinn", // 🏓🏓
-        "ellie_land",
+    "ellie_land", // 🏓 // lexy_sinn
 
     "rinassecret", // "little_vee",
 
