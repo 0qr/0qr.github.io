@@ -156,6 +156,7 @@ let cb0Primary = [
     "gina_vicious",
     "valerieh",
     "star_gazing",
+    "hit_girl_",
 
     "cute_shine",
     "naive_love",
@@ -170,7 +171,6 @@ let cb0Primary = [
     "darlingdarinka",
     "miafosterx",
     "ink_soul",
-    "mary_meys",
 
     // couples, 0-2
     "familysexy34",
@@ -188,7 +188,6 @@ let cb0Primary = [
     "kathariine", // 🇺🇦 // 🏓
     "alisagoddie19",
     "mary_delray",
-    "hit_girl_",
     "emmanyxxx", // "logan_emma1",
 
     "ingergirl",
@@ -205,6 +204,8 @@ let cb0Primary = [
     "mollydo11",
     "lanamaex",
     "little_style",
+    "mary_meys",
+    "avelorialove",
 
     "unnabella",
     "bestzoeyever",
