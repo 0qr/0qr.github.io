@@ -228,6 +228,9 @@ let cb0Primary = [
     // strictly eye candy, 0-4
     "bitehoneyice",
 
+    // slutty appeal, 0-2
+    "ewagreen",
+
     // getting to know, 0-4
     "feel_me_00"
 ];
@@ -324,7 +327,6 @@ let cb1Primary = [
     "your_misstress",
     "ella_lee15",
     "avroramy",
-    "ewagreen",
     "skinny_alice",
     "diana_dii_01",
     "hard_candy_gang",
