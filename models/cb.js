@@ -138,7 +138,8 @@ let cb0Primary = [
     "milly____",
     "alissgrey",
 
-    "mynameisnikki_", // "mynameisnikki",
+    "nikkicchu", // "mynameisnikki_", // "mynameisnikki",
+    "lili__roze_",
 
     // idle
     "popsytopsy",
@@ -158,9 +159,6 @@ let cb0Primary = [
     "star_gazing",
     "hit_girl_",
 
-    "cute_shine",
-    "naive_love",
-
     // strictly eye candy, 0-2
 
     // token sieves 💸
@@ -172,6 +170,9 @@ let cb0Primary = [
     "miafosterx",
     "ink_soul",
 
+    "cute_shine",
+    "naive_love",
+
     // couples, 0-2
     "familysexy34",
 
@@ -180,7 +181,6 @@ let cb0Primary = [
     "vilanelle_1",
     "x_lina",
     "katana_white", // "mirai_meow",
-    "lili__roze_",
 
     "wynol",
     "eva_doll_4u", // "elizabad",
