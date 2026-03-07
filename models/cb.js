@@ -133,13 +133,11 @@ let cb0Primary = [
     "juliet_bb",
     "kira_censori", // 🏓
     "vikinamnu",
+    "lili__roze_",
 
     // couples, 0-1
     "milly____",
     "alissgrey",
-
-    "nikkicchu", // "mynameisnikki_", // "mynameisnikki",
-    "lili__roze_",
 
     // idle
     "popsytopsy",
@@ -229,6 +227,7 @@ let cb0Primary = [
     "bitehoneyice",
 
     // slutty appeal, 0-2
+    "nikkicchu", // "mynameisnikki_", // "mynameisnikki",
     "ewagreen",
 
     // getting to know, 0-4
