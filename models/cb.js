@@ -121,7 +121,8 @@ let cbMorningShift = [
 let fn__cbMorningShift = async () => { cbMorningShift.forEach(m => addModel(m, 35)); }
 
 let cbNightShift = [
-    // "breeding_material"
+    // "breeding_material",
+    "darlingdarinka"
 ];
 let fn__cbNightShift = async () => { cbNightShift.forEach(m => addModel(m, 35)); }
 
@@ -143,8 +144,6 @@ let cb0Primary = [
     // couples, 0-1
     "milly____",
     "alissgrey",
-
-    "nikkicchu", // "mynameisnikki_", // "mynameisnikki",
 
     // idle
     "popsytopsy",
@@ -170,7 +169,6 @@ let cb0Primary = [
 
     // getting to know, 0-2
     "rosa_burgess",
-    "darlingdarinka",
     "miafosterx",
 
     "cute_shine",
