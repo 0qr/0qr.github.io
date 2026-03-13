@@ -171,7 +171,6 @@ let cb0Primary = [
     // getting to know, 0-2
     "rosa_burgess",
     "miafosterx",
-    "aviellaa",
 
     "cute_shine",
     "naive_love",
@@ -209,6 +208,7 @@ let cb0Primary = [
     "little_style",
     "mary_meys",
     "lisa_mccoy",
+    "feel_me_00",
 
     "unnabella",
     "bestzoeyever",
@@ -229,15 +229,15 @@ let cb0Primary = [
     "hot_ho",
     "masqueradeporn",
 
-    // strictly eye candy, 0-4
-    "bitehoneyice",
-
     // slutty appeal, 0-2
-    "nikkicchu", // "mynameisnikki_", // "mynameisnikki",
     "ewagreen",
 
     // getting to know, 0-4
-    "feel_me_00"
+
+    // strictly eye candy, 0-4
+    "nikkicchu", // "mynameisnikki_", // "mynameisnikki",
+    "bitehoneyice",
+    "aviellaa"
 ];
 
 let fn__cb0Primary = async () => { cb0Primary.forEach(m => addModel(m, 40)); cbLevelNext++; }
