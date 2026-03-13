@@ -226,7 +226,6 @@ let cb0Primary = [
     "hannahlusttt",
     "hot_ho",
     "masqueradeporn",
-    "_encisseria_",
 
     // strictly eye candy, 0-4
     "bitehoneyice",
@@ -267,6 +266,13 @@ let cb1Primary = [
     "evangel111",
     "anastasia881",
     "college_girl_",
+
+    // couples, 1-1
+    "_encisseria_",
+    "_fieryflash_",
+    "say_and_kiss",
+    "cream_fucks",
+    "hiddendesire6",
 
     "kseha_cute",
     "plastic_beach",
@@ -311,12 +317,6 @@ let cb1Primary = [
     "emilytrays",
     "_starshine",
     "rinacain",
-
-    // couples 1-1
-    "_fieryflash_",
-    "say_and_kiss",
-    "cream_fucks",
-    "hiddendesire6",
 
     // strictly eye candy, 1-1
     "dollymelissa",
