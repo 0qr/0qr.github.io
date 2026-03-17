@@ -170,7 +170,6 @@ let cb0Primary = [
 
     // getting to know, 0-2
     "rosa_burgess",
-    "miafosterx",
 
     "cute_shine",
     "naive_love",
@@ -304,6 +303,7 @@ let cb1Primary = [
     "dearly_emily", // 🏓
     "tonimua",
     "mia_milana",
+    "miafosterx",
 
     // studio 1-1
     "mickeydior",
