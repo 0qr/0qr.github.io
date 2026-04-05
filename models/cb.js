@@ -223,7 +223,6 @@ let cb0Primary = [
     "smurf19",
     "mist_mia",
     "charming_angel_", // "mia_riley_online"
-    "_moonlit_melody_",
 
     // couples, 0-3
     "viktoranmary",
@@ -306,6 +305,7 @@ let cb1Primary = [
     "pazrapacki",
     "sofiasimons",
     "ellieluvs",
+    "_moonlit_melody_",
 
     "corni__",
     "dearly_emily", // 🏓
