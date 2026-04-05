@@ -6,7 +6,7 @@ let cbPrimary = [
     "blair_foxxxy",
 
     // strictly eye candy
-    "angel_isiah", // "_isiah", // "isia_slay",
+    "angel_isia", // "_isiah", // "isia_slay",
 
     "502_error", // rosykindred, rosaliekin
 
