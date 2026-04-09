@@ -56,8 +56,6 @@ let cbSecondary = [
     "dollyemy", // 🏓🏓
     "angel_in_tibet",
 
-    "sunny_rina", // "lexi_ridss_", // 🇺🇦
-
     // strictly eye candy 2
     "mia_dynasty", // "mia_elfie",
     "sweet_tinker_bell",
@@ -73,7 +71,6 @@ let cbSecondary = [
     "polynessia", // my_lina
     "inkanuko",
     "anna_bri",
-    "ksensual",
 
     // couples 1
     "minions_",
@@ -81,11 +78,12 @@ let cbSecondary = [
     "babe_bucks",
     "hit_girl_",
 
-    "neondemon_",
-    "lastdawn", // 🏓🏓
-
     "lili__roze_",
     "ink_soul",
+
+    "neondemon_",
+    "lastdawn", // 🏓🏓
+    "sunny_rina", // "lexi_ridss_", // 🇺🇦
 
     // couples 2
     "playwithmil",
@@ -109,7 +107,8 @@ let cbSecondary = [
     "kristin_mordor",
     "jilly_wolly1",
     "sweetsnejana",
-    "saimashine" // 🏓🏓🏓
+    "saimashine", // 🏓🏓🏓
+    "ksensual"
 ];
 
 let cbLevelNext = 0;
