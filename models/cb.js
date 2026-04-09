@@ -40,7 +40,6 @@ let cbSecondary = [
     "aurora_the_ballerina", // 🏓
     "miss_opss", // 🏓🏓
     "_taylor_swift", // 🏓
-    "jilly_wolly1",
     "agata_cristy", // 🏓
 
     "yournaughtymiss",
@@ -49,7 +48,6 @@ let cbSecondary = [
     "bigorgasm4us", // 🏓
     "wellicaren", // too much faking
 
-    "sunny_rina", // "lexi_ridss_", // 🇺🇦
     "marylanex", // 🇺🇦
     "misstics_", // 🇺🇦
 
@@ -57,6 +55,8 @@ let cbSecondary = [
     "pornostorys",
     "dollyemy", // 🏓🏓
     "angel_in_tibet",
+
+    "sunny_rina", // "lexi_ridss_", // 🇺🇦
 
     // strictly eye candy 2
     "mia_dynasty", // "mia_elfie",
@@ -107,6 +107,7 @@ let cbSecondary = [
     "feelmemore",
     "hayley__lee",
     "kristin_mordor",
+    "jilly_wolly1",
     "sweetsnejana",
     "saimashine" // 🏓🏓🏓
 ];
