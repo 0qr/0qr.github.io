@@ -239,7 +239,6 @@ let cb0Primary = [
     // strictly eye candy, 0-4
     "cindy_luv",
     "nikkicchu", // "mynameisnikki_", // "mynameisnikki",
-    "fideliastagnitto",
     "bitehoneyice",
     "aviellaa"
 ];
@@ -276,6 +275,7 @@ let cb1Primary = [
     "college_girl_",
     "lisa_mccoy",
     "yamaguchi_",
+    "fideliastagnitto",
 
     // couples, 1-1
     "_encisseria_",
