@@ -213,7 +213,6 @@ let cb0Primary = [
     "veliasai",
     "eva_mp3",
     "jelli_jennifer",
-    "takanasin",
     "oxxxy__",
 
     "unnabella",
@@ -226,6 +225,7 @@ let cb0Primary = [
     "smurf19",
     "mist_mia",
     "charming_angel_", // "mia_riley_online"
+    "takanasin",
 
     // couples, 0-3
     "viktoranmary",
