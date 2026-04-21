@@ -117,7 +117,7 @@ let fn__cbPrimary = async () => { cbPrimary.forEach(m => addModel(m, 23)); }
 let fn__cbSecondary = async () => { cbSecondary.forEach(m => addModel(m, 30)); }
 
 let cbMorningShift = [
-    // "queen_kitty18"
+    "queen_kitty18"
 ];
 let fn__cbMorningShift = async () => { cbMorningShift.forEach(m => addModel(m, 35)); }
 
