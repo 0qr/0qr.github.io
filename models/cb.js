@@ -213,6 +213,7 @@ let cb0Primary = [
     "veliasai",
     "eva_mp3",
     "jelli_jennifer",
+    "takanasin",
     "oxxxy__",
 
     "unnabella",
