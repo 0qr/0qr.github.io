@@ -249,8 +249,7 @@ let cb0Primary = [
 let fn__cb0Primary = async () => { cb0Primary.forEach(m => addModel(m, 40)); cbLevelNext++; }
 
 let cb0Misc = [
-    //"queen_kitty18",
-    "adele_kawaii"
+    "queen_kitty18"
 ];
 let fn__cb0Misc = async () => { cb0Misc.forEach(m => addModel(m, 50)); }
 
@@ -287,6 +286,7 @@ let cb1Primary = [
     "cream_fucks",
     "hiddendesire6",
     "lettali",
+    "adele_kawaii",
 
     "kseha_cute",
     "plastic_beach",
