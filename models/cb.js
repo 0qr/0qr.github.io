@@ -170,6 +170,9 @@ let cb0Primary = [
     // getting to know, 0-2
     "rosa_burgess",
     "likamatthews",
+    "jelli_jennifer",
+    "eva_mp3",
+    "takanasin",
 
     "cute_shine",
     "naive_love",
@@ -211,8 +214,6 @@ let cb0Primary = [
     "annybastet",
     "angelinamoore281",
     "veliasai",
-    "eva_mp3",
-    "jelli_jennifer",
 
     "unnabella",
     "bestzoeyever",
@@ -224,7 +225,6 @@ let cb0Primary = [
     "smurf19",
     "mist_mia",
     "charming_angel_", // "mia_riley_online"
-    "takanasin",
 
     // couples, 0-3
     "viktoranmary",
