@@ -198,7 +198,6 @@ let cb0Primary = [
     "lovelycaroline_", // 🏓🏓
     "alexiafoxmodel", // 🏓
     "ohbabykelly",
-    "awwrora",
 
     // getting to know, 0-3
     "melissalemi",
@@ -266,6 +265,7 @@ let cb1Primary = [
     "_june",
     "victoriahouston",
     "goodg_oddamn",
+    "awwrora",
 
     "bell_kim",
     "kity_paw",
