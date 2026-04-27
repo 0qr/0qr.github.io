@@ -241,7 +241,11 @@ let cb0Primary = [
     "cindy_luv",
     "nikkicchu", // "mynameisnikki_", // "mynameisnikki",
     "bitehoneyice",
-    "aviellaa"
+    "aviellaa",
+    
+    // getting to know, 0-5
+    "monika_reed1",
+    "veneradi615"
 ];
 
 let fn__cb0Primary = async () => { cb0Primary.forEach(m => addModel(m, 40)); cbLevelNext++; }
