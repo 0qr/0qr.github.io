@@ -231,6 +231,7 @@ let cb0Primary = [
     "hannahlusttt",
     "hot_ho",
     "masqueradeporn",
+    "cream_fucks",
 
     // slutty appeal, 0-2
     "ewagreen",
