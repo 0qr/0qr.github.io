@@ -214,7 +214,6 @@ let cb0Primary = [
     "veliasai",
     "dewdropdoll",
 
-    "unnabella",
     "bestzoeyever",
     "pathos_of_things", // "neko_kimiko",
 
@@ -227,7 +226,6 @@ let cb0Primary = [
 
     // couples, 0-3
     "familysexy34",
-    "marylou2000",
     "viktoranmary",
     "hannahlusttt",
     "hot_ho",
@@ -238,6 +236,7 @@ let cb0Primary = [
 
     // getting to know, 0-4
     "leiavelvet",
+    "linalive2005",
 
     // strictly eye candy, 0-4
     "cindy_luv",
@@ -246,7 +245,6 @@ let cb0Primary = [
     "aviellaa",
     "miolia",
     "ella_lee15",
-    "linalive2005",
 
     // getting to know, 0-5
     "bella_hayes",
@@ -274,6 +272,7 @@ let cb1Primary = [
     "mia_gothh",
     "_june",
     "victoriahouston",
+    "unnabella",
     "goodg_oddamn",
     "awwrora",
     "veneradi615",
@@ -291,6 +290,7 @@ let cb1Primary = [
     "mika_reid",
 
     // couples, 1-1
+    "marylou2000",
     "_encisseria_",
     "_fieryflash_",
     "say_and_kiss",
