@@ -243,7 +243,6 @@ let cb0Primary = [
     "nikkicchu", // "mynameisnikki_", // "mynameisnikki",
     "bitehoneyice",
     "aviellaa",
-    "miolia",
     "ella_lee15",
 
     // getting to know, 0-5
@@ -276,6 +275,7 @@ let cb1Primary = [
     "goodg_oddamn",
     "awwrora",
     "veneradi615",
+    "miolia",
 
     "bell_kim",
     "kity_paw",
