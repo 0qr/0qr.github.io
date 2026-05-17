@@ -174,7 +174,6 @@ let cb0Primary = [
     "jelli_jennifer",
     "eva_mp3",
     "takanasin",
-    "zirael_swan",
 
     "cute_shine",
     "naive_love",
@@ -279,6 +278,7 @@ let cb1Primary = [
     "awwrora",
     "veneradi615",
     "miolia",
+    "zirael_swan",
 
     "bell_kim",
     "kity_paw",
