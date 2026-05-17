@@ -174,6 +174,7 @@ let cb0Primary = [
     "jelli_jennifer",
     "eva_mp3",
     "takanasin",
+    "zirael_swan",
 
     "cute_shine",
     "naive_love",
