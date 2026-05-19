@@ -251,7 +251,6 @@ let cb0Primary = [
     "_2strangers",
 
     // getting to know, 0-5
-    "linalive2005",
     "fizana"
 ];
 
@@ -281,6 +280,7 @@ let cb1Primary = [
     "veneradi615",
     "miolia",
     "zirael_swan",
+    "linalive2005",
 
     "bell_kim",
     "kity_paw",
