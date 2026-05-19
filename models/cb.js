@@ -237,7 +237,8 @@ let cb0Primary = [
 
     // getting to know, 0-4
     "leiavelvet",
-    "linalive2005",
+    "bella_hayes",
+    "monika_reed1",
 
     // strictly eye candy, 0-4
     "cindy_luv",
@@ -249,8 +250,7 @@ let cb0Primary = [
     "_2strangers",
 
     // getting to know, 0-5
-    "bella_hayes",
-    "monika_reed1",
+    "linalive2005",
     "fizana"
 ];
 
