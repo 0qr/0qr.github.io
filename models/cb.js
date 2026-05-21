@@ -155,7 +155,7 @@ let cb0Primary = [
         // "frauchocolate", // 🏓🏓🏓 (face slapping on request?)
 
     // getting to know, 0-1
-    "onlynora",
+    "skyemaeee",
 
     // strictly eye candy, 0-1
     "bellean_blare",
@@ -174,6 +174,7 @@ let cb0Primary = [
     "jelli_jennifer",
     "eva_mp3",
     "takanasin",
+    "onlynora",
 
     "cute_shine",
     "naive_love",
