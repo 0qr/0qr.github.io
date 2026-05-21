@@ -93,7 +93,6 @@ let cbSecondary = [
     "milla_bella",
     "innocentchurchgirl",
     "cutieeeeva",
-    "skyemaeee",
 
     // strictly eye candy, 4
     "weisssy",
@@ -156,6 +155,7 @@ let cb0Primary = [
         // "frauchocolate", // 🏓🏓🏓 (face slapping on request?)
 
     // getting to know, 0-1
+    "skyemaeee",
 
     // strictly eye candy, 0-1
     "bellean_blare",
