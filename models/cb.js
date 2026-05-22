@@ -246,7 +246,6 @@ let cb0Primary = [
     // strictly eye candy, 0-4
     "cindy_luv",
     "nikkicchu", // "mynameisnikki_", // "mynameisnikki",
-    "bitehoneyice",
     "aviellaa",
     "ella_lee15",
     "kikistacy", // "keeleyfarro", // 🏓
