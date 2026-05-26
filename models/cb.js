@@ -173,7 +173,6 @@ let cb0Primary = [
     "jelli_jennifer",
     "eva_mp3",
     "takanasin",
-    "onlynora",
 
     "cute_shine",
     "naive_love",
@@ -205,8 +204,8 @@ let cb0Primary = [
     "friend_foryou",
     "mollydo11",
     "lanamaex",
-    "little_style",
     "mary_meys",
+    "little_style",
     "feel_me_00",
     "annybastet",
     "angelinamoore281",
@@ -215,6 +214,7 @@ let cb0Primary = [
     "mozaly",
     "skyemaeee",
     "merryl_clark",
+    "onlynora",
 
     "bestzoeyever",
     "pathos_of_things", // "neko_kimiko",
