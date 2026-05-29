@@ -249,8 +249,6 @@ let cb0Primary = [
     "aviellaa",
     "ella_lee15",
     "kikistacy", // "keeleyfarro", // 🏓
-    "katy_ethereal",
-    "_2strangers",
 
     // getting to know, 0-5
     "fizana"
@@ -297,6 +295,8 @@ let cb1Primary = [
     "fideliastagnitto",
     "mika_reid",
     "mozaly",
+    "katy_ethereal",
+    "_2strangers",
 
     // couples, 1-1
     "marylou2000",
