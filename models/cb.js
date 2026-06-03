@@ -247,7 +247,6 @@ let cb0Primary = [
     "nikkicchu", // "mynameisnikki_", // "mynameisnikki",
     "aviellaa",
     "ella_lee15",
-    "kikistacy", // "keeleyfarro", // 🏓
 
     // getting to know, 0-5
     "fizana"
@@ -338,6 +337,7 @@ let cb1Primary = [
 
     // studio 1-1
     "mickeydior",
+    "kikistacy", // "keeleyfarro", // 🏓
 
     // getting to know 1-2
     "princessjasmine_18",
