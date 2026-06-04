@@ -9,10 +9,10 @@ let cbPrimary = [
     "angel_isia", // "_isiah", // "isia_slay",
 
     "502_error", // rosykindred, rosaliekin
+    "alis_molli", // 🇺🇦
 
     "sweetkira555",
     "fflloowweerr",
-    "alis_molli", // 🇺🇦
 
     // idle, 1
     "anna___hayley",
