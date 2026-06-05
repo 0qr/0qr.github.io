@@ -23,6 +23,7 @@ let cbPrimary = [
     "lola_bunny94",
     "aurorashiine", // 🏓
 
+    "freyaeva", // 🇷🇴
     "bustykatia" // 🇷🇴
 ];
 let cbSecondary = [
@@ -130,7 +131,6 @@ fn__cbPrimary();
 fn__cbSecondary();
 
 let cb0Primary = [
-    "freyaeva", // 🇷🇴
     "xxlika",
 
     "chloe__rose_", // "yamaguchi_",
