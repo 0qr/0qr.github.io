@@ -301,7 +301,7 @@ let cb1Primary = [
     "katy_ethereal",
     "_2strangers",
     "dewdropdoll",
-    "fizana"
+    "fizana",
 
     // couples, 1-1
     "marylou2000",
