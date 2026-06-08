@@ -55,6 +55,7 @@ let cbSecondary = [
     "nikkibloom_xoxo", // nikkibloomxoxo,
     "pornostorys",
     "dollyemy", // 🏓🏓
+    "likamatthews",
     "angel_in_tibet",
 
     // strictly eye candy 2
@@ -169,7 +170,6 @@ let cb0Primary = [
 
     // getting to know, 0-2
     "rosa_burgess",
-    "likamatthews",
     "maribett",
     "jelli_jennifer",
     "eva_mp3",
