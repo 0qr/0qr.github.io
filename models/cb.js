@@ -82,10 +82,6 @@ let cbSecondary = [
     "lili__roze_",
     "ink_soul",
 
-    "neondemon_",
-    "lastdawn", // 🏓🏓
-    "sunny_rina", // "lexi_ridss_", // 🇺🇦
-
     // couples 2
     "playwithmil",
     "catanddickxxx",
@@ -145,6 +141,11 @@ let cb0Primary = [
     "milly____",
     "alissgrey",
 
+    "katana_white", // "mirai_meow",
+    "neondemon_",
+    "lastdawn", // 🏓🏓
+    "sunny_rina", // "lexi_ridss_", // 🇺🇦
+
     // idle
     "popsytopsy",
     "amazon_girl",
@@ -184,7 +185,6 @@ let cb0Primary = [
     "allfine_", // "sweetgirlandbigcock",
     "vilanelle_1",
     "x_lina",
-    "katana_white", // "mirai_meow",
 
     "wynol",
     "eva_doll_4u", // "elizabad",
