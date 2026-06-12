@@ -71,7 +71,6 @@ let cbSecondary = [
 
     // strictly eye candy, 23
     "polynessia", // my_lina
-    "inkanuko",
     "anna_bri",
 
     // couples 1
@@ -162,6 +161,7 @@ let cb0Primary = [
     "gina_vicious",
     "valerieh",
     "star_gazing",
+    "inkanuko",
 
     // strictly eye candy, 0-2
 
