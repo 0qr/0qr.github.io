@@ -212,7 +212,6 @@ let cb0Primary = [
     "veliasai",
     "mika_reid",
     "skyemaeee",
-    "merryl_clark",
     "meower_xxx",
 
     "bestzoeyever",
@@ -273,6 +272,7 @@ let cb1Primary = [
     "breeding_material",
     "angels_kiss",
     "onlynora",
+    "merryl_clark",
 
     "mia_gothh",
     "_june",
