@@ -243,7 +243,6 @@ let cb0Primary = [
     "mariameella",
     "e_vvv_a", // 🏓
     "staceyblaine",
-    "kimberllywilson",
 
     // strictly eye candy, 0-4
     "cindy_luv",
@@ -306,6 +305,7 @@ let cb1Primary = [
     "_2strangers",
     "dewdropdoll",
     "fizana",
+    "kimberllywilson",
 
     // couples, 1-1
     "marylou2000",
