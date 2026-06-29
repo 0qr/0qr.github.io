@@ -107,7 +107,17 @@ function turnOff(channelBox) {
 }
 
 function isOfflineImage(imgSize) {
-    return (imgSize == 0 || imgSize == 4456 || imgSize == 7442 || imgSize == 21971 || imgSize == 4824 || imgSize == 6778 || imgSize == 6734 || imgSize == 9505);
+	return (
+	    imgSize == 0 
+	    || imgSize == 4456 
+	    || imgSize == 7442 
+	    || imgSize == 21971 
+	    || imgSize == 4824 
+	    || imgSize == 6778 
+	    || imgSize == 6734 
+	    || imgSize == 9505 
+	    || imgSize == 3189
+	);
 }
 
 function addModel(modelName, priority) {
