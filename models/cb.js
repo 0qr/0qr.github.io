@@ -170,11 +170,12 @@ let cb0Primary = [
     "agent_blonde",
 
     // getting to know, 0-2
+    "little_style",
     "rosa_burgess",
-    "maribett",
     "jelli_jennifer",
     "eva_mp3",
     "takanasin",
+    "maribett",
 
     "cute_shine",
     "naive_love",
@@ -191,13 +192,13 @@ let cb0Primary = [
     "natalie_x",
     "kathariine", // 🇺🇦 // 🏓
     "alisagoddie19",
-    "mary_delray",
     "emmanyxxx", // "logan_emma1",
 
     "ingergirl",
     "diroill",
     "lovelycaroline_", // 🏓🏓
     "alexiafoxmodel", // 🏓
+    "mary_delray",
 
     // getting to know, 0-3
     "melissalemi",
@@ -205,7 +206,6 @@ let cb0Primary = [
     "mollydo11",
     "lanamaex",
     "mary_meys",
-    "little_style",
     "feel_me_00",
     "annybastet",
     "angelinamoore281",
