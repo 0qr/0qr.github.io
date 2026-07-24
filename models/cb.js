@@ -181,7 +181,6 @@ let cb0Primary = [
     "naive_love",
 
     // couples, 0-2
-    "_encisseria_",
 
     // slutty appeal, 0-1
     "allfine_", // "sweetgirlandbigcock",
@@ -227,6 +226,7 @@ let cb0Primary = [
     "charming_angel_", // "mia_riley_online"
 
     // couples, 0-3
+    "_encisseria_",
     "familysexy34",
     "viktoranmary",
     "hannahlusttt",
