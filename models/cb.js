@@ -38,10 +38,11 @@ let cbSecondary = [
 
     "rinassecret", // "little_vee",
 
-    "aurora_the_ballerina", // 🏓
-    "miss_opss", // 🏓🏓
-    "_taylor_swift", // 🏓
+    "polynessia", // my_lina
     "agata_cristy", // 🏓
+    "miss_opss", // 🏓🏓
+    "aurora_the_ballerina", // 🏓
+    "_taylor_swift", // 🏓
 
     "yournaughtymiss",
     "evelissa",
@@ -52,32 +53,31 @@ let cbSecondary = [
     "marylanex", // 🇺🇦
     "misstics_", // 🇺🇦
 
-    "nikkibloom_xoxo", // nikkibloomxoxo,
-    "pornostorys",
-    "dollyemy", // 🏓🏓
-    "likamatthews",
-    "angel_in_tibet",
-
     // strictly eye candy 2
     "mia_dynasty", // "mia_elfie",
     "sweet_tinker_bell",
     "catherenee",
     "xxx_leila", // 🏓
     "shinyways", // 🏓🏓
+    "hit_girl_",
+
+    "nikkibloom_xoxo", // nikkibloomxoxo,
+    "pornostorys",
+    "dollyemy", // 🏓🏓
+    "likamatthews",
+    "angel_in_tibet",
 
     // getting to know
     "melani_lesss", // 🏓
     "taste_for_love", // "emma_lov2",
 
     // strictly eye candy, 23
-    "polynessia", // my_lina
     "anna_bri",
 
     // couples 1
     "minions_",
 
     "babe_bucks",
-    "hit_girl_",
 
     "lili__roze_",
     "ink_soul",
