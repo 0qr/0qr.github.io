@@ -181,6 +181,7 @@ let cb0Primary = [
     "naive_love",
 
     // couples, 0-2
+    "tassiarauj",
 
     // slutty appeal, 0-1
     "allfine_", // "sweetgirlandbigcock",
