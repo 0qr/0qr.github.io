@@ -111,6 +111,7 @@ function isOfflineImage(imgSize) {
 	    || imgSize == 6734 
 	    || imgSize == 9505 
 	    || imgSize == 3189
+	    || imgSize == 4411
 	);
 }
 
