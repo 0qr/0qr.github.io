@@ -23,7 +23,7 @@ let cbPrimary = [
     "lola_bunny94",
     "aurorashiine", // 🏓
 
-    // problematic 0
+    // problematic, 0
     "bustykatia" // 🇷🇴
 ];
 let cbSecondary = [
@@ -71,10 +71,7 @@ let cbSecondary = [
     "melani_lesss", // 🏓
     "taste_for_love", // "emma_lov2",
 
-    // strictly eye candy, 23
-    "anna_bri",
-
-    // couples 1
+    // couples, 1
     "minions_",
 
     "babe_bucks",
@@ -82,7 +79,7 @@ let cbSecondary = [
     "lili__roze_",
     "ink_soul",
 
-    // couples 2
+    // couples, 2
     "playwithmil",
     "catanddickxxx",
     
@@ -105,6 +102,7 @@ let cbSecondary = [
     "feelmemore",
     "hayley__lee",
     "kristin_mordor",
+    "anna_bri",
     "jilly_wolly1",
     "sweetsnejana",
     "saimashine", // 🏓🏓🏓
