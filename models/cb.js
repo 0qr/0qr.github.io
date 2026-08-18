@@ -23,7 +23,7 @@ let cbPrimary = [
     "lola_bunny94",
     "aurorashiine", // 🏓
 
-    "freyaeva", // 🇷🇴
+    // problematic 0
     "bustykatia" // 🇷🇴
 ];
 let cbSecondary = [
@@ -85,6 +85,9 @@ let cbSecondary = [
     // couples 2
     "playwithmil",
     "catanddickxxx",
+    
+    // problematic 1
+    "freyaeva", // 🇷🇴
 
     // getting to know, 2
     "milla_bella",
