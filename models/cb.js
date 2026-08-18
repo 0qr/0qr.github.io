@@ -78,11 +78,16 @@ let cbSecondary = [
 
     "lili__roze_",
     "ink_soul",
+    "little_style",
 
     // couples, 2
     "playwithmil",
     "catanddickxxx",
-    
+
+    // couples, 0-1
+    "milly____",
+    "alissgrey",
+
     // problematic 1
     "freyaeva", // 🇷🇴
 
@@ -138,10 +143,6 @@ let cb0Primary = [
     "vikinamnu",
     "lili__roze_",
 
-    // couples, 0-1
-    "milly____",
-    "alissgrey",
-
     "katana_white", // "mirai_meow",
     "neondemon_",
     "lastdawn", // 🏓🏓
@@ -171,7 +172,6 @@ let cb0Primary = [
     "agent_blonde",
 
     // getting to know, 0-2
-    "little_style",
     "rosa_burgess",
     "jelli_jennifer",
     "eva_mp3",
