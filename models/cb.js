@@ -1,6 +1,6 @@
 let cbPrimary = [
     "_milkyway",
-    "haisley_dream1", // 🇺🇦 // "hayle_green", "xlorraine", 
+    "xsweety1", // 🇺🇦 // "haisley_dream1", // "hayle_green", "xlorraine", 
     "alice_kosmos",
 
     "blair_foxxxy",
