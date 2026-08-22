@@ -172,13 +172,13 @@ let cb0Primary = [
     "agent_blonde",
 
     // getting to know, 0-2
+    "friend_foryou",
     "rosa_burgess",
     "jelli_jennifer",
     "eva_mp3",
     "takanasin",
     "maribett",
     "valenora1",
-    "christinasage",
     "karmafoxx",
     "milinamarvelous",
 
@@ -208,7 +208,6 @@ let cb0Primary = [
 
     // getting to know, 0-3
     "melissalemi",
-    "friend_foryou",
     "mollydo11",
     "lanamaex",
     "mary_meys",
@@ -221,6 +220,7 @@ let cb0Primary = [
     "meower_xxx",
     "valexielux",
     "aryanoire",
+    "christinasage",
 
     "bestzoeyever",
     "pathos_of_things", // "neko_kimiko",
