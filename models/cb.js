@@ -232,7 +232,6 @@ let cb0Primary = [
     "smurf19",
     "mist_mia",
     "charming_angel_", // "mia_riley_online"
-    "kity_paw",
 
     // couples, 0-3
     "_encisseria_",
