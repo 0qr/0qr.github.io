@@ -256,10 +256,6 @@ let cb0Primary = [
     "nikkicchu", // "mynameisnikki_", // "mynameisnikki",
     "aviellaa",
     "thedadcamp"
-
-    // couples, 0-4
-
-    // getting to know, 0-5
 ];
 
 let fn__cb0Primary = async () => { cb0Primary.forEach(m => addModel(m, 40)); cbLevelNext++; }
@@ -328,7 +324,6 @@ let cb1Primary = [
     "_encisseria_",
     "_fieryflash_",
     "say_and_kiss",
-    "cream_fucks",
 
     "hiddendesire6",
     "lettali",
