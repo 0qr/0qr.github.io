@@ -219,7 +219,6 @@ let cb0Primary = [
     "veliasai",
     "mika_reid",
     "skyemaeee",
-    "meower_xxx",
     "valexielux",
     "aryanoire",
 
@@ -256,10 +255,9 @@ let cb0Primary = [
     "cindy_luv",
     "nikkicchu", // "mynameisnikki_", // "mynameisnikki",
     "aviellaa",
-    "thedadcamp",
+    "thedadcamp"
 
     // couples, 0-4
-    "vundersex"
 
     // getting to know, 0-5
 ];
@@ -287,8 +285,10 @@ let cb1Primary = [
     "merryl_clark",
     "staceyblaine",
     "dakota_blare",
+
     "ukki_",
     "christinasage",
+    "meower_xxx",
 
     "ohbabykelly",
     "_june",
@@ -323,11 +323,13 @@ let cb1Primary = [
     "dallass_and_vegas",
 
     // couples, 1-1
+    "vundersex"
     "marylou2000",
     "_encisseria_",
     "_fieryflash_",
     "say_and_kiss",
     "cream_fucks",
+
     "hiddendesire6",
     "lettali",
     "adele_kawaii",
