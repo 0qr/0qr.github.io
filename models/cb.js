@@ -319,11 +319,11 @@ let cb1Primary = [
     "dallass_and_vegas",
 
     // couples, 1-1
-    "vundersex"
     "marylou2000",
     "_encisseria_",
     "_fieryflash_",
     "say_and_kiss",
+    "vundersex",
 
     "hiddendesire6",
     "lettali",
