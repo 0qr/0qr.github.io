@@ -173,7 +173,7 @@ let cb0Primary = [
 
     // getting to know, 0-2
     "friend_foryou",
-    "dreamana",
+    "dreamana", // 🇺🇦
     "sugarpoppyxo",
     "rosa_burgess",
     "jelli_jennifer",
