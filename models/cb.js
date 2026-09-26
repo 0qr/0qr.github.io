@@ -181,11 +181,9 @@ let cb0Primary = [
     "takanasin",
     "maribett",
     "valenora1",
-    "karmafoxx",
     "milinamarvelous",
     "mollybabyx",
     "miss_lenorman",
-    "lunainnk", // 🇺🇦
 
     "cute_shine",
     "naive_love",
@@ -270,6 +268,8 @@ let fn__cb0Misc = async () => { cb0Misc.forEach(m => addModel(m, 50)); }
 
 let cb1Primary = [
     "e_vvv_a", // 🏓
+    "karmafoxx",
+    "lunainnk", // 🇺🇦
 
     "luckysexydoll",
     "darlingdarinka",
