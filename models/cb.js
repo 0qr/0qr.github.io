@@ -158,7 +158,6 @@ let cb0Primary = [
         // "frauchocolate", // 🏓🏓🏓 (face slapping on request?)
 
     // getting to know, 0-1
-    "linalive2005",
     "friend_foryou",
 
     // strictly eye candy, 0-1
@@ -253,6 +252,7 @@ let cb0Primary = [
     "miss_lenorman",
     "honeyyy95",
     "_lullaby_",
+    "linalive2005",
 
     // strictly eye candy, 0-4
     "cindy_luv",
