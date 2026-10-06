@@ -159,6 +159,7 @@ let cb0Primary = [
 
     // getting to know, 0-1
     "friend_foryou",
+    "renatadoyle",
 
     // strictly eye candy, 0-1
     "bellean_blare",
