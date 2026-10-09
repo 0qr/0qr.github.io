@@ -159,7 +159,6 @@ let cb0Primary = [
 
     // getting to know, 0-1
     "friend_foryou",
-    "renatadoyle",
 
     // strictly eye candy, 0-1
     "bellean_blare",
@@ -219,8 +218,6 @@ let cb0Primary = [
     "veliasai",
     "mika_reid",
     "skyemaeee",
-    "valexielux",
-    "aryanoire",
     "christina_hammond",
     "arikajoy",
 
@@ -254,7 +251,7 @@ let cb0Primary = [
     "miss_lenorman",
     "honeyyy95",
     "_lullaby_",
-    "linalive2005",
+    "renatadoyle",
 
     // strictly eye candy, 0-4
     "cindy_luv",
@@ -274,6 +271,8 @@ let cb1Primary = [
     "e_vvv_a", // 🏓
     "karmafoxx",
     "lunainnk", // 🇺🇦
+    "valexielux",
+    "aryanoire",
 
     "luckysexydoll",
     "darlingdarinka",
