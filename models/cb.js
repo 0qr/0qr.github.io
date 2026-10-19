@@ -70,6 +70,7 @@ let cbSecondary = [
     // getting to know
     "melani_lesss", // 🏓
     "taste_for_love", // "emma_lov2",
+    "friend_foryou",
 
     // couples, 1
     "minions_",
@@ -158,7 +159,6 @@ let cb0Primary = [
         // "frauchocolate", // 🏓🏓🏓 (face slapping on request?)
 
     // getting to know, 0-1
-    "friend_foryou",
 
     // strictly eye candy, 0-1
     "bellean_blare",
