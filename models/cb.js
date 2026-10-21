@@ -269,9 +269,6 @@ let cb0Misc = [
 let fn__cb0Misc = async () => { cb0Misc.forEach(m => addModel(m, 50)); }
 
 let cb1Primary = [
-    // strictly eye candy 1-1
-    "emilyhoston",
-
     "e_vvv_a", // 🏓
     "karmafoxx",
     "lunainnk", // 🇺🇦
@@ -280,8 +277,10 @@ let cb1Primary = [
     "veronikaav",
 
     "mia_gothh",
-    "miss_lenorman",
     "honeyyy95",
+
+    // strictly eye candy 1-1
+    "emilyhoston",
 
     "luckysexydoll",
     "darlingdarinka",
@@ -300,6 +299,7 @@ let cb1Primary = [
     "ukki_",
     "christinasage",
     "meower_xxx",
+    "miss_lenorman",
 
     "ohbabykelly",
     "_june",
