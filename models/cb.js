@@ -223,7 +223,6 @@ let cb0Primary = [
     "rubiegoosen",
     "milenazar",
     "dottiebudrovich",
-    "emilyhoston",
     "mai_li",
 
     "bestzoeyever",
@@ -252,9 +251,6 @@ let cb0Primary = [
     "bella_hayes",
     "monika_reed1",
     "mariameella",
-    "mia_gothh",
-    "miss_lenorman",
-    "honeyyy95",
     "_lullaby_",
     "renatadoyle",
 
@@ -273,11 +269,19 @@ let cb0Misc = [
 let fn__cb0Misc = async () => { cb0Misc.forEach(m => addModel(m, 50)); }
 
 let cb1Primary = [
+    // strictly eye candy 1-1
+    "emilyhoston",
+
     "e_vvv_a", // 🏓
     "karmafoxx",
     "lunainnk", // 🇺🇦
     "valexielux",
     "aryanoire",
+    "veronikaav",
+
+    "mia_gothh",
+    "miss_lenorman",
+    "honeyyy95",
 
     "luckysexydoll",
     "darlingdarinka",
@@ -387,10 +391,9 @@ let cb1Primary = [
     "_starshine",
     "rinacain",
 
-    // strictly eye candy, 1-1
+    // strictly eye candy, 1-2
     "dollymelissa",
     "leyla_ly",
-    "veronikaav",
     "jessie98631",
 
     "lunainnk", // 🇺🇦
