@@ -210,6 +210,7 @@ let cb0Primary = [
     "mary_delray",
 
     // getting to know, 0-3
+    "emma_brewn",
     "melissalemi",
     "mollydo11",
     "lanamaex",
