@@ -227,7 +227,7 @@ let cb0Primary = [
     "milenazar",
     "brookebaex",
     "dottiebudrovich",
-    "mai_li",
+    "alitafury",
 
     "bestzoeyever",
     "pathos_of_things", // "neko_kimiko",
@@ -257,6 +257,7 @@ let cb0Primary = [
     "mariameella",
     "_lullaby_",
     "renatadoyle",
+    "mai_li",
 
     // strictly eye candy, 0-4
     "cindy_luv",
