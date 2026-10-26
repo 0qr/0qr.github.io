@@ -236,7 +236,6 @@ let cb0Primary = [
     // strictly eye candy, 0-3
     "babeholly",
     "audreycarvin",
-    "smurf19",
     "mist_mia",
     "charming_angel_", // "mia_riley_online"
 
@@ -259,7 +258,6 @@ let cb0Primary = [
     "_lullaby_",
     "renatadoyle",
     "like_pie",
-    "mai_li",
 
     // strictly eye candy, 0-4
     "cindy_luv",
@@ -282,6 +280,7 @@ let cb1Primary = [
     "valexielux",
     "aryanoire",
     "veronikaav",
+    "smurf19",
 
     "mia_gothh",
     "honeyyy95",
@@ -302,6 +301,7 @@ let cb1Primary = [
     "merryl_clark",
     "staceyblaine",
     "dakota_blare",
+    "mai_li",
 
     "ukki_",
     "christinasage",
