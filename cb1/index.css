@@ -38,7 +38,10 @@
 }
 
 .model {
-    // display: inline;
+    /* display: inline; */
+}
+.model img {
+  vertical-align: bottom;
 }
 
 body {
