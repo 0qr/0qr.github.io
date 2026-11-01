@@ -90,7 +90,8 @@ let cbSecondary = [
     "alissgrey",
 
     // problematic 1
-    "freyaeva", // 🇷🇴
+    "freyaeva", // "evasasha", // 🇷🇴
+    "davycleo",
 
     // getting to know, 2
     "milla_bella",
