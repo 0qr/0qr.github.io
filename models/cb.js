@@ -184,7 +184,6 @@ let cb0Primary = [
     "milinamarvelous",
     "mollybabyx",
     "polly_milles",
-    "lick_it_up_big_boy",
 
     "cute_shine",
     "naive_love",
@@ -229,7 +228,6 @@ let cb0Primary = [
     "dottiebudrovich",
     "alitafury",
     "moonligt_iris",
-    "missima",
 
     "bestzoeyever",
     "pathos_of_things", // "neko_kimiko",
@@ -254,7 +252,6 @@ let cb0Primary = [
 
     // getting to know, 0-4
     "leiavelvet",
-    "bella_hayes",
     "monika_reed1",
     "mariameella",
     "_lullaby_",
@@ -286,6 +283,9 @@ let cb1Primary = [
 
     "mia_gothh",
     "honeyyy95",
+    "bella_hayes",
+    "missima",
+    "lick_it_up_big_boy",
 
     // strictly eye candy 1-1
     "emilyhoston",
