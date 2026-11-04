@@ -1,5 +1,3 @@
-const $$__viewportWidth = window.innerWidth;
-
 class Model {
     constructor(name, priority, scoring, pvt) {
         this.name = name;
@@ -39,6 +37,10 @@ class Pvt {
 const $$__Models = new Map();
 const $$__Params = new URLSearchParams(window.location.search);
 
+const CHANNEL_STATIC_IMG_URL = "https://thumb.live.mmcdn.com/riw/";
+const CHANNEL_ACTIVE_IMG_URL = "https://thumb.live.mmcdn.com/minifwap/";
+const CHANNEL_URL = "https://m.chaturbate.com/";
+
 function channelId(modelName) {
     return "channel$" + modelName;
 }
@@ -48,15 +50,15 @@ function channelImgId(modelName) {
 }
 
 function channelImgUrl(modelName) {
-    return "https://thumb.live.mmcdn.com/riw/" + modelName + ".jpg";
+    return CHANNEL_STATIC_IMG_URL + modelName + ".jpg";
 }
 
 function channelActiveUrl(modelName) {
-    return "https://thumb.live.mmcdn.com/minifwap/" + modelName + ".jpg?f=" + Date.now();
+    return CHANNEL_ACTIVE_IMG_URL + modelName + ".jpg?f=" + Date.now();
 }
 
-function chaturbateUrl(modelName) {
-    return "https://m.chaturbate.com/" + modelName + "/";
+function channelUrl(modelName) {
+    return CHANNEL_URL + modelName + "/";
 }
 
 function createChannelBox(model, priorityOverride) {
@@ -64,6 +66,8 @@ function createChannelBox(model, priorityOverride) {
     channelBox.id = channelId(model.name);
     channelBox.className = "model";
     
+    channelBox.dataset.label = model.name;
+
     let priority;
     if (priorityOverride === undefined) {
         priority = model.priority;
@@ -80,7 +84,7 @@ function createChannelBox(model, priorityOverride) {
 
 function createAnchor(modelName) {
     const anchor = document.createElement('a');
-    anchor.href = chaturbateUrl(modelName);
+    anchor.href = channelUrl(modelName);
     anchor.target = "_blank";
     
     return anchor;
@@ -91,10 +95,6 @@ function createImg(modelName) {
     img.id = channelImgId(modelName);
     img.src = channelActiveUrl(modelName);
     
-    if ($$__viewportWidth > 680 && $$__viewportWidth < 1440) {
-        img.width = ($$__viewportWidth / 2);
-    }
-
     return img;
 }
 
