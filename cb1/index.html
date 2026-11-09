@@ -1,26 +1,34 @@
 <!DOCTYPE html>
 <html lang="en">
-	<head>
-		<title>[cb1]</title>
-		<meta name="viewport" content="width=device-width,height=device-height,initial-scale=1.0"/>
-		<link rel="stylesheet" href="index.css">
-		<link rel="stylesheet" href="switch.css">
-		<link rel="stylesheet" href="throbber.css">
-		<script src="functions.js"></script>
-		<script src="../models/cb.js"></script>
-		<script src="../models/cb0.js"></script>
-		<script src="../models/cb1.js"></script>
-		<script type="text/javascript">
-		    makeAddendums();
-		</script>
-		<script src="render.js" defer></script>
-		<link rel="icon" type="image/png" href="cb-icon.png">
-		<link rel="shortcut icon" type="image/png" href="cb-icon.png">
-	</head>
-	<body>
-		<div id="throbber"><div class="spinner"><div id="bounce1" class="pulsing"></div><div id="bounce2" class="pulsing"></div><div id="bounce3" class="pulsing"></div></div></div>
-		<div id="timestamp"></div>
-		<div id="main">
-		</div>
-	</body>
+    <head>
+        <title>[cb]</title>
+        <meta name="viewport" content="width=device-width,height=device-height,initial-scale=1.0"/>
+        <link rel="stylesheet" href="../cb/index.css">
+        <link rel="stylesheet" href="../cb/throbber.css">
+        <link rel="stylesheet" href="switch.css">
+        <script src="../cb/functions.js"></script>
+        <script src="../models/cb.js"></script>
+        <script src="../models/cb0.js"></script>
+        <script src="../models/cb1.js"></script>
+        <script type="text/javascript">
+            makeAddendums();
+        </script>
+        <script src="../cb/render.js" defer></script>
+        <script src="switch.js" defer></script>
+
+        <!-- set title -->
+        <script>
+          const segments = location.pathname.split("/").filter(Boolean);
+          document.title = segments.at(-2) ?? "";
+        </script>
+
+        <link rel="icon" type="image/png" href="cb-icon.png">
+        <link rel="shortcut icon" type="image/png" href="cb-icon.png">
+    </head>
+    <body>
+        <div id="throbber"><div class="spinner"><div id="bounce1" class="pulsing"></div><div id="bounce2" class="pulsing"></div><div id="bounce3" class="pulsing"></div></div></div>
+        <div id="timestamp"></div>
+        <div id="main">
+        </div>
+    </body>
 </html>
