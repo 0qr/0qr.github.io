@@ -37,6 +37,8 @@ class Pvt {
 const $$__Models = new Map();
 const $$__Params = new URLSearchParams(window.location.search);
 
+const $$__viewportWidth = window.innerWidth;
+
 const CHANNEL_STATIC_IMG_URL = "https://thumb.live.mmcdn.com/riw/";
 const CHANNEL_ACTIVE_IMG_URL = "https://thumb.live.mmcdn.com/minifwap/";
 const CHANNEL_URL = "https://m.chaturbate.com/";
@@ -94,6 +96,8 @@ function createImg(modelName) {
     const img = new Image();
     img.id = channelImgId(modelName);
     img.src = channelActiveUrl(modelName);
+
+    img.width = ($$__viewportWidth / Math.ceil(($$__viewportWidth / 480)));
     
     return img;
 }
