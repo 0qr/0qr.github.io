@@ -31,15 +31,36 @@
 /* Label fade in and out */
 .model.intro-label::after {
     visibility: visible;
-    animation: label-intro 20s linear forwards;
+    animation: label-intro 8.75s linear forwards;
 }
 
 @keyframes label-intro {
     0%, 2% { opacity: 0; }
-    5% { opacity: 1; }
+    10% { opacity: 1; }
     90% { opacity: 1; }
     100% {
         opacity: 0;
         visibility: hidden;
+    }
+}
+
+/* Click/tap label */
+.model.show-info::after {
+    visibility: visible;
+    animation: label-click 8.75s ease forwards;
+}
+
+@keyframes label-click {
+    0% {
+        opacity: 0;
+    }
+    10% {
+        opacity: 1;
+    }
+    85% {
+        opacity: 1;
+    }
+    100% {
+        opacity: 0;
     }
 }
