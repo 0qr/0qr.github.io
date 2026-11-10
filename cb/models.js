@@ -181,9 +181,6 @@ let cb0Primary = [
     "milinamarvelous",
     "mollybabyx",
 
-    "cute_shine",
-    "naive_love",
-
     // couples, 0-2
     "tassiarauj",
 
@@ -204,6 +201,9 @@ let cb0Primary = [
     "lovelycaroline_", // 🏓🏓
     "alexiafoxmodel", // 🏓
     "mary_delray",
+
+    "cute_shine",
+    "naive_love",
 
     // getting to know, 0-3
     "emma_brewn",
