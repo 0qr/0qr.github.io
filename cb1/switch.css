@@ -1,9 +1,9 @@
-/* Positioning context */
+
 .model {
     position: relative;
 }
 
-/* Label appearance */
+/** Base label styling (hidden by default) **/
 .model::after {
     content: attr(data-label);
     position: absolute;
@@ -12,7 +12,7 @@
     z-index: 100;
     pointer-events: none;
 
-    /* Label appearance */
+    /** Label appearance **/
     background: rgba(0, 0, 0, 0.9);
     color: #b0b0b0;
     font-family: -apple-system, BlinkMacSystemFont, sans-serif;
@@ -24,27 +24,35 @@
     border-radius: 4px;
     text-shadow: 0 1px 2px rgba(0, 0, 0, 0.8);
 
+    /** Hidden by default **/
     opacity: 0;
     visibility: hidden;
 }
 
-/* Label fade in and out */
+
+/** Introductory labels **/
 .model.intro-label::after {
     visibility: visible;
-    animation: label-intro 8.75s linear forwards;
+    animation: label-intro 10s linear forwards;
 }
 
 @keyframes label-intro {
-    0%, 2% { opacity: 0; }
-    10% { opacity: 1; }
-    90% { opacity: 1; }
+    0%, 1.25% {
+        opacity: 0;
+    }
+
+    10%, 90% {
+        opacity: 1;
+    }
+
     100% {
         opacity: 0;
         visibility: hidden;
     }
 }
 
-/* Click/tap label */
+
+/** Click/tap labels **/
 .model.show-info::after {
     visibility: visible;
     animation: label-click 8.75s ease forwards;
@@ -54,13 +62,26 @@
     0% {
         opacity: 0;
     }
+
     10% {
         opacity: 1;
     }
+
     85% {
         opacity: 1;
     }
+
     100% {
         opacity: 0;
+    }
+}
+
+
+/** Desktop hover **/
+@media (hover: hover) and (pointer: fine) {
+    .model:hover::after {
+        visibility: visible;
+        opacity: 1;
+        animation: none;
     }
 }
