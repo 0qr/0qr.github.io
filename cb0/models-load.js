@@ -1,4 +1,7 @@
+fn__cbPrimary();
+fn__cbSecondary();
 fn__cb0Primary();
+
 cbLevelNext++;
 
 let currentHours = new Date().getHours();
