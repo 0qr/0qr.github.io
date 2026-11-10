@@ -48,43 +48,39 @@ if (main) {
 
     /** Temporary click/tap labels **/
 
-    let activeModel = null;
-    let hideTimer = null;
-
+    const labelTimers = new WeakMap();
+    
     function showInfo(channel) {
-
-        /** Cancel the previous timer **/
-        if (hideTimer) {
-            clearTimeout(hideTimer);
+    
+        /** Cancel this model's previous timer, if any **/
+        const previousTimer = labelTimers.get(channel);
+    
+        if (previousTimer) {
+            clearTimeout(previousTimer);
         }
-
-        /** Hide the previous label **/
-        if (activeModel) {
-            activeModel.classList.remove('show-info');
-        }
-
+    
         /** Remove introductory animation **/
         channel.classList.remove('intro-label');
-
+    
         /** Remove the existing class to restart the animation **/
         channel.classList.remove('show-info');
-
+    
         /** Force browser to restart the CSS animation **/
         void channel.offsetWidth;
-
-        /** Display the new label **/
+    
+        /** Display the label **/
         channel.classList.add('show-info');
-        activeModel = channel;
-
+    
         /** Remove the label after the animation finishes **/
-        hideTimer = setTimeout(function() {
-
+        const timer = setTimeout(function() {
+    
             channel.classList.remove('show-info');
-
-            activeModel = null;
-            hideTimer = null;
-
+            labelTimers.delete(channel);
+    
         }, 8750);
+    
+        /** Store this model's independent timer **/
+        labelTimers.set(channel, timer);
     }
 
 

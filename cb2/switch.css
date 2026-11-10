@@ -85,3 +85,14 @@
         animation: none;
     }
 }
+
+/** Default cursor before the first click **/
+.model a {
+    cursor: default;
+    -webkit-tap-highlight-color: transparent;
+}
+
+/** Hand cursor after the first click **/
+.model.show-info a {
+    cursor: pointer;
+}
