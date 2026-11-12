@@ -231,20 +231,19 @@ let cb0Primary = [
     "charming_angel_", // "mia_riley_online"
     "slimmaya",
     "song_about_you",
+    "cindy_luv",
+    "nikkicchu", // "mynameisnikki_", // "mynameisnikki",
 
     // couples, 0-3
-    "_encisseria_",
     "familysexy34",
     "viktoranmary",
     "hannahlusttt",
+    "_encisseria_",
     "hot_ho",
     "masqueradeporn",
 
     // slutty appeal, 0-2
     "ewagreen",
-
-    "cute_shine",
-    "naive_love",
 
     // getting to know, 0-4
     "leiavelvet",
@@ -253,9 +252,10 @@ let cb0Primary = [
     "like_pie",
     "sofiarose2",
 
+    "cute_shine",
+    "naive_love",
+
     // strictly eye candy, 0-4
-    "cindy_luv",
-    "nikkicchu", // "mynameisnikki_", // "mynameisnikki",
     "aviellaa",
     "thedadcamp"
 ];
