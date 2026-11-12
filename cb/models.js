@@ -202,9 +202,6 @@ let cb0Primary = [
     "alexiafoxmodel", // 🏓
     "mary_delray",
 
-    "cute_shine",
-    "naive_love",
-
     // getting to know, 0-3
     "emma_brewn",
     "melissalemi",
@@ -245,6 +242,9 @@ let cb0Primary = [
 
     // slutty appeal, 0-2
     "ewagreen",
+
+    "cute_shine",
+    "naive_love",
 
     // getting to know, 0-4
     "leiavelvet",
