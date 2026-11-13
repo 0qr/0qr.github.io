@@ -256,8 +256,7 @@ let cb0Primary = [
     "naive_love",
 
     // strictly eye candy, 0-4
-    "aviellaa",
-    "thedadcamp"
+    "aviellaa"
 ];
 
 let fn__cb0Primary = async () => { cb0Primary.forEach(m => addModel(m, 40)); cbLevelNext++; }
