@@ -202,7 +202,7 @@ let cb0Primary = [
     "mary_delray",
 
     // getting to know, 0-3
-    "emma_brewn",
+    "slimmaya",
     "melissalemi",
     "mollydo11",
     "lanamaex",
@@ -216,6 +216,7 @@ let cb0Primary = [
     "arikajoy",
     "rubiegoosen",
     "milenazar",
+    "emma_brewn",
     "brookebaex",
     "dottiebudrovich",
     "moonligt_iris",
@@ -229,7 +230,6 @@ let cb0Primary = [
     "audreycarvin",
     "mist_mia",
     "charming_angel_", // "mia_riley_online"
-    "slimmaya",
     "song_about_you",
     "cindy_luv",
     "nikkicchu", // "mynameisnikki_", // "mynameisnikki",
