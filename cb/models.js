@@ -213,7 +213,6 @@ let cb0Primary = [
     "mika_reid",
     "skyemaeee",
     "christina_hammond",
-    "arikajoy",
     "rubiegoosen",
     "milenazar",
     "emma_brewn",
@@ -267,7 +266,8 @@ let fn__cb0Misc = async () => { cb0Misc.forEach(m => addModel(m, 50)); }
 let cb1Primary = [
     // hai
     "ingergirl",
-    "naive_love"
+    "naive_love",
+    "arikajoy"
 ];
 
 let cb2Primary = [
