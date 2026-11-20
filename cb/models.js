@@ -182,7 +182,6 @@ let cb0Primary = [
     "mollybabyx",
 
     // couples, 0-2
-    "tassiarauj",
 
     // slutty appeal, 0-1
     "allfine_", // "sweetgirlandbigcock",
@@ -269,7 +268,10 @@ let cb1Primary = [
     "arikajoy",
 
     // getting to know, 1-1
-    "sofiarose2"
+    "sofiarose2",
+
+    // couples, 1-1
+    "tassiarauj"
 ];
 
 let cb2Primary = [
