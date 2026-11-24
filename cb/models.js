@@ -163,6 +163,7 @@ let cb0Primary = [
     "inkanuko",
 
     // strictly eye candy, 0-2
+    "monika_reed1",
 
     // token sieves 💸
     "agent_blonde",
@@ -240,7 +241,6 @@ let cb0Primary = [
 
     // getting to know, 0-4
     "leiavelvet",
-    "monika_reed1",
     "mariameella",
     "like_pie",
 
