@@ -214,7 +214,6 @@ let cb0Primary = [
     "milenazar",
     "brookebaex",
     "dottiebudrovich",
-    "moonligt_iris",
 
     "bestzoeyever",
     "pathos_of_things", // "neko_kimiko",
@@ -265,6 +264,7 @@ let cb1Primary = [
 
     // getting to know, 1-1
     "sofiarose2",
+    "moonligt_iris",
     "emma_brewn",
 
     // couples, 1-1
